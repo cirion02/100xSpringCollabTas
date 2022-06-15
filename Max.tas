@@ -1,1 +1,5 @@
 Read, Menuing\StartFile
+
+Read, Other\prologue,Start
+
+Read, Menuing\LoadBeginnerLobby
