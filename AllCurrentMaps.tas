@@ -1,3 +1,5 @@
+unsafe
+
 Read, Beginner\Maps\Starjump2B
 
 50
@@ -18,17 +20,16 @@ Read, Advanced\Maps\CrumblingCastle3B
 
 50
 
-
-Read, Advanced\Maps\DreamyBluffs1B
+Read, Advanced\Maps\DreamyBluffs1B, 0, 110
 
 50
 
 Read, Advanced\Maps\NorthernLights0B
 
-50
+150
 
 Read, Grandmaster\Maps\KoKoDoKo3B
 
-50
+100
 
 Read, Grandmaster\Maps\TemporalTower2B
