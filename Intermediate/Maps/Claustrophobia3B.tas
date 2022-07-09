@@ -594,17 +594,22 @@ EndRepeat
   22,R,D,G
   10,L,D,G
    1,L,J,G
-  14,L,G
-   2,K,G
-   3,L,K,G
-   3,R,J,G
-   8,R,K,G
+  11,L,G
+   3,R,D,G
+   7,K,G
+   2,R,K,G
+Repeat, 4
+   1,K,G
+   1,R,K,G
+EndRepeat
+   1,R,J,G
    1
-  23,L,D
    5,U,X
-  21,L
-   1,L,J
-  16,L
+   1,L,D,G
+  18,D
+   8,L
+   1,L,K,G
+  20,L
    5,D,X
   13,G
    5,U,X,G
@@ -644,16 +649,16 @@ EndRepeat
    5,R,Z
    1,R,D,J,G
   14,R,D
-  15,D
+  14,D
    5,R,Z
-   1
+   2
 #r4 yellow
   12,R,D
    5,R,J,Z
    1,R,J
   20,L,D
   45,D
-   6,L,J
+   7,L,J
    5,L,X
    1,J
   20,D
@@ -740,7 +745,7 @@ EndRepeat
   40
    6,R,J
    7,R
-#r1 yellow
+#r2 yellow
    4,R
    2,R,D
    1,R,J
@@ -769,10 +774,10 @@ EndRepeat
    2,L,J
    9,L
    5,L,J,Z
-   7,L
+   7
    1,L,J
-  14,R
-   3,L,J
+  14,L
+   1,L,J
   14,L,D
    5,D
    5,R,D,X
@@ -1251,4 +1256,4 @@ EndRepeat
   49,D
    5,L,D,X
  135
-#3:11.471(11263)
+#3:11.267(11251)
