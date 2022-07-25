@@ -2,27 +2,35 @@ unsafe
 
 Read, Beginner\Maps\Starjump2B
 
-50
+150
 
 Read, Beginner\Maps\HeavenlyAltitudes
 
-50
+150
 
-Read, Beginner\Maps\CrystalEnigma3B
+Read, Beginner\Maps\TheSingularity2B
 
-50
+150
 
 Read, Beginner\Maps\TotK2B
 
-50
+150
+
+Read, Beginner\Maps\CrystalEnigma3B
+
+150
+
+Read, Intermediate\Maps\Claustrophobia3B
+
+150
 
 Read, Advanced\Maps\CrumblingCastle3B
 
-50
+150
 
-Read, Advanced\Maps\DreamyBluffs1B, 0, 110
+Read, Advanced\Maps\DreamyBluffs2B
 
-50
+150
 
 Read, Advanced\Maps\NorthernLights0B
 
@@ -30,6 +38,11 @@ Read, Advanced\Maps\NorthernLights0B
 
 Read, Grandmaster\Maps\KoKoDoKo3B
 
-100
+150
 
 Read, Grandmaster\Maps\TemporalTower2B
+
+150
+
+Read, Grandmaster\Maps\UltraDifficult3B
+
