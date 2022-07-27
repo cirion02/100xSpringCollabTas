@@ -1,5 +1,5 @@
 # made by Jules
-# https://gamebanana.com/mods/150813
+# optimized by Cirion02
 
 console load SpringCollab2020/1-Beginner/Cat_in_Box_01
    1
@@ -15,19 +15,18 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
   14
    1,L,J
   34,L
-Repeat, 23
-   1,L,D
-   1
-   1,R,D
-   1
-EndRepeat
-   4,R
-  44,R,J
-   5,U,X
-  46,R
-  20,R,D
-  15,D
-  28,R,D
+  ***
+  40
+  10,J
+  6,X,U,R
+  1,J,L
+  9,D,L
+  20,D,R
+  27,D
+  28,D,R
+  
+  # to here
+   3
    5,R,U,Z
    1
    1,J
