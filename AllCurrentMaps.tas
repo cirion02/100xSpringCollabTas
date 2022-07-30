@@ -1,48 +1,72 @@
-unsafe
+Read, Beginner\Maps\CirqueMaderano3B
 
-Read, Beginner\Maps\Starjump2B
-
-150
-
-Read, Beginner\Maps\HeavenlyAltitudes
-
-150
-
-Read, Beginner\Maps\TheSingularity2B
-
-150
-
-Read, Beginner\Maps\TotK2B
-
-150
+15
 
 Read, Beginner\Maps\CrystalEnigma3B
 
-150
+15
+
+Read, Beginner\Maps\DesoliteSpire3B
+
+15
+
+Read, Beginner\Maps\HeavenlyAltitudes
+
+15
+
+Read, Beginner\Maps\SeekerTemple2B
+
+15
+
+Read, Beginner\Maps\Starjump2B
+
+15
+
+Read, Beginner\Maps\TheSingularity2B
+
+15
+
+Read, Beginner\Maps\TotK2B
+
+15
+
+Read, Intermediate\Maps\OvergrownCity
+
+15
 
 Read, Intermediate\Maps\Claustrophobia3B
 
-150
+15
+
+Read, Intermediate\Maps\AnchientEngine3B
+
+15
+
+Read, Intermediate\Maps\AbandonedAndRuined2B
+
+15
 
 Read, Advanced\Maps\CrumblingCastle3B
 
-150
+15
 
 Read, Advanced\Maps\DreamyBluffs2B
 
-150
+15
 
 Read, Advanced\Maps\NorthernLights0B
 
-150
+15
+
+Set,SuperDashing,false
 
 Read, Grandmaster\Maps\KoKoDoKo3B
 
-150
+15
 
 Read, Grandmaster\Maps\TemporalTower2B
 
-150
+15
 
 Read, Grandmaster\Maps\UltraDifficult3B
 
