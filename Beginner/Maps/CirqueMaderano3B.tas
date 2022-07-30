@@ -19,6 +19,7 @@ console load SpringCollab2020/1-Beginner/Skeleton
    2,R
    5,R,X
   40
+#_01
    1,L,K
   30,L,D
    5,R,U,X
@@ -39,6 +40,7 @@ console load SpringCollab2020/1-Beginner/Skeleton
    5,R,J,Z
    6,R
   40
+#_02
    1,R,J
    2,R
    1,J,G
@@ -64,6 +66,7 @@ console load SpringCollab2020/1-Beginner/Skeleton
    2,R,J
    5,R,D,X
   40
+#_02_Berry
    1
    1,J
   33,D
@@ -88,35 +91,23 @@ Repeat, 12
 EndRepeat
    1,L,D
   98
-   3
+#end cassette fly
+   7,J
+   6,R,J
+  10,K,G
+   6,J,G
+   6,K,G
    5,L,U,X
+  14,R,D
+   7,D
+   7,L,D
   41
-   5,R,J
-   4,D
    5,L,U,X
-   1
+  43
    1,J
-  13,R,D
-   5,R,J,Z
-   7,R
-   1,R,J
-   7,R
-   5,U,X
-   1
-  23,R,K
-   1,R,J
-  37,L,D
-   5,U,X
-  40
-  16,R,D
-   2,R,J
-   6,R
-  12,L
-   5,L,U,X
-   1,J
-  20,L,D
-  16,D
-  11,R
+  56,R,D
+   5,R,U,Z
+  51
    5,R,U,X
    1
    1,J
@@ -125,44 +116,44 @@ EndRepeat
    5,R,U,X
    1
    1,L,J
-  57,L,D
-  34,D
+  30,R,D
+   2,D
+   5,L,X
+   1,J
+  60,D
+  16,R,D
    5,R,U,X
    1
    1,J
-  58,D
+  24,R,D
+  11,D
+   4,L
+   1,L,J
+   4,L
+  34,D
    5,R,X
    1,J
-  20,R,D
-   7,R
-   3
+  20,D
+  12,R
   10,J,G
-   5,L,K
+  10,K,G
+   2,J,G
+  23,R,D
+   5,R,X
+   1,J
+  33,L
+   1,J,G
+   4,D,G
+   4
+   3,L
    5,L,U,X
    1
    1,J
-  30,L
-   9,D
-  10,L
-  10,R,K
-   5,R,U,X
-  12
-   1,J
-  12,L,D
-  13,D
-  30,R,J
-   6,D
-   9,R,J
-  30,L
-   5,J,G
-  10
-  13,L
-   5,U,X
-   1,J
-  14,D
+  15,R,D
+  20,D
    5,R,X
-  10,G
-  12,D
+  74,G
+  11,D
    5,R,U,X
   43
    1,J
@@ -179,100 +170,94 @@ EndRepeat
    5,U,X
   40
   24,L,D
-Repeat, 3
+Repeat, 6
    1,L,D
    1
    1,R,D
    1
 EndRepeat
-   2
    5,R,J,Z
    7,R
    1,J
-  33,L,D
-   5,R,X
-   2,L,J
-   8,L
-   5,R,U,X
+  55
+   5,R,Z
    1
-   1,J
-  16,L,D
-   5,D
-   8,R
-  12,D
-   5,L,X
-   1,J
-  27,D
-   5,R,X
-   4,K,G
-   6,L,J
-  32,L
-  12,R,K
+  10,J,G
+  10,K,G
+  10,J,G
+   3,L,K
+  13,L
+   5,L,U,X
+   1,R,J
+  21,R,D
+   2,R,J
    5,R,D,X
    1,L,J
    7,L
    1,L,J
   22,R,D
    5,R,X
-   1,L,J
+   1,L,K
   12,L
    5,L,U,X
    1,R,J
-  24,R,D
+  25,R,D
    5,R,J,Z
    7,R
    1,R,J
-  21,R
-   8,L
-  29,L,K
+  14,R
+   1,R,J
+#DONE UP UNTIL HERE
+  18,R
+Repeat, 14
+   1,G
+   1
+EndRepeat
+  30,L
    5,L,X
-   1,D,G
-  30,D
+   1,R,J
+  26,D
    5,R,U,X
    1
    1,J
   18,D
    5,R,J,Z
-  15,D
-   5,R,X
-   1
-   1,J
-  12,L,D
-  10,L,K
-   7,L,D
+  13,D
+   5,R,D,X
+   2,R
+   1,R,J
+  12,L
+  22,L,J
    5,L,D,X
-  15,L,K
+   1,J
+  10,L,D
    5,L,J
    5,L,U,X
    1
-   1,R,J
-   2,L,D
-  20,D
-   3,L,D
-  11,R,D
+   1,J
+   8,R,D
+  21,D
+   7,R,D
    5,L,Z
    1,R,J
-  13
-Repeat, 26
+Repeat, 30
    1,L,D
    1
    1,R,D
    1
 EndRepeat
    2,J
-   5,R,X
-   2,R
-   1,J
-  14,R,D
+   5,R,D,X
+   1,R,J
+   7,L
+   1,R,J
+  10,L,D
+  11,R,D
    5,R,J,Z
    7,R
-   1,R,J
-  21,R,D
-   5,R,J,Z
-   7,L
-   1,L,J
-   9,L,D
-  21,D
+   6,L
+  18,L,D
+  11,D
   40
   14,R,D
    5,R,J,Z
@@ -283,8 +268,8 @@ EndRepeat
    1,L,J
   19,L,D
    5,L,X
-   1,K
-  14,R,D
-  18,R,J
+   2,D,K
+   7,L,D
+   5,L,J
    5,L,U,X
  135
