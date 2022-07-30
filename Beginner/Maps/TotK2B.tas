@@ -1,3 +1,6 @@
+#created by Jules
+#optimized by Cirion02
+
 console load SpringCollab2020/1-Beginner/iamdadbod
 
    1
@@ -64,26 +67,16 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    6,R,J,G
   20,R
    2,R,J,G
-  10,R
-   7,L,G
-   3,L,J,G
-   5,L,X
-   1,J,G
-  39,R,D
-   9
-   1,R,J
-  35,R,D
-   5,R,X
-   5
-   1,L,J
-  13,L
-   5,U,X
-   1
-   2,R,J
-   2,R,K
-  29,R
-   5,R,J,Z
+  17,R,D
   10,D
+  6,Z,R
+  1,J,L
+  16,K,L
+  11,R,J
+  23,D,R
+  
+  5,Z,R,J
+  10,R
    5,U,Z
   40
    6,R
@@ -107,10 +100,10 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    5,L,X
   40,L,G
    1,R,K
-   4,R,J
-   6,R
+   2,R,J
+   9,R
   40
-   8,R
+   11,R
   13,R,K
    5,L,X
   46,L,G
@@ -229,3 +222,4 @@ EndRepeat
    8,L,K
    5,R,X
  135
+ 
