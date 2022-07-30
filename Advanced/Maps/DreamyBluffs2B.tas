@@ -1,3 +1,6 @@
+#made by Jules
+#optimized by Cirion02
+
 console load SpringCollab2020/3-Advanced/taco360
    1
 
@@ -107,48 +110,27 @@ console load SpringCollab2020/3-Advanced/taco360
    5,U,X
   32,R,D
   95
-   8,L,D
-   5,L,J,Z
-  18,L
-   8,L,J
-   7,L
+   18,L,D
+   
+   1,Q
+   1,J
+   30
+   3
+   
+   190
+   5,R,Z
+   1,L,J
+   8,L
+  13,L,J
+  18,U,X
+  43
+  11,D
+  5,U,X
+  
   40
-  20,L,D
-   5,L,D,Z
-   1
-   6,L,K
-  20,L,J,G
-  12,L
-   2,R,J
-  10,R
-   5,L,U,Z
-  40
-  10,L,G
-   5,L,X
-  21
-   4,J
-  39,L,K
-  18,L,D
-   5,L,U,Z
-  10,L,G
-   5,R,X
-   8,L,K
-  28,L
-   1,L,U,G
-   9,L,J,G
-  34,L,D
-   5,L,U,Z
-   1
-  12,L,K,G
-   7,L,J,G
-  18,L
-  13,L,D
-   5,L,Z
-  21
-   4,J
-   4,L,K
-   5,L,X
-   2,L
+  46,D
+  7,X,L
+ 
   43
    7,K,G
    3,R,J
@@ -264,3 +246,5 @@ console load SpringCollab2020/3-Advanced/taco360
   10,L,J
    5,R,U,X
  135
+ 
+#total (3374)
