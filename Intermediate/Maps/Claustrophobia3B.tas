@@ -1,3 +1,6 @@
+#made by Jules
+#optimized by Cirion02
+
 console load SpringCollab2020/2-Intermediate/Oppen_Heimer
    1
 
@@ -1242,28 +1245,26 @@ EndRepeat
    8,R
    3,R,K
    8,R,J,G
-   5,R,D,X
-   3,L,K
-   5,L,J,G
-   2,L,K,G
-   1,R,J
-  20,R,D
- 102
-   5,R,X
+   5,X,R
+   1,G,J
+   27,D,L
+   8,J,L
+   12,K,L,G
+   15,L
    5
-  12,L,K
-   5,U,X
-   7,L,J
-  17,L,D
-   5,R,Z
-   5
-   1,L,J
-   7,L
-   8,L,J
-  11,L,D
-   1,L,J
-   5,U,X
+   5,X,U
   49,D
-   5,L,D,X
- 135
-#3:10.774(11222)
+   #heart collect
+   5,X,D
+	32
+	4,J
+	6,X,R,D
+	1,L,J
+	36,L
+	1,X
+	4,X,D,R
+	2
+	1,J
+	48,D
+
+#3:08.309(11077)
