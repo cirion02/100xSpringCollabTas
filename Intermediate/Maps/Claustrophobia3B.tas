@@ -290,72 +290,30 @@ EndRepeat
    1,J,G
   26,L,J,G
    2,L,K,G
-   1,G
-   1
-   5,L,D
-   5,R,J,Z
-   7,R,G
-   1,R,J
-  22,R,G
-   1
-  14,R
-   5,R,J,Z
-  20,R,G
-   1,R,J,G
-  14,R,G
-   1,R,J,G
-   6,R,G
-  40
-#hub (2) 
-   8,R,G
-   1
-  15,R,D
-   5,R,J,Z
-   7,R
-  18,R,J,G
-  18,R,G
-   1,R,J,G
-  14,R,G
-   1,R,J,G
-  12,R,G
-  40
+   1,L,G
+   6,L,D,G
+   2,L,G
+   6,L
+   7,L,J,Z
+  22,L,G
+   1,L,J
+  10,L
+  13,D
+   3,J
+  10,L,J
+   5,R,U,X,G
+  95,R,G
 #room 2
+   1,L,G
+  13,D,G
+  10,J,G
    1
-   3,R
-  10,R,J,Z,G
-  23,R,G
-   1,R,J,G
-  14,R,G
-   1,R,J,G
-  14,R,G
-   7,R,J,G
-   3,R
-#r2 pink
-  13,L,D
-   5,L,D,Z
-   1,D,J
-  50,D
-   5,L,U,X
-   1,J
-   9,L,J
-   4,R,D
-  16,D
-   3,L
-  29,D
-   5,R,X
-   1,L,J
-  24,L,D
-   1,L,J
-  11,L
-   5,U,X
-   1,R,J
-  10,R
-   5,R,Z
+  11,R
 #r2 green
-  13,R,D
-   6,R,J,Z
-  20,R,D
-  26,L,D
+  12,R,D
+   9,R,J,Z
+  22,R,D
+  25,L,D
    5,L,X
    1,R,J
    9,R
@@ -367,23 +325,23 @@ EndRepeat
    5,L,X
    3
    1,J
-  51,R,D
+  50,R,D
+   1
    5,L,U,X
    1,R,J
-  23,R,D
+  10,R,D
+   4,R
    5,R,J,Z
-   7,R
-   1,R,J
-  14,R
-   9,L,J
-  18,L,D
+  15,R,D
+   9,R,J
+   8,L,D
    5,L,J,Z
    7,L
-  21,L,J,G
+  22,L,J,G
 #r2 blue
-   1,L,G
+   2,L,G
    1,L,J,G
-   3,L,G
+   5,L,G
 Repeat, 7
    3,L,J,G
    3,R,K,G
@@ -394,45 +352,46 @@ Repeat, 4
    1,L,J,G
   14,L,G
 EndRepeat
-  12,L,J,G
+   1,L,G
    1,D
-   6,L,J
+  13,L,J
+   6
    5,L,X
   21,G
    2,J,G
   37,K,G
    2,L,D,G
-  12,D,G
-   5,R,J,G
-   8,L,J,G
+  10,D,G
+  11,R,J,G
+   2,L,J,G
    1
    5,D,X
   13,D,J,G
-   7,K,G
-   9,L,K,G
+  13,L,K,G
    4,J,G
-  11,L,J,G
-  12,R,J,G
-   2,L,G
-   1,L,J,G
-  14,D,G
-   8,G
-  15,L,K,G
+  10,R,J,G
+   1,G
+   5,L,G
+   1,R,G
+  43,G
+  13,L,K,G
    1
    5,D,X
-  18
-   3,R
+  20
+   4,R
 Repeat, 3
    1,L,J
   14,L
 EndRepeat
    1,L,D,J
-  16,L,D
+  18,L,D
    1,L,J
+   1,L,K
    2,L,D
-   1,L,D,K
+   1,L,J
+   4,L,D
+   1,L,K
    5,L,D
-   6,L,J
    5,U,X
   42,D
    2,R,D
@@ -441,165 +400,135 @@ EndRepeat
   21,R,G
    1,R,J,G
   14,R,G
-   5,R,J,G
-  17,R,G
+   6,R,J,G
+  18,R,G
    1,R,J,G
   14,R,D,G
    1,R,J,G
    1,R,G
    1,L,G
-   2,L
-   3
+   1,L
+   4,L,D
    5,L,J,Z
    7,L
-   1,L,J
-  28,L,G
-   8
-   5,L,J,Z
-   7,L
-   1,L,J,G
-  28,L,G
-   1,L,J,G
-  12,L,G
-  40
-#hub (3) for berry
-   2,L,G
-   1,L,J,G
-   3,L,G
-  12,R,G
-   1,K,G
-  20,R,G
-  34,D,G
+   9,R,J
+#r2 pink
    1
-   6,L,D
-   5,U,X
-   1,J
-  17,L,D
+   5,L,D,Z
+   1,D,J
   50,D
-   2,R
-   2,D
-   8
+   5,L,U,X
+   1,J
+   9,L,J
+   4,R,D
+   4,D
+   5,K
+   7,D
+   3,L
+  23,D
+   5,R,X
+   1,L,J
+  20,L,D
+   1,L,J
+  14,L
+   1,L,J
    5,U,X
-  23,R
+   1,R,J
+  10,R
+   5,R,Z
+  13,D
+   9,J
+   8,L,D
+   5,L,J,Z
+  10,L,D
+   5,L,J,Z
+   7,L,D
+   1,L,J
+  14,L,D
+   5,L,J,Z
+  21,L,G
+   1,L,J,G
+  10,L,G
+   1,L
+   6,R,D
+  10,L,J,Z
+  24,L,G
+   1,L,J,G
+   5,L,G
+  40
+  10,L,G
+   1,R,J,G
+   1,G
+  19,R,D,G
+  18,L,D,G
+  29,D,G
+  40
+#room 4 
+   7,R,D,G
+   1,R,J,G
+  13,R,G
+  11,L,D,G
+   1,L
+   3,D
+   5,L,J,Z
+   7,L,G
+   2,L,J,G
+  24,L,G
+#r4 green
+   1,G
+   1,D
+   3,R,D
    5,R,Z
    5
-   1,L,J
-  11,L
-   5,D,X
-  10,D
-   1,R,J
-  15,R,D
-   5,L,D,X
-   3,R,J
-  42
-#room 4 
-   5,L,D
-   5,L,X
-#r4 green
-   1
-   1,D,G
-  13,D
+   1,L,J,G
+  10,D,G
+  11,R,D
    5,L,Z
-   1
-   8,D,J
+   8,J
    5,L,D
    1,J
-   6,L,D
-  19,R,D
-   5,R,D,Z
-   2,D,G
-  52,D
-   5,L,U,X
-   1
-   1,J
-  16,D
-  19,L,D
+   4,L,D
+  24,D
+   5,R,Z
    1,L,J
-   5,L
-   5,U,X
-  23,L,D
-   1,L,J
-  24,L,D
-  14,D
-  10,L,D
-   5,L,U,X
-   1
-   1,J
-  35,D
-   5,L,X
-   1,R,J
-  16,L,G
-  12,L,D,G
-   1,K,G
-  16,L,K,G
-   1,J,G
-  18,L,J,G
-   1,R
-   5,R,U,X
-   1
-   1,J
-  19,D,G
-  18,R,D,G
-   6,L,D,G
-   6,R,D,G
-   1,R
-   2,D
-   5,R,J,X
-  20,R,J,G
-   1,K,G
-  26,R,K,G
-   1,J,G
-  12,J,G
-  10,R,K,G
-   4,R,J,G
-  43,R,D,G
-   5,R,K,G
-   8,L,K,G
-   1,J,G
-  25,L,J,G
-   1,R,K,G
-   1
-   5,R,U,X
-   1
-   1,J
-  53,R,D,G
-  14,R,K,G
-Repeat, 13
-   2,L,J,G
-   2,R,K,G
-EndRepeat
-   2,L,J,G
-   2,L,D,G
-   1
-   1,L,K
    7,L
+  13,R
+   5,D,J,G
+  33,L,D,G
+   1,L
    5,L,J,Z
   20,L,G
    1,L,J,G
    9,L,G
    1,L,J,G
-  10,L,G
-   1,L,J,G
-   8,L,G
+   5,L,G
+   5,L
+   1,L,J
+  10,L
+   5,U,X
+   2,R,J
+  11,R,D
+Repeat, 16
+   1,L,D
    1
-   5,R,J,Z
-   7,R
-   1,R,J
-  12,R
-   7,R,D,J
-   2,L,K
-   1,R,J
-  64,R,D
-   5,R,X
+   1,R,D
+   1
+EndRepeat
+   3
+   5,R,Z
    5
    1,L,J
    5,L
    5,U,X
-  10,R,D
-   5,R,J,X
+   9,R,D
+   1
+   5,R,J,Z
    7,R
-   9,R,J
+  11,L,J
 #r4 pink
+   1,L,D
+   2,D,G
+   5,D
    5,L,U,Z
    2,D,G
   15,D
@@ -667,24 +596,18 @@ EndRepeat
    2
 #r4 yellow
   12,R,D
-   5,R,J,Z
-   1,R,J
-  20,L,D
-  45,D
-   7,L,J
-   5,L,X
-   1,J
-  20,D
-  10,L,D
-  26,L
-  10,J
-   2,R,D
-   9,D
-   3,L,D
-   3,D
+   6,R,J,Z
+  15,L,D
+  40,D
+  18,L,K
+  33,L,D
+   5,L,D,X
+   5,R
+  14,R,J
+   9,R
    5,L,U,X
-   5,R,K
-  10,R
+   5,R,J
+  10,R,D
    5,R,J,Z
    7,L
    1,R,J
@@ -751,16 +674,15 @@ EndRepeat
    1
    5,U,X
   40
-#hub (4)
-   4,R,D
-  19,D
+  14,L,D
+   9,D
    5,R,X
   40
-   6,R,J
-   5,R
+   8,R,J
+   7,R
 #r2 yellow
-   2,R
-   2,R,D
+   4,R
+   1,R,D
    1,R,J
    4,R,D
    1,R,J
@@ -781,23 +703,36 @@ EndRepeat
    1,L
    1,L,K
    6,L,D
-   5,L,Z
-  40
-#hub (5)
-   2,L,J
-   9,L
    5,L,J,Z
-   7
+  10,L
+   5,L,J,Z
+   7,L
    1,L,J
-  14,L
+   6,L,D
+   6,R,D
+   5,L,U,X
+  40
+   1,R,J
+   9,R
+   5,R,J,Z
+   7,L
    1,L,J
-  14,L,D
-   5,D
+   1,L
+   1,L,K
+  25,L,D
+   1,S
+   1,D,J
+  69,O
+   5,L,J,Z
+   2,L,D
+  24,R,D
+   3,L,D
+   2,D
    5,R,D,X
-   3,L,K
+   3,L,J
   42
 #Room 3
-   6,D
+   5,D
    5,L,X
 #r3 yellow
   12,L,D
@@ -1245,26 +1180,26 @@ EndRepeat
    8,R
    3,R,K
    8,R,J,G
-   5,X,R
-   1,G,J
-   27,D,L
-   8,J,L
-   12,K,L,G
-   15,L
+   5,R,X
+   1,J,G
+  27,L,D
+   8,L,J
+  12,L,K,G
+  15,L
    5
-   5,X,U
+   5,U,X
   49,D
    #heart collect
-   5,X,D
-	32
-	4,J
-	6,X,R,D
-	1,L,J
-	36,L
-	1,X
-	4,X,D,R
-	2
-	1,J
-	48,D
+   5,D,X
+  32
+   4,J
+   6,R,D,X
+   1,L,J
+  36,L
+   1,X
+   4,R,D,X
+   2
+   1,J
+  50,D
 
-#3:08.309(11077)
+#2:57.939(10467)
