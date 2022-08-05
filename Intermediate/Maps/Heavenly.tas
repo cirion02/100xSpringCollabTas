@@ -1,0 +1,49 @@
+#made by Cirion02
+
+console load SpringCollab2020/2-Intermediate/phant
+
+1
+
+#Start
+190
+
+7,J
+5,Z,L
+1,J,L
+12,D,L
+5,X,U
+37,D,L
+
+244
+
+16,J
+7,X,R
+2,J,L
+9,L
+18,D,R
+5,Z,U,R
+
+40
+
+11
+8,X,U,R
+23,R,D
+
+40
+
+8,X,R
+1,J,G
+60,D,R
+2,J,R
+
+40
+
+5,J,R
+6,Z,R
+9,J,L
+5,X,U
+
+
+#ChapterTime: 0:12.206(718)
+#TimeSpendWaiting: 0:09.605(565)
+
