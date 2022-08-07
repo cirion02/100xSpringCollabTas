@@ -189,14 +189,12 @@ EndRepeat
    9,L,D,J
    5,R,D,Z
   40
-   1,R,J
-  14,L
-   1,R,J
-   1,R,K
-  16,R,J
+   1
+   1,J,G
+   16,K,L
    5,L,X
  135,L,D
-
+ 
 #0:34.867(2051) for Berry collects
-#0:04.165(245) for heart collect 
-#0:39.032(2296) total
+#0:03.910(230) for heart collect 
+#0:38.777(2281) total
