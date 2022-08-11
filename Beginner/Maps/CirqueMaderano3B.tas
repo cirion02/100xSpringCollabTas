@@ -1,4 +1,5 @@
 #made by Jules
+#optimized by Cirion02
 
 console load SpringCollab2020/1-Beginner/Skeleton
    1
@@ -163,35 +164,27 @@ EndRepeat
   10,J,G
    7,L,D
    5,L,J,Z
-   2,L
+   2,L,J
+  40,J
+   4,L,J
+   1,K
+   3,K,L
+   5,U,R,X
   40
-   4,L
-   4,J
-   5,U,X
-  40
-  24,L,D
-Repeat, 6
-   1,L,D
-   1
-   1,R,D
-   1
-EndRepeat
-   5,R,J,Z
-   7,R
-   1,J
-  55
-   5,R,Z
-   1
-  10,J,G
-  10,K,G
-  10,J,G
-   3,L,K
-  13,L
-   5,L,U,X
-   1,R,J
-  21,R,D
-   2,R,J
-   5,R,D,X
+
+  1
+  1,G,J
+  36,D
+  1,J,R,D,G
+  6,R,D
+  24,D
+  5,Z,U,R
+  1,J
+  21,D
+  2,J
+  5,X,D,R
+   
+  
    1,L,J
    7,L
    1,L,J
@@ -207,16 +200,13 @@ EndRepeat
    1,R,J
   14,R
    1,R,J
-#DONE UP UNTIL HERE
-  18,R
-Repeat, 14
-   1,G
-   1
-EndRepeat
-  30,L
-   5,L,X
-   1,R,J
-  26,D
+
+18,R
+  11,L,D
+  3
+  5,X,L
+  1,J
+  33,D
    5,R,U,X
    1
    1,J
@@ -240,26 +230,26 @@ EndRepeat
    7,R,D
    5,L,Z
    1,R,J
-Repeat, 30
+Repeat, 33
    1,L,D
    1
    1,R,D
    1
 EndRepeat
+
+   3
    2,J
-   5,R,D,X
-   1,R,J
-   7,L
-   1,R,J
-  10,L,D
-  11,R,D
-   5,R,J,Z
-   7,R
-   6,L
-  18,L,D
-  11,D
+   6,D,R,Z
+   3
+   1,D,J,L
+   5,L
+   10
+   1,J,R,D
+   30,D,R
+   
   40
-  14,R,D
+
+  13,D
    5,R,J,Z
   12,R
   10,R,J
@@ -273,3 +263,5 @@ EndRepeat
    5,L,J
    5,L,U,X
  135
+
+#0:47.209(2777)
