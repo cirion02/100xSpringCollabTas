@@ -1,72 +1,110 @@
+Read, Other\prologue
+
+120
+
 Read, Beginner\Maps\CirqueMaderano3B
 
-15
+120
 
 Read, Beginner\Maps\CrystalEnigma3B
 
-15
+120
 
 Read, Beginner\Maps\DesoliteSpire3B
 
-15
+120
 
 Read, Beginner\Maps\HeavenlyAltitudes
 
-15
+120
 
 Read, Beginner\Maps\SeekerTemple2B
 
-15
+120
+
+Read, Beginner\Maps\SpaceJamFeverDream3B
+
+120
 
 Read, Beginner\Maps\Starjump2B
 
-15
+120
 
 Read, Beginner\Maps\TheSingularity2B
 
-15
+120
 
 Read, Beginner\Maps\TotK2B
 
-15
+120
 
 Read, Intermediate\Maps\OvergrownCity
 
-15
+120
+
+Read, Intermediate\Maps\Heavenly
+
+120
+
+Read, Intermediate\Maps\FloodedWaterways2B
+
+120
 
 Read, Intermediate\Maps\Claustrophobia3B
 
-15
+120
+
+Read, Intermediate\Maps\CircularPlatformClutter3B
+
+120
+
+Read, Intermediate\Maps\AnotherSummit
+
+120
 
 Read, Intermediate\Maps\AnchientEngine3B
 
-15
+120
 
 Read, Intermediate\Maps\AbandonedAndRuined2B
 
-15
+120
 
 Read, Advanced\Maps\CrumblingCastle3B
 
-15
+120
 
 Read, Advanced\Maps\DreamyBluffs2B
 
-15
+120
 
 Read, Advanced\Maps\NorthernLights0B
 
-15
+120
 
 Set,SuperDashing,false
 
+Read, Advanced\Maps\nyoom1B
+
+120
+
+Read, Expert\Maps\BlankDreams1B
+
+120
+
+Read, Expert\Maps\ThunderTemple2B
+
+120
+
 Read, Grandmaster\Maps\KoKoDoKo3B
 
-15
+120
 
 Read, Grandmaster\Maps\TemporalTower2B
 
-15
+120
+
+***
 
 Read, Grandmaster\Maps\UltraDifficult3B
 
