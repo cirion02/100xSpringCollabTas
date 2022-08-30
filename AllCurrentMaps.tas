@@ -2,6 +2,10 @@ Read, Other\prologue
 
 120
 
+Read, Beginner\Maps\BadelineBlockBelt3B
+
+120
+
 Read, Beginner\Maps\CirqueMaderano3B
 
 120
@@ -38,27 +42,7 @@ Read, Beginner\Maps\TotK2B
 
 120
 
-Read, Intermediate\Maps\OvergrownCity
-
-120
-
-Read, Intermediate\Maps\Heavenly
-
-120
-
-Read, Intermediate\Maps\FloodedWaterways2B
-
-120
-
-Read, Intermediate\Maps\Claustrophobia3B
-
-120
-
-Read, Intermediate\Maps\CircularPlatformClutter3B
-
-120
-
-Read, Intermediate\Maps\AnotherSummit
+Read, Intermediate\Maps\AbandonedAndRuined2B
 
 120
 
@@ -66,7 +50,35 @@ Read, Intermediate\Maps\AnchientEngine3B
 
 120
 
-Read, Intermediate\Maps\AbandonedAndRuined2B
+Read, Intermediate\Maps\AnotherSummit
+
+120
+
+Read, Intermediate\Maps\CircularPlatformClutter3B
+
+120
+
+Read, Intermediate\Maps\Claustrophobia3B
+
+120
+
+Read, Intermediate\Maps\FloodedWaterways2B
+
+120
+
+Read, Intermediate\Maps\Heavenly
+
+120
+
+Read, Intermediate\Maps\OvergrownCity
+
+120
+
+Read, Intermediate\Maps\SpiritSpire1B
+
+120
+
+Read, Intermediate\Maps\TheGame1B
 
 120
 
@@ -103,8 +115,6 @@ Read, Grandmaster\Maps\KoKoDoKo3B
 Read, Grandmaster\Maps\TemporalTower2B
 
 120
-
-***
 
 Read, Grandmaster\Maps\UltraDifficult3B
 
