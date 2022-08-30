@@ -165,13 +165,17 @@ console load SpringCollab2020/1-Beginner/Bissy
 
 40
 
-115,J,R,G
-18,K,R
-15,J,L
-15,K,L
-6,J,L
-8,J
-14,K
-14,J
-4,X
-1,D
+10,R,J,G
+7,R
+3,J,G
+32,R,J
+15,X,U
+6,D,R
+2,D
+6,L,D
+4,D
+16,D,R
+1,X
+4,X,D
+
+#0:29.920(1760)
