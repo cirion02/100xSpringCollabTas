@@ -1,6 +1,8 @@
 console load SpringCollab2020/0-Lobbies/1-Beginner
    1
 
+#Start
+
 Read,Beginner\Lobby\Start-CE,Start
 Read,Menuing\EnterLevel
 Read,Beginner\Maps\CrystalEnigma3B,Start
@@ -21,5 +23,22 @@ Read,Menuing\EnterLevel
 Read,Beginner\Maps\HeavenlyOuterSpace3B,Start
 Read,Menuing\ExitLevel
 
-Read,Beginner\Lobby\HOS-BP,Start
+Read,Beginner\Lobby\HOS-ES,Start
 Read,Menuing\EnterLevel
+Read,Other\levelPlaceholder
+Read,Menuing\ExitLevel
+
+Read,Beginner\Lobby\ES-BP,Start
+Read,Menuing\EnterLevel
+Read,Other\levelPlaceholder
+Read,Menuing\ExitLevel
+
+Read,Beginner\Lobby\BP-Sing,Start
+Read,Menuing\EnterLevel
+Read,Beginner\Maps\TheSingularity2B,Start
+Read,Menuing\ExitLevel
+
+Read,Beginner\Lobby\Sing-SJFD,Start
+Read,Menuing\EnterLevel
+Read,Beginner\Maps\SpaceJamFeverDream3B,Start
+Read,Menuing\ExitLevel
