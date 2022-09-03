@@ -37,6 +37,10 @@ Read,Beginner\Lobby\BP-Sing,Start
 Read,Menuing\EnterLevel
 Read,Beginner\Maps\TheSingularity2B,Start
 Read,Menuing\ExitLevel
+***s
+
+#weird desync
+1
 
 Read,Beginner\Lobby\Sing-SJFD,Start
 Read,Menuing\EnterLevel
