@@ -51,11 +51,19 @@ Read,Menuing\EnterLevel
 Read,Beginner\Maps\SpaceJamFeverDream3B,Start
 Read,Menuing\ExitLevel
 
-***
-
-Read,Beginner\Lobby\SJFD-BBB,Start
+Read,Beginner\Lobby\SJFD-Cirq,Start
 Read,Menuing\EnterLevel
-Read,Other\levelPlaceholder
+Read,Beginner\Maps\CirqueMaderano3B,Start
+Read,Menuing\ExitLevel
+
+Read,Beginner\Lobby\Cirq-MC,Start
+Read,Menuing\EnterLevel
+Read,Beginner\Maps\MossyCaverns3B,Start
+Read,Menuing\ExitLevel
+
+Read,Beginner\Lobby\MC-BBB,Start
+Read,Menuing\EnterLevel
+Read,Beginner\Maps\BadelineBlockBelt3B,Start
 Read,Menuing\ExitLevel
 
 Read,Beginner\Lobby\BBB-ItS,Start
@@ -63,7 +71,7 @@ Read,Menuing\EnterLevel
 Read,Other\levelPlaceholder
 Read,Menuing\ExitLevel
 
-Read,Beginner\Lobby\ItS-MC,Start
+Read,Beginner\Lobby\ItS-TD,Start
 Read,Menuing\EnterLevel
-Read,Beginner\Maps\MossyCaverns3B,Start
+Read,Other\levelPlaceholder
 Read,Menuing\ExitLevel
