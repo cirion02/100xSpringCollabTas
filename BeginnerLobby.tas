@@ -75,3 +75,5 @@ Read,Beginner\Lobby\ItS-TD,Start
 Read,Menuing\EnterLevel
 Read,Other\levelPlaceholder
 Read,Menuing\ExitLevel
+
+Read,Menuing\RtmFromLobby
