@@ -33,7 +33,12 @@ Read,Menuing\EnterLevel
 Read,Other\levelPlaceholder
 Read,Menuing\ExitLevel
 
-Read,Beginner\Lobby\BP-Sing,Start
+Read,Beginner\Lobby\BP-AA,Start
+Read,Menuing\EnterLevel
+Read,Beginner\Maps\AzuriteAscent3B,Start
+Read,Menuing\ExitLevel
+
+Read,Beginner\Lobby\AA-Sing,Start
 Read,Menuing\EnterLevel
 Read,Beginner\Maps\TheSingularity2B,Start
 Read,Menuing\ExitLevel
@@ -44,4 +49,21 @@ Read,Menuing\ExitLevel
 Read,Beginner\Lobby\Sing-SJFD,Start
 Read,Menuing\EnterLevel
 Read,Beginner\Maps\SpaceJamFeverDream3B,Start
+Read,Menuing\ExitLevel
+
+***
+
+Read,Beginner\Lobby\SJFD-BBB,Start
+Read,Menuing\EnterLevel
+Read,Other\levelPlaceholder
+Read,Menuing\ExitLevel
+
+Read,Beginner\Lobby\BBB-ItS,Start
+Read,Menuing\EnterLevel
+Read,Other\levelPlaceholder
+Read,Menuing\ExitLevel
+
+Read,Beginner\Lobby\ItS-MC,Start
+Read,Menuing\EnterLevel
+Read,Beginner\Maps\MossyCaverns3B,Start
 Read,Menuing\ExitLevel
