@@ -6,13 +6,9 @@ console load SpringCollab2020/1-Beginner/Abby
 
 #Start
   61
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-  11,R
-   4,R,Z
-  20,R,J
+   2,R,J
+   6,Z,R
+   13,L,J
 
  156
   42,D
@@ -24,34 +20,29 @@ console load SpringCollab2020/1-Beginner/Abby
    5,R,Z
    1,L,J
   35,L,D
-  64,R,D
-  10,D
-  10,J,G
-  12,R
-   2,R,J,G
-   6,R,K,G
-  17,R
-  44
+  43,R,D
+   8,X,R
+   8,J,R,G
+   6,R
+  18,R,J
+  45
    5,R,X
    1,L,J
   21,D
    3,L,D
    1,R,J
    6,R,D
-  16,D
+  15,D
   47,L
    5,R,X
    1,L,J,G
-  44,R
-  79,D
-  35,R
+  43,R
+  70,D
+  31,R,J
+   5,U,Z
+  12,R
    5,U,X
-   3,R
-   6,L,J
-   4
-   5,U,X
-
- 136
+ 134
    5,R,X
   39
    4,J
@@ -63,100 +54,98 @@ console load SpringCollab2020/1-Beginner/Abby
    1,L,J
   22,L,D
   38,D
-  47
-   44,D
-   5,Z,U,R
-   15,R
-  58,L,D
-  83,D
+  46
+  14,D
+  10,R,D
+   5,J,R,G
+  26,D,R
+  59,L,D
+   1,L
+   5,X,D
+  68,D
    5,L,Z
   26
    4,L,J
    3,L,K
+   
  136
   10,L
    5,R,X
    1,L,J
+   
   50
-  35,L,D
-  17,D
-   5,U,X
+  28,R
+   5,Z,U
   27,L,D
   16,D
-  57,L,D
-  18,D
-  10,R,K
-  56,R
-   5,U,X
-  20,R,D
-  18,D
-  54
-  53,L
-   5,U,X
-  56,L,K
-   9,D
-   2,R,D
-  44,R,D
-  36,D
-  13
-   5,R,X
-   3,L,K
-  22,L
-  21,R,D
-  14,D
-
-  37,R
-   5,U,X
-  13
-   5,U,X
- 100
-  90
-  62,L,D
-  40,R
-   5,R,X
-   4,L,D
-  54,R
-  34
-   5,U,X
-  54,D
- 175
-  59,R
-   5,U,X
-  26,R,D
-  63,R,D
-  25,D
+  50,L,D
+  24,D
+   5,Z,R
+   3,J,L
+  
+  50
+   5,X,D,L
+   1,J,R
+   2,L
+  
   37
-   5,U,X
-  45,L,D
-   5,U,X
-  46,D
-  64,R
-   7
-   2,R,J,G
-   4,R,K,G
-   9,R,D
-   8,L,D
-   1,R,J
-  35,R,D
-  92,D
-   5,R,Z
-   1,L,J
-   1
-  38
+   5,X,D
+   1,J
+   2,R,D
+  17,D
+  23,R,J
+   5,Z,U
+  34,R,J
+ 100
+ 111,R
+   5,X,D
+   1,J,L,D
+  19,L,D
+  40,L,D
+   9,R,X
+  62
+  14,R
+   5,X,R
+  43,D,L
+  
+ 175
+  37,R,D
+  10,D,R,X
+   1,G,K
+   1,J,L
+  16,L,D
+  10,X,D,L
+   1,J,R
+   7,J,L
+   3,J,R
+   37
+   5,X,U
+   47,R
+   1,X
+   4,X,D
+  95,D
+   5,Z,R
+   1,J,L
+   3,L
+  91,D
+   5,Z,R
+   1,J,L
+   1,L
+  39
    5,R,X
   23
-   4,R,J
+  11,R
    5,R,X
   25
-   4,J
-  26,L,D
-   9
+  26,L
+   5
  177
-
  12,J
  5,X,R
  7,J,R
  3,R
  5,X,U
- 
+
  135
+ 
+#0:54.179(3187)

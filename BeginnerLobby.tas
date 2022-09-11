@@ -76,4 +76,24 @@ Read,Menuing\EnterLevel
 Read,Other\levelPlaceholder
 Read,Menuing\ExitLevel
 
+Read,Beginner\Lobby\TD-ST,Start
+Read,Menuing\EnterLevel
+Read,Beginner\Maps\SeekerTemple2B
+Read,Menuing\ExitLevel
+
+Read,Beginner\Lobby\ST-TotK,Start
+Read,Menuing\EnterLevel
+Read,Beginner\Maps\TotK2B
+Read,Menuing\ExitLevel
+
+Read,Beginner\Lobby\TotK-Chill,Start
+Read,Menuing\EnterLevel
+Read,Beginner\Maps\ChilloutMountain3B
+Read,Menuing\ExitLevel
+
+Read,Beginner\Lobby\Chill-DS,Start
+Read,Menuing\EnterLevel
+Read,Beginner\Maps\DesoliteSpire3B
+Read,Menuing\ExitLevel
+
 Read,Menuing\RtmFromLobby
