@@ -68,7 +68,7 @@ Read,Menuing\ExitLevel
 
 Read,Beginner\Lobby\BBB-ItS,Start
 Read,Menuing\EnterLevel
-Read,Other\levelPlaceholder
+Read,Beginner\Maps\IntoTheStorm3B,Start
 Read,Menuing\ExitLevel
 
 Read,Beginner\Lobby\ItS-TD,Start
