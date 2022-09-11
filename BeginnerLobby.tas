@@ -23,9 +23,9 @@ Read,Menuing\EnterLevel
 Read,Beginner\Maps\HeavenlyOuterSpace3B,Start
 Read,Menuing\ExitLevel
 
-Read,Beginner\Lobby\HOS-ES,Start
+Read,Beginner\Lobby\HOS-ES
 Read,Menuing\EnterLevel
-Read,Other\levelPlaceholder
+Read,Beginner\Maps\ElectricStratosphere1BNF,Start
 Read,Menuing\ExitLevel
 
 Read,Beginner\Lobby\ES-BP,Start
