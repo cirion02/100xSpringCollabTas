@@ -8,17 +8,7 @@ Read,Menuing\EnterLevel
 Read,Beginner\Maps\CrystalEnigma3B,Start
 Read,Menuing\ExitLevel
 
-Read,Beginner\Lobby\CE-HA
-Read,Menuing\EnterLevel
-Read,Beginner\Maps\HeavenlyAltitudes,Start
-Read,Menuing\ExitLevel
-
-Read,Beginner\Lobby\HA-Star,Start
-Read,Menuing\EnterLevel
-Read,Beginner\Maps\Starjump2B,Start
-Read,Menuing\ExitLevel
-
-Read,Beginner\Lobby\Star-HOS,Start
+Read,Beginner\Lobby\CE-HOS,Start
 Read,Menuing\EnterLevel
 Read,Beginner\Maps\HeavenlyOuterSpace3B,Start
 Read,Menuing\ExitLevel
@@ -30,7 +20,7 @@ Read,Menuing\ExitLevel
 
 Read,Beginner\Lobby\ES-BP,Start
 Read,Menuing\EnterLevel
-Read,Other\levelPlaceholder
+Read,Beginner\Maps\BlastProcessing2B,Start
 Read,Menuing\ExitLevel
 
 Read,Beginner\Lobby\BP-AA,Start
@@ -38,7 +28,22 @@ Read,Menuing\EnterLevel
 Read,Beginner\Maps\AzuriteAscent3B,Start
 Read,Menuing\ExitLevel
 
-Read,Beginner\Lobby\AA-Sing,Start
+Read,Beginner\Lobby\AA-Star,Start
+Read,Menuing\EnterLevel
+Read,Beginner\Maps\Starjump2B,Start
+Read,Menuing\ExitLevel
+
+Read,Beginner\Lobby\Star-HA
+Read,Menuing\EnterLevel
+Read,Beginner\Maps\HeavenlyAltitudes,Start
+Read,Menuing\ExitLevel
+
+Read,Beginner\Lobby\HA-Cirq,Start
+Read,Menuing\EnterLevel
+Read,Beginner\Maps\CirqueMaderano3B,Start
+Read,Menuing\ExitLevel
+
+Read,Beginner\Lobby\Cirq-Sing,Start
 Read,Menuing\EnterLevel
 Read,Beginner\Maps\TheSingularity2B,Start
 Read,Menuing\ExitLevel
@@ -51,12 +56,7 @@ Read,Menuing\EnterLevel
 Read,Beginner\Maps\SpaceJamFeverDream3B,Start
 Read,Menuing\ExitLevel
 
-Read,Beginner\Lobby\SJFD-Cirq,Start
-Read,Menuing\EnterLevel
-Read,Beginner\Maps\CirqueMaderano3B,Start
-Read,Menuing\ExitLevel
-
-Read,Beginner\Lobby\Cirq-MC,Start
+Read,Beginner\Lobby\SJFD-MC,Start
 Read,Menuing\EnterLevel
 Read,Beginner\Maps\MossyCaverns3B,Start
 Read,Menuing\ExitLevel
