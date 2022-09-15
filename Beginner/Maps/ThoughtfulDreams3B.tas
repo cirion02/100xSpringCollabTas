@@ -1,5 +1,4 @@
 #Made by Jules
-#Optimized by Cirion02
 
 console load SpringCollab2020/1-Beginner/IsaGoodFriend
    1
@@ -52,19 +51,12 @@ console load SpringCollab2020/1-Beginner/IsaGoodFriend
   38,D
   6,X,L,U
   1,J
-  19,D
-   5,L,U,Z
-   8,L
-   8,L,K
-   4,L,J
-   6,K,G
-   2,J,G
-  12,R,K
-   5,L,X
+  26,D
+  6,X,U,L
 
   40
    1,R,J
-  12,R,D
+  11,R,D
    5,U,Z
   15,R,U
    5,U,X
@@ -136,4 +128,4 @@ console load SpringCollab2020/1-Beginner/IsaGoodFriend
    5,L,D,X
  135
 
-#0:20.349(1197)
+#0:19.856(1168)
