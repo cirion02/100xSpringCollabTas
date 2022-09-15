@@ -1,4 +1,5 @@
 #Made by Jules
+#Optimized by Cirion02
 
 console load SpringCollab2020/1-Beginner/hennyburgr
    1
@@ -44,13 +45,10 @@ EndRepeat
    2,J
   10,K,G
    2,J,G
-   4,L,K
-   9,L,J
-   7,R,D
-   5,L,D,X
-   5
-   1,R,J
-   5,R
+   4,K
+  10,J,G,R
+  10,R
+   5,U,X
    5,U,X
 
 #Berry 1
@@ -212,3 +210,5 @@ EndRepeat
    1,L,X
    4,L,D
  135
+ 
+#0:40.953(2409)
