@@ -60,23 +60,23 @@ console load SpringCollab2020/1-Beginner/Ghajestis
 3,J
 
 5,Z,R
-50
-5,X,D
-10,R
+46
+4,J,R
+2,K,R
+15,X,D
+
+#2 of these are spinner cycle
+4,J
+
 5,X,R
 40
-
-1,S
-1,D,J
-69,O
-
-23,J,R
+1
+1,J,L
+1,K,L
+12,D,L
 5,X,D
-23,D
-5,X,R
-24,D,R
-13,R
-5,X,U
+1,J
+22,L,D
 30,R
 5,X,U
 13
@@ -127,4 +127,4 @@ console load SpringCollab2020/1-Beginner/Ghajestis
 5,X,R
 135
 
-#0:20.315(1195)
+#0:18.479(1087)
