@@ -73,7 +73,7 @@ Read,Menuing\ExitLevel
 
 Read,Beginner\Lobby\ItS-TD,Start
 Read,Menuing\EnterLevel
-Read,Other\levelPlaceholder
+Read,Beginner\Maps\ThoughtfulDreams3B
 Read,Menuing\ExitLevel
 
 Read,Beginner\Lobby\TD-ST,Start
