@@ -3,13 +3,15 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 4119.70846605301 832
 
 #Start
   36
-   8,L,J,X
-   5,L,K,G
-  16,L
+   7,L,J,X
+   6,L,K,G
+  13,L
+   1,L,J
+   1,L
    6,U,X
   42,R,D
    5,R,D,X
-   4,R,J
-  25,R,D
+   8,R,J
+  20,R,D
    1,X
-#0:01.751(103)
+#0:01.717(101)
