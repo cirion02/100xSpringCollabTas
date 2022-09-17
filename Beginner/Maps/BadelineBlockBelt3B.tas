@@ -46,16 +46,19 @@ EndRepeat
   10,K,G
    2,J,G
    4,K
-  10,J,G,R
+  10,R,J,G
   10,R
    5,U,X
    5,U,X
 
 #Berry 1
   40
+
+   6
+   5,U,X
    1,J
   12,L,D
-   3,D
+   4,D
    5,L,J,Z
   10,R,D
    5,U,X
@@ -63,8 +66,8 @@ EndRepeat
    1,R,J
   14,R,D
    4,L,D
-  47
-   9,L
+  33
+   5,L
    5,L,J,Z
    7,L
    1,L,J
@@ -100,17 +103,17 @@ EndRepeat
 #lvl_hennyburgr-4
    1,R,J
   37,R,D
-  1,R,D
+   1,R,D
   16
-  4,J
-  6,Z,R
-  4
-  1,J
-  4,G,K
-  10,X,D,R
-  1,J
-  1,K
-  20,D,R
+   4,J
+   6,R,Z
+   4
+   1,J
+   4,K,G
+  10,R,D,X
+   1,J
+   1,K
+  20,R,D
    5,U,X
   40,R,D
   12,R,J
@@ -130,32 +133,32 @@ EndRepeat
    5,L,J,X
    7,L
   16,L,D
-  5,X,D
-  1,G,J
-  14,D,R
-  4,J
-   5,X,R
+   5,D,X
+   1,J,G
+  14,R,D
+   4,J
+   5,R,X
    1,J
-   15,J,R
+  15,R,J
    7,L
    5,U,X
-   31,D,R
-   5,Z,R,J
+  31,R,D
+   5,R,J,Z
    7,R
-   11,J,R
+  11,R,J
    5,U,X
-   29,D,R
-   6,X,D,R
+  29,R,D
+   6,R,D,X
    1,J
-   11,G,K
+  11,K,G
    1,J
-   30,J,R
-   5,Z,R,K
+  30,R,J
+   5,R,K,Z
    7,R
    1,R,J
    7,R
    
-   61
+  61
 #Berry 3
    3,R
    5,R,J,Z
@@ -189,13 +192,14 @@ EndRepeat
    3,R
    5,R,U,X
   61
-   11
-   15,X,D
+  11
+  15,D,X
    2,J
-   5,X,R
-   10,J,R
+   5,R,X
+  10,R,J
    1,X
-   4,X,D,L
-   135
- 
-#0:38.267(2251)
+   4,L,D,X
+ 135
+
+#0:38.114(2242)
+
