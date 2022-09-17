@@ -39,7 +39,6 @@ EndRepeat
    5,R,U,X
 
   40
-
 #_02
    1
   72,O
@@ -64,16 +63,16 @@ EndRepeat
   22,L,J
    2,R,K
    5,R,X
-Repeat, 2
-   7,R,J,G
-   7,R,K,G
-EndRepeat
-   4,L,K
-  33,L,D
+   2,R,J,G
+  13,L,K
+  26,L
+  12,L,D
+   8,L,K
+   4,L,J,G
+  13,L,D
+   3,R,D
+   8,L,J
    5,D,X
-  10,L,J,G
-  14,L,D
-
   18,D
 Repeat, 12
    1,L,D
@@ -81,8 +80,7 @@ Repeat, 12
    1,R,D
    1
 EndRepeat
-   1,L,D
-  98
+  97
 #end cassette fly
    2,R,J
    5,U,X
@@ -240,4 +238,4 @@ EndRepeat
    5,L,J
    5,L,U,X
  134
-#0:43.010(2530)
+#0:42.976(2528)
