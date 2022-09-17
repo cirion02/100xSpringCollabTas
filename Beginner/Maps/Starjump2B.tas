@@ -1,25 +1,24 @@
 #created by Jules & Cirion02
 
 console load SpringCollab2020/1-Beginner/Lichtbaulb
-	1
+   1
  
 #Start
  190
  
- 5,X,U,R
- 27,D,R
+   5,R,U,X
+  27,R,D
  
- 40
- 
- 10,D
- 5,X,R
- 1,J,L
- 5,K,L
- 10,L,D
- 1
- 10,R,D
- 2
- 5,Z,R
+  40
+  10,D
+   5,R,X
+   1,L,J
+   5,L,K
+  10,L,D
+   1
+  10,R,D
+   2
+   5,R,Z
  
    1
 
@@ -28,9 +27,11 @@ console load SpringCollab2020/1-Beginner/Lichtbaulb
    8,J,G
    5,R,U,X
   32,L
-  14,D
-  10,R
-   5,R,U,X
+  10,D
+   1,J
+   3,R
+   1,R,D
+   5,R,U,Z
   52
    5,L,U,X
    6,R,J
@@ -44,37 +45,36 @@ console load SpringCollab2020/1-Beginner/Lichtbaulb
   10,R,K,G
 
    5,L,X
-   1,J,R
+   1,R,J
    9,R
-   5,U,X,L
-   27,L,D
+   5,L,U,X
+  27,L,D
   
   40
   
-  5,X,U,L
+   5,L,U,X
   
   40
   
-  1,G,J
+   1,J,G
   17,D
   
-  6,X,U,R
+   6,R,U,X
   
   40
   
   11,R
-  7,X,U,L
+   7,L,U,X
   
   40
   
-  1
-  1,G,J
-  7
-  1,J,R
-  1,K,R
+   1
+   1,J,G
+   7
+   1,R,J
+   1,R,K
   21,R
-  5,X,D,L
+   5,L,D,X
   
-  135
-
-#0:12.903(759)
+ 135
+#0:12.750(750)
