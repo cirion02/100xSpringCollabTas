@@ -1,4 +1,5 @@
 #Made by Jules
+#Optimized by Cirion02
 
 console load SpringCollab2020/1-Beginner/Flagpole1up
    1
@@ -79,9 +80,12 @@ EndRepeat
    5,U,C
    1,L,J
   18,R,J
+***s
    1,G
-  44,R,D
-   5,J
+   9
+   3,R
+   1,D
+  28,R,D
    6,R,U,X
    1,J
   17,R,D
@@ -295,4 +299,4 @@ EndRepeat
    5,R,D,X
  135
 
-#0:50.626(2978)
+#0:50.490(2970)
