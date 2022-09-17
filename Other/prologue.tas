@@ -1,28 +1,29 @@
 #Made by Cirion
+#Optimised by Jules
 console load SpringCollab2020/0-Lobbies/0-Prologue
    1
    
 #Start
-69
-
-5,X,R
-40
-1,S
-1,D,J
-69,O
-7,X,R
-11,J,R
-9,R
-
-10,J
-6,X,R
-2,G,J,R
-2,G,K,R
-1,G,J,R
-7,R
-5,X,R,U
-50
-10,X,D
-12,L
-1,S
-1,D,J
+  69
+   5,R,X
+  40
+   1,S
+   1,D,J
+  69,O
+   7,R,X
+   4,R,J
+   7,R,K,G
+   8,R
+  10,J
+   6,R,X
+   2,R,J,G
+   2,R,K,G
+   1,R,J,G
+   7,R
+   5,R,U,X
+  50
+  15,D,X
+   5,L,J,Z
+   1,L
+   1,S
+   1,D,J
