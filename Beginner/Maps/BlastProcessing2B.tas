@@ -22,12 +22,13 @@ console load SpringCollab2020/1-Beginner/Flagpole1up
 #   1
 #   1,X
 
-Repeat, 89
-   1,R,D
+Repeat, 59
+   2,R
    1
-   1,L,D
+   2,L
    1
 EndRepeat
+   2
    6,R,D,X
    1,J
    4,L,D
@@ -139,11 +140,11 @@ EndRepeat
 
   40
 
-  15,R
+  11,R
   15,L,X
    1,G
   10,L,X
-   9,R,J
+  10,R,J
    5,R,U,X
    1,L,J
   18,D
@@ -286,6 +287,5 @@ EndRepeat
    5,R,D,X
  135
 
-
-#0:46.121(2713)
+#0:46.070(2710)
 
