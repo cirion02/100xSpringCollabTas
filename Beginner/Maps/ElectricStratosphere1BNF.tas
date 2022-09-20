@@ -1,4 +1,5 @@
 #made by Cirion02
+#optimised by Jules
 
 console load SpringCollab2020/1-Beginner/DanTKO
    1
@@ -90,7 +91,8 @@ console load SpringCollab2020/1-Beginner/DanTKO
   13,G
    8,R,G
    1,D
-  96,R,U,G
+  86,R,U,G
+   1,L
   20,R,D
    8,D
    6,R,Z
@@ -106,12 +108,8 @@ console load SpringCollab2020/1-Beginner/DanTKO
   39,D
 
    9
-#time here: 0:15.793(927)
+#time here: 0:15.606(918)
 
    1,S
    1,U,J
    1,O
-
-
-
-
