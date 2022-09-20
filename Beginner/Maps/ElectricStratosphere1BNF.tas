@@ -5,11 +5,11 @@ console load SpringCollab2020/1-Beginner/DanTKO
 
 #Start
  190
-
    5,R,J,Z
    7,R
-   2,L,J
-  38,L,D,G
+   1,L,J
+   1,R
+  34,L,D,G
    5,L
   13
    7,L,J
@@ -45,7 +45,7 @@ console load SpringCollab2020/1-Beginner/DanTKO
    1,R
    5,L,Z
    2,J,G
-  18,L
+  19,L
    3,L,J
    5,R,X
    1,L,J
@@ -61,13 +61,13 @@ console load SpringCollab2020/1-Beginner/DanTKO
    1,R
    3,L
    5,L,X
-   1,J,G
+   2,J,G
    5
    2,L
    2
   14,J
   15,L,X
-  14
+  13
    6,R,Z
    1,J,G
    3,L,K
@@ -77,7 +77,7 @@ console load SpringCollab2020/1-Beginner/DanTKO
    2,D
    1,R,D
    7,D
-   7,J
+   8,J
   21,J,G
    1,D
   21,G
@@ -106,7 +106,7 @@ console load SpringCollab2020/1-Beginner/DanTKO
   39,D
 
    9
-#time here: 0:15.793(929)
+#time here: 0:15.793(927)
 
    1,S
    1,U,J
