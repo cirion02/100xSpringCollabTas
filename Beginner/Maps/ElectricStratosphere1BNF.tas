@@ -8,10 +8,10 @@ console load SpringCollab2020/1-Beginner/DanTKO
 
    5,R,J,Z
    7,R
-   7,L,J
-  41,L,D,G
+   2,L,J
+  38,L,D,G
    5,L
-  11
+  13
    7,L,J
    5,L,Z
    1,L,J
@@ -106,6 +106,7 @@ console load SpringCollab2020/1-Beginner/DanTKO
   39,D
 
    9
+#time here: 0:15.793(929)
 
    1,S
    1,U,J
