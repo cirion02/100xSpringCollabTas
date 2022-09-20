@@ -61,21 +61,16 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    8,R
   12,J,L
   12,K,R
-  30,R,D
-   6,R,Z
-   1,L,J
-  16,L,K
-  11,R,J
-  23,R,D
-   5,R,J,Z
-  10,R
-   5,U,Z
+  22,R,D
+  10,D
+  6,Z,U,R
    
   40
-  
-   6,R
-   4,D
-   6,U,X
+   
+   1
+   1,J,L
+   9,K,L
+   5,U,X
   13,L,J
    1,K
   20,R,K
@@ -190,4 +185,4 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    5,R,Z
  135
  
-#0:30.889(1817)
+#0:29.818(1754)
