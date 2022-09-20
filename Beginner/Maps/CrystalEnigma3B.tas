@@ -3,14 +3,12 @@ console load SpringCollab2020/1-Beginner/Cookie
 
 #Start
  190
-   5,R,X
-   5
-  12,J,G
-   3,K,G
-   7,L,J,G
-   5,L,U,X
-   1
-  18,R
+   5,U,R,X
+   2,J,L
+   1,K,L
+  17,J,L
+   7,L
+   4,J,L
    5,L,D,Z
    2,R,J
   35,R
@@ -342,4 +340,5 @@ console load SpringCollab2020/1-Beginner/Cookie
    5,X
 
  135
-#0:54.026(3178)
+ 
+#0:53.737(3161)
