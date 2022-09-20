@@ -97,17 +97,17 @@ console load SpringCollab2020/1-Beginner/Ghajestis
 5,X,L,D
 13
 4,J,L
-5,X,U
-20
+5,Z,U
+19
 5,Z,R
-4,J,R
+3,J,R
 11,R
-26,D
+25,D
 5,X,R
 11,J,L
 3
-5,X,U
-17,J
+5,Z,U
+15,J
 5,X,R
 10
 3,J,R
@@ -127,4 +127,4 @@ console load SpringCollab2020/1-Beginner/Ghajestis
 5,X,R
 135
 
-#0:18.479(1087)
+#0:18.394(1082)
