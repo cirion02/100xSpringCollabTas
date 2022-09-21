@@ -125,9 +125,6 @@ console load SpringCollab2020/1-Beginner/Bissy
 8,L
 15,X,L
 
-#spinner cycle
-1
-
 5,C,U
 
 40
@@ -138,17 +135,14 @@ console load SpringCollab2020/1-Beginner/Bissy
 20,L
 17,J,L
 3
-19,J,L
-5,X,U
-8,J,R
-18,D,R
-17,D
-4
-5,Z,R
-1,J,L
-1,K,L
-1,J,L
-23,K,L
+12,J,L
+19,L
+5,X,U,R
+1,J,G
+10,D,L
+7,R,D
+10,R,D
+9,D
 77
 12,R
 5,Z,L,J
@@ -186,4 +180,4 @@ console load SpringCollab2020/1-Beginner/Bissy
 
 135
 
-#0:29.206(1718)
+#0:28.798(1694)
