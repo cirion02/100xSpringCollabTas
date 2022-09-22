@@ -1,3 +1,6 @@
+#made by Cirion02
+#optimized by Jules
+
 console load SpringCollab2020/1-Beginner/Cookie
    1
 
@@ -319,31 +322,22 @@ console load SpringCollab2020/1-Beginner/Cookie
    7,R
    1,R,J
   25,R,G
-  24,R,D,G
-   1,R
-   3,R,D
-   5,R,X
-   1,R,J,G
-   6,R
-   1,L
-  22,L,J,G
-  26,R,J,G
-   4,R,J
-   6,R,Z
-   1,L,J
-  18,L
-   5,R,J,Z
-  20,R,G
-   1,R,J,G
-  13,R,G
+  18,R,D,G
+   1,D
+   3,G
+   1,X,R
+   18,G,R
 
   40
-
-   1,L
-   6,R
-  28,R,J,Z
+  
+   8,D
+  10,Z,D,R
+   1,J,L
+  15,D,R
+   5,X,R
+  24,J,L
    5,X
 
  135
 
-#0:53.261(3133)
+#0:51.816(3048)
