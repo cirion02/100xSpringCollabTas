@@ -91,17 +91,24 @@ console load SpringCollab2020/1-Beginner/Cruor
 3,J,L
 11,L,D
 
-
-
 7,L
-5,X,U,R
+5,Z,U,R
 40
-6
-1,X,U
-10,R
+6,L
+4,J,L
+3,K,L
 5,X,U
 
 #+4f
+#7,L
+#5,X,U,R
+#40
+#6
+#1,X,U
+#10,R
+#5,X,U
+
+#+8f
 #5,Z,L,J
 #7,L
 #3,J,L
@@ -112,7 +119,7 @@ console load SpringCollab2020/1-Beginner/Cruor
 #11
 #5,U,X
 
-#+14f
+#+18f
 #7,L
 #5,X,U,R
 #40
@@ -120,7 +127,7 @@ console load SpringCollab2020/1-Beginner/Cruor
 #21,J,L
 #5,X,U
 
-#+21f
+#+25f
 #7,L
 #5,Z,U,R
 #40
@@ -147,4 +154,5 @@ console load SpringCollab2020/1-Beginner/Cruor
 
 135
 
-#0:16.762(986)
+#0:16.694(982)
+
