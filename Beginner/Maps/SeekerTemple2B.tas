@@ -206,30 +206,24 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
    7,L
    1,L,J
   11,L
-   5,D,X
-  10
-   1,L,J
-  14,L
-   4,L,J
-  12,L
-   1,R,J
-  18,R
-   1,R,J
-  14,R
-  32
-  10,J
-  15,L
-   5,R,X
-   1
-   1,L,J
-  14,L
+  15,D,X
+  10,L,C
+  22,J
+   5,X,R
+  51,G
+  17,D
+   2,J
+   5,X,R
+   2,J,R
+   8,R
    5,L,X
   90,D
   12,D
    5,L,Z
    1,L,J
    2,L
-  17,R
+  14,R
+   3
    2,L,J
   14,L
    5,L,U,X
@@ -240,4 +234,5 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
    5,U,X
  135
  
+#0:35.258(2074)
 #0:35.717(2101)
