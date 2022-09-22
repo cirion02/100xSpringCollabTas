@@ -44,16 +44,15 @@ console load SpringCollab2020/1-Beginner/Cruor
 5,X,R
 54
 5,X,L
-61
+57
 4,J,L
-1,K,L
-1,J,L
-3,L
-10,X,U,R
-5,G,R,J
-5,Z,D,R
-5
-13,J,L
+3,K,L
+2,G,R,J
+6,Z,U,R
+1,G,J,R
+5,R,D
+4,L,D
+21,J,L
 5,X,D
 3
 1,X,R
@@ -148,4 +147,4 @@ console load SpringCollab2020/1-Beginner/Cruor
 
 135
 
-#0:16.966(998)
+#0:16.932(996)
