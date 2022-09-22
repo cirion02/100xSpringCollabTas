@@ -14,10 +14,12 @@ console load SpringCollab2020/1-Beginner/Cruor
 40
 
 4
-
-1,G,J
-49,D,R
-10,J,R	
+1,J,L
+10,K,L
+5,X,D
+8,J,G,R
+16,R
+15,J,R
 5,X,R
 
 40
@@ -146,4 +148,4 @@ console load SpringCollab2020/1-Beginner/Cruor
 
 135
 
-#0:17.102(1006)
+#0:16.966(998)
