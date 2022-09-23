@@ -60,7 +60,6 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
   25,R,J
    
    5,L,X
-   
   12,L,J,G
   12,L,K,G
   12,L,J,G
@@ -137,7 +136,7 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
   10,J,G
    9,R
    5,R,J,G
-  57,G
+  56,G
    5,R,D,X
    5
   12,R,J
@@ -234,4 +233,4 @@ console load SpringCollab2020/1-Beginner/Cat_in_Box_01
    5,U,X
  135
 
-#0:34.731(2043)
+#0:34.714(2042)
