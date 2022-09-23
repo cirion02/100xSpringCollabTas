@@ -80,7 +80,6 @@ Repeat, 7
    1,D
    1
 EndRepeat
-
    1
    2,L
    5,L,J,Z
@@ -108,6 +107,7 @@ EndRepeat
    5,R,X
 
   40
+
    1
    9,L,J
    6,U,X
@@ -133,10 +133,11 @@ EndRepeat
    6,L,J,G
    1,L,K,G
    7,L
-   5,L,Z
+   7,L,Z
    1,R,J
-   9,L
-   6,U,X
+   2
+   5,R
+   5,U,X
    1,L,J
   13,L,D
    2,L,J
@@ -346,4 +347,4 @@ EndRepeat
 
  135
 
-#0:51.119(3007)
+#0:51.102(3006)
