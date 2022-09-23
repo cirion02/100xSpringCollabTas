@@ -103,18 +103,19 @@ console load SpringCollab2020/1-Beginner/IsaGoodFriend
    8,J,G,R
    5,U,Z
   15
-  5,X,R
-  1,J,L
+   5,X,R
+   1,J,L
   36,L,D
-  6,X,U,L
-  1,G,J
-  33,D,L
-  1,J,L
-  14,L
-  5,J,L
-  1,K,G,L
-  24,J,G,L
-  5,X,U
+   6,X,U,L
+   1,G,J
+  23,D,L
+   1,G
+   4,J,G,L
+  18,L,D
+   8,J,L
+   1,K,G,L
+  19,J,G,L
+   5,X,U
   15
   
   40
@@ -129,4 +130,4 @@ console load SpringCollab2020/1-Beginner/IsaGoodFriend
    5,L,D,X
  135
 
-#0:19.380(1140)
+#0:19.312(1136)
