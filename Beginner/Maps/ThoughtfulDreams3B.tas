@@ -119,15 +119,15 @@ console load SpringCollab2020/1-Beginner/IsaGoodFriend
   15
   
   40
-
+  
   14
-   5,R,U,X
-   1
-   8,R,J,G
-   7,R,D
-  10,R,J
-   6,R,D
-   5,L,D,X
+   6,R,U,X
+   9,R,J,G
+   5,X,R
+   8,J,R
+   2,R
+   1,X
+   4,L,D,X
  135
 
-#0:19.312(1136)
+#0:19.142(1126)
