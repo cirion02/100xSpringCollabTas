@@ -782,18 +782,18 @@ console load SpringCollab2020/1-Beginner/Thegur90
    1,R,K,G
   12,R
   40
-
 #lvl_Thegur90_Beginner_O
    1,R
-  14,Z,R,J
-   3,G,R,K
-   3,G,R,J
+  14,R,J,Z
+   3,R,K,G
+   3,R,J,G
    3,R
-   12,G,R,J
-   4,G,R,K
+  12,R,U,J,G
+   4,R,K,G
    7,R
-   2,J,R
-   5,X,R
-   12,J,R
-   5,X,U,R
-135
+   2,R,J
+   5,R,X
+  12,R,J
+   5,R,U,X
+ 135
+#1:08.408(4024)
