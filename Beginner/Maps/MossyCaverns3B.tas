@@ -1154,12 +1154,13 @@ console load SpringCollab2020/1-Beginner/itsabrody
    1,R,J,G
    9,R
   40
-  
+
 #lvl_outro
    4,R
    2,J
-   5,Z,D,R
-   17,J,L
-   5,X,U,L
+   5,R,D,Z
+  17,L,J
+   5,L,U,X
 
  135
+#2:56.715(10395)
