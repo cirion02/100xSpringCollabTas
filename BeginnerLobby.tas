@@ -10,7 +10,7 @@ Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/CE-HOS,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/HeavenlyOuterSpace3B,Start
+Read,Beginner/Maps/HeavensOuterSpace3B,Start
 Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/HOS-ES,Start
