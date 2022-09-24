@@ -4,21 +4,25 @@ console load SpringCollab2020/1-Beginner/Ghajestis
 #Start
 190
 
-17,J
-5,X,R
-5,G,J,R
-5,G,K,R
-4,G,J,R
-8,R
-13,R,J
+13,J
+6,X,U,R
+35,D
 5,X,R
 
-41
+#+4f
+#16,J
+#5,X,R
+#13,G,J,R
+#2,G,K,R
+#9,R
+#12,R,J
+#6,X,R
 
-5,G,J
-5,G,K
-3,G,J
-8,G,K
+
+40
+
+12,G,J
+9,G,K
 5,Z,R
 1,J,R
 8,R
@@ -28,10 +32,8 @@ console load SpringCollab2020/1-Beginner/Ghajestis
 13
 5,Z,R
 5
-1,J,R
-1,K,R
-1,J,R
-8,R
+4,J,R
+6,K,R
 5,X,D
 13
 5,X,L
@@ -46,8 +48,9 @@ console load SpringCollab2020/1-Beginner/Ghajestis
 5,X,U
 13
 5,Z,U,R
-12
-12,J,R
+8
+4,J,R
+8,K,R
 5,X,D
 14
 5,X,R,D
@@ -57,7 +60,7 @@ console load SpringCollab2020/1-Beginner/Ghajestis
 1,D,J
 69,O
 
-3,J
+2,J
 
 5,Z,R
 46
@@ -65,8 +68,7 @@ console load SpringCollab2020/1-Beginner/Ghajestis
 2,K,R
 15,X,D
 
-#2 of these are spinner cycle
-4,J
+2,J
 
 5,X,R
 40
@@ -127,4 +129,4 @@ console load SpringCollab2020/1-Beginner/Ghajestis
 5,X,R
 135
 
-#0:18.394(1082)
+#0:18.190(1070)
