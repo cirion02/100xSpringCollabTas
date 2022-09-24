@@ -137,8 +137,8 @@ console load SpringCollab2020/1-Beginner/Rue
   15,R
   
   15,U,X
-  6,D
-  42,D,R
+   6,D
+  42,R,D
   
    3,R,J
   24,R,D
@@ -224,7 +224,6 @@ console load SpringCollab2020/1-Beginner/Rue
    5,R,D,J
    9,J
   28,R,U
-  
    4,F,40
   37,F,42
    8,F,67
@@ -232,7 +231,7 @@ console load SpringCollab2020/1-Beginner/Rue
   24,F,105
   29,F,160
   29,R,D
-   5,X,U,R
+   5,R,U,X
    
    1
    
@@ -243,28 +242,28 @@ console load SpringCollab2020/1-Beginner/Rue
    1,J,G
   23,D
   
-  5,Z,L
-  2,J,G,L
+   5,L,Z
+   2,L,J,G
   10,L
-  9,J,L
+   9,L,J
   56,L
   
-  4,R
-  21,D,R
-  1,J,R
+   4,R
+  21,R,D
+   1,R,J
   14,R
-  1,J,R
+   1,R,J
   14,R
-  2,J,R
+   2,R,J
   
   30,R
-  20,D,J,R
-  1,K,G,R
-  1,J,G,R
-  5,R,D
-  9,D,L
-  46,D,R
-  5,Z,R
+  20,R,D,J
+   1,R,K,G
+   1,R,J,G
+   5,R,D
+   9,L,D
+  46,R,D
+   5,R,Z
   
   40
 
@@ -277,8 +276,8 @@ console load SpringCollab2020/1-Beginner/Rue
   16,R
   35,R,J
   75,F,27
-  5,L,X
-  1,J,R
+   5,L,X
+   1,R,J
   83
   
   13
@@ -289,7 +288,7 @@ console load SpringCollab2020/1-Beginner/Rue
   26
    1,R,U
    
-   31,F,82.16
+  31,F,82.16
    1,F,87.217
   10,F,89.339
    1,F,91.019
@@ -301,7 +300,7 @@ console load SpringCollab2020/1-Beginner/Rue
   11,F,354
   23,F,311.762
 
-62,R,D
+  62,R,D
    4,D
    4,R,D
    1,R,J,G
@@ -444,18 +443,16 @@ console load SpringCollab2020/1-Beginner/Rue
    1,F,90
   14,F,100
   10,F,103
-  15,X,U,R
-  
+  15,R,U,X
   30,L,D
-  14,D,R
-  1,J,R
+  14,R,D
+   1,R,J
   14,R
-  1,J,R
-  9,R
+   1,R,J
+   9,R
   
   40
   
-
 #lvl_Rue_Outro
    1,R
    1,S
@@ -463,38 +460,38 @@ console load SpringCollab2020/1-Beginner/Rue
   34
    5,R
    
-   1,J,R
+   1,R,J
   24,R
-   2,J,R
+   2,R,J
   12,R
   22,R,K
-   1,J,R,G
-   1,K,R,G
-  3,R
-  4,J,R,G
-  1,K,R,G
+   1,R,J,G
+   1,R,K,G
+   3,R
+   4,R,J,G
+   1,R,K,G
   22,R
 
   10,R,J
   27,R
-   1,G,R,J  
-   1,G,R,K
+   1,R,J,G
+   1,R,K,G
    9,R
-   1,G,R,K
-   26,R
+   1,R,K,G
+  16,R
+   8,R,J
+   5,R,D,X
+   7,R,J
+   3,R,D
+  16,L,D
    8,J
-   5,X,D,R
-   6,R,J
-   5,D,R
-   14,D,L
-   8,J
-   5,X,D,L
+   5,L,D,X
    1,J
    3
-   2,G,K
-   5,K,L
-   5,X,U,R
+   2,K,G
+   5,L,K
+   5,R,U,X
    
-   135
-   
-#1:16.194(4482)
+ 135
+
+#1:16.041(4473)
