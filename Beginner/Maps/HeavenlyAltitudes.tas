@@ -6,17 +6,24 @@ console load SpringCollab2020/1-Beginner/Abby
 
 #Start
   61
+  
+  #spinner cycle
+  2
+  
    2,R,J
    6,Z,R
    13,L,J
 
  156
-  42,D
-  21,R,D
+ 
+  27,L
+   5,X,D
+   5,J,R
+  18,R
    1,R,J,G
-   2,R,K,G
-  29,R,D
-  38
+   3,R,K,G
+  30,R,D
+  39
    5,R,Z
    1,L,J
   35,L,D
@@ -42,7 +49,12 @@ console load SpringCollab2020/1-Beginner/Abby
    5,U,Z
   12,R
    5,U,X
- 134
+   
+   56
+   
+   40
+   
+   38,R
    5,R,X
   39
    4,J
@@ -148,4 +160,4 @@ console load SpringCollab2020/1-Beginner/Abby
 
  135
  
-#0:54.179(3187)
+#0:54.077(3181)
