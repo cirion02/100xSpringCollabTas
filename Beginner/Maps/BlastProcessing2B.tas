@@ -247,8 +247,15 @@ EndRepeat
   20,R,J
   10,R,D
    1,R,D,G
-  57,R,D
+  12,R,D
+  
+Repeat, 7
+   2,R
    1
+   2,L
+   1
+EndRepeat
+  
   15,R,X
    1,R,G
   22
@@ -295,4 +302,4 @@ EndRepeat
    5,R,D,X
  135
 
-#0:43.435(2555)
+#0:43.367(2551)
