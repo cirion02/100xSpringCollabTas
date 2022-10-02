@@ -125,15 +125,15 @@ EndRepeat
    4,R,G
   19,D
   13,R,J
-Repeat, 11
+Repeat, 9
    1,G
    1
 EndRepeat
-   5,L,X
+   9,L,X
 
   40
 
-  10
+   6
    5,U,C
    1,J
    7
@@ -297,4 +297,4 @@ EndRepeat
    5,R,D,X
  135
 
-#0:44.302(2606)
+#0:44.234(2602)
