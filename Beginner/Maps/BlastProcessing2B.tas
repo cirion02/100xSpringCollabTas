@@ -7,8 +7,7 @@ console load SpringCollab2020/1-Beginner/Flagpole1up
 #Start
   84
    5,R,J,Z
-  12,L,D
-  15,D,C
+  13,L,D
    1,X
    4,J
    5,L,X
@@ -287,4 +286,4 @@ EndRepeat
    5,R,D,X
  135
 
-#0:44.795(2635)
+#0:44.608(2624)
