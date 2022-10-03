@@ -8,17 +8,17 @@ console load SpringCollab2020/1-Beginner/Abby
   61
   
   #spinner cycle
-  2
+   1
   
    2,R,J
-   6,Z,R
-   13,L,J
+   6,R,Z
+  13,L,J
 
  156
  
   27,L
-   5,X,D
-   5,J,R
+   5,D,X
+   5,R,J
   18,R
    1,R,J,G
    3,R,K,G
@@ -28,11 +28,12 @@ console load SpringCollab2020/1-Beginner/Abby
    1,L,J
   35,L,D
   43,R,D
-   8,X,R
-   8,J,R,G
-   6,R
-  18,R,J
-  45
+   8,R,X
+   5,R,J,G
+  16,R,D
+   1,R,J
+   9,R
+  44
    5,R,X
    1,L,J
   21,D
@@ -50,11 +51,11 @@ console load SpringCollab2020/1-Beginner/Abby
   12,R
    5,U,X
    
-   56
+  56
    
-   40
+  40
    
-   38,R
+  38,R
    5,R,X
   39
    4,J
@@ -69,11 +70,11 @@ console load SpringCollab2020/1-Beginner/Abby
   46
   14,D
   10,R,D
-   5,J,R,G
-  26,D,R
+   5,R,J,G
+  26,R,D
   59,L,D
    1,L
-   5,X,D
+   5,D,X
   68,D
    5,L,Z
   26
@@ -87,61 +88,61 @@ console load SpringCollab2020/1-Beginner/Abby
    
   50
   28,R
-   5,Z,U
+   5,U,Z
   27,L,D
   16,D
   50,L,D
   24,D
-   5,Z,R
-   3,J,L
+   5,R,Z
+   3,L,J
   
   50
-   5,X,D,L
-   1,J,R
+   5,L,D,X
+   1,R,J
    2,L
   
   37
-   5,X,D
+   5,D,X
    1,J
    2,R,D
   17,D
   23,R,J
-   5,Z,U
+   5,U,Z
   34,R,J
  100
  111,R
-   5,X,D
-   1,J,L,D
+   5,D,X
+   1,L,D,J
   19,L,D
   40,L,D
    9,R,X
   62
   14,R
-   5,X,R
-  43,D,L
+   5,R,X
+  43,L,D
   
  175
   37,R,D
-  10,D,R,X
-   1,G,K
-   1,J,L
+  10,R,D,X
+   1,K,G
+   1,L,J
   16,L,D
-  10,X,D,L
-   1,J,R
-   7,J,L
-   3,J,R
-   37
-   5,X,U
-   47,R
+  10,L,D,X
+   1,R,J
+   7,L,J
+   3,R,J
+  37
+   5,U,X
+  47,R
    1,X
-   4,X,D
+   4,D,X
   95,D
-   5,Z,R
-   1,J,L
+   5,R,Z
+   1,L,J
    3,L
   91,D
-   5,Z,R
-   1,J,L
+   5,R,Z
+   1,L,J
    1,L
   39
    5,R,X
@@ -152,12 +153,12 @@ console load SpringCollab2020/1-Beginner/Abby
   26,L
    5
  177
- 12,J
- 5,X,R
- 7,J,R
- 3,R
- 5,X,U
+  12,J
+   5,R,X
+   7,R,J
+   3,R
+   5,U,X
 
  135
- 
-#0:54.077(3181)
+
+#0:54.026(3178)
