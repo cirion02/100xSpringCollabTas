@@ -33,7 +33,7 @@ Read,Menuing/EnterLevel
 Read,Beginner/Maps/Starjump2B,Start
 Read,Menuing/ExitLevel
 
-Read,Beginner/Lobby/Star-HA
+Read,Beginner/Lobby/Star-HA,Start
 Read,Menuing/EnterLevel
 Read,Beginner/Maps/HeavenlyAltitudes,Start
 Read,Menuing/ExitLevel
@@ -73,27 +73,27 @@ Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/ItS-TD,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/ThoughtfulDreams3B
+Read,Beginner/Maps/ThoughtfulDreams3B,Start
 Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/TD-ST,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/SeekerTemple2B
+Read,Beginner/Maps/SeekerTemple2B,Start
 Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/ST-TotK,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/TotK2B
+Read,Beginner/Maps/TotK2B,Start
 Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/TotK-Chill,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/ChilloutMountain3B
+Read,Beginner/Maps/ChilloutMountain3B,Start
 Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/Chill-DS,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/DesoliteSpire3B
+Read,Beginner/Maps/DesoliteSpire3B,Start
 Read,Menuing/ExitLevel
 
 Read,Menuing/RtmFromLobby
