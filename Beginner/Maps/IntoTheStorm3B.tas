@@ -26,7 +26,7 @@ console load SpringCollab2020/1-Beginner/Snas
 10,R,D
 19,D,L
 27,G,U
-17,J,U,R
+15,J,U,R
 5,Z,R
 
 40
@@ -42,7 +42,7 @@ console load SpringCollab2020/1-Beginner/Snas
 7,D
 
 #Spinner Cycle
-2
+1
 
 5,X,D,R
 7,J,R
@@ -141,4 +141,4 @@ console load SpringCollab2020/1-Beginner/Snas
 5,X,D,L
 135
 
-#0:26.350(1550)
+#0:26.299(1547)
