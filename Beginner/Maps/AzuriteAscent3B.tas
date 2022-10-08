@@ -4,6 +4,7 @@ console load SpringCollab2020/1-Beginner/CANADIAN
    1
 	
 #Start
+#lvl_01
  190
 
    6,U,X
@@ -19,44 +20,49 @@ console load SpringCollab2020/1-Beginner/CANADIAN
 
   40
 
+#lvl_02
    1
    1,L,J
   15,L,K
    5,U,X
-   6,J,L
+   6,L,J
   11,L
-   7,J,R
-   6,X,R
+   7,R,J
+   6,R,X
 
   40
   
+#lvl_03
    9
-  14,X,U,R
+  14,R,U,X
    1,D
-   5,Z,U,R
+   5,R,U,Z
 
-  40 
+  40
   
+#lvl_04
   41,D
-  10,X,D,L
-   1,J,D
+  10,L,D,X
+   1,D,J
    1,K
    5,R
   28,R,J
    5,R,U,X
   43,L,D
   18
-   5,X,U,R
+   5,R,U,X
 
   40
   
-  25,D,R
+#lvl_05 (0)
+  25,R,D
   17,D
-   6,Z,U,L
-   4,G,J
+   6,L,U,Z
+   4,J,G
 
   40
 
+#lvl_05b
   11,J,G
    3,R,K
    6,L,Z
@@ -71,30 +77,33 @@ console load SpringCollab2020/1-Beginner/CANADIAN
 
   40
    
+#lvl_05 (1)
    1,J,G
   20,D
-   7,D,R
+   7,R,D
   10,R,U,Z
-   5,J,L
-  10,X,D
+   5,L,J
+  10,D,X
   13,J
-   6,X,U,R
+   6,R,U,X
 
   40
    
+#lvl_06
   40,L
    5,U,X
    1,J
-  27,J,R
-   6,G,K
+  27,R,J
+   6,K,G
    9,R
   11,J
    5,R,X
 
   40
   
+#lvl_07
    1
-   2,J,R
+   2,R,J
    2,R,K,G
    3,R,J,G
    2,R

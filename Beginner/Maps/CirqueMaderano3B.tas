@@ -5,11 +5,12 @@ console load SpringCollab2020/1-Beginner/Skeleton
    1
 
 #Start
+#lvl_skeleton2_00
  190
    5,L
-   1,J,L
-   9,D,L
-  16,D,R
+   1,L,J
+   9,L,D
+  16,R,D
    9,D
    5,R,X
    6
@@ -21,7 +22,8 @@ console load SpringCollab2020/1-Beginner/Skeleton
    5,R,D,X
    
   40
-#_01
+
+#lvl_skeleton2_01
    3,R,K
   21,R,J,G
   13,R,D
@@ -42,7 +44,8 @@ EndRepeat
    5,R,U,X
 
   40
-#_02
+
+#lvl_skeleton2_01 (0)
    1
   72,O
 
@@ -55,8 +58,10 @@ EndRepeat
    3,L
    9,D
    5,R,D,X
+
   40
-#_02_Berry
+
+#lvl_skeleton2_02_berry
    1
    1,J
   33,D
@@ -94,13 +99,29 @@ EndRepeat
   14,R,D
    7,D
    7,L,D
-  41
-   5,L,U,X
-  43
+
+  40
+
+#lvl_skeleton2_02 (1)
+   1
+   8,L,U,X
+
+  40
+
+#lvl_skeleton2_03 (0)
    1,J
-  56,R,D
+   9,R,D
+
+  40
+
+#lvl_skeleton2_02 (2)
+   7,R,D
    5,R,U,Z
-  51
+
+  40
+
+#lvl_skeleton2_03 (1)
+  11
    5,R,U,X
    1
    1,J
@@ -140,8 +161,12 @@ EndRepeat
    3,D
   36,R,D,G
   11,D
-   5,R,U,X
-  43
+   6,R,U,X
+
+  40
+
+#lvl_skeleton2_03_berry
+   2
    1,J
   19,D
    5,L,X
@@ -150,13 +175,18 @@ EndRepeat
    7,L,D
    5,L,J,Z
    2,L,J
+
   40,J
+
+#lvl_skeleton2_03 (2)
    4,L,J
    1,K
    3,L,K
    5,R,U,X
+
   40
 
+#lvl_skeleton2_04 (0)
    1
    1,J,G
   36,D
@@ -228,13 +258,25 @@ EndRepeat
   10
    1,R,D,J
   30,R,D
+
   40
+
+#lvl_skeleton2_04_berry
    5,L,D,X
    4,R,J
   13,R
    9,R,J
    5,R,U,X
-  82
+
+  40
+
+#lvl_skeleton2_04 (1)
+   1
+
+  40
+
+#lvl_skeleton2_05
+   1
    1,L,J
   19,L,D
    5,L,X

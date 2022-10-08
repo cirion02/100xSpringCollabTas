@@ -2,14 +2,15 @@
 #optimized by Cirion02
 
 console load SpringCollab2020/1-Beginner/iamdadbod
-
    1
+
 #Start
+#lvl_totk_intro
   88
-   5,J,L
+   5,L,J
    2,L
    6,L,J
-   9,K,R
+   9,R,K
    6,R,Z
    1,L,J
   18,D
@@ -28,45 +29,48 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    
   40
   
+#lvl_totk1
    1,J
    5,R,J
-   6,R,G,K
-  10,J,L
+   6,R,K,G
+  10,L,J
    2,L
-   5,Z,R
-  13,J,R
-   5,X,U,R
-   1,G,J
+   5,R,Z
+  13,R,J
+   5,R,U,X
+   1,J,G
   21,D
-   5,X,R
-   8,J,L
+   5,R,X
+   8,L,J
   15,L
-   7,D,L
-   5,Z,R
-   1,J,R
+   7,L,D
+   5,R,Z
+   1,R,J
    7,R
-   1,J,R
+   1,R,J
    7,R
    
   40
    
+#lvl_totk2
    7,L
-  10,J,L
-   5,Z,R
+  10,L,J
+   5,R,Z
    7,L,K
-   1,J,R
+   1,R,J
    8,R
-  12,J,L
-  12,K,R
+  12,L,J
+  12,R,K
   22,R,D
   10,D
-  6,Z,U,R
+   6,R,U,Z
    
   40
    
+#lvl_totk3 (0)
    1
-   1,J,L
-   9,K,L
+   1,L,J
+   9,L,K
    5,U,X
   13,L,J
    1,K
@@ -94,20 +98,23 @@ console load SpringCollab2020/1-Beginner/iamdadbod
 
   40
 
+#lvl_totk_berry_1
   10,R
   22,R,J
-   5,X,U
-   1,J,R
-   1,K,R
-   18,R
+   5,U,X
+   1,R,J
+   1,R,K
+  18,R
    
    6,L,J,Z
   15,L,D
   22,D
   35,L,D
    5,L,U,X
+
   40
 
+#lvl_totk3 (1)
   10
    5,L,X
   51,L,G
@@ -132,7 +139,10 @@ console load SpringCollab2020/1-Beginner/iamdadbod
   31,D
    2,J
    5,R,X
+
   40
+
+#lvl_totk4
    6,R,J,G
    7,R,K,G
    7,R,D
@@ -146,18 +156,20 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    2,R,J
    7,R
   15,L,J
-   5,X,D,R
+   5,R,D,X
   
   40
 
+#lvl_totk5
    1
   12,R,J,G
    3,R,K,G
   17,R
-   5,Z,U,R
+   5,R,U,Z
   
   40
    
+#lvl_totk_exit
   11,J
    5,L,U,Z
   37,R

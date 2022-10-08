@@ -5,6 +5,7 @@ console load SpringCollab2020/1-Beginner/DanTKO
    1
 
 #Start
+#lvl_DanTKO_Intro
  190
    5,R,J,Z
    7,R
@@ -31,6 +32,7 @@ console load SpringCollab2020/1-Beginner/DanTKO
 
   40
 
+#lvl_DanTKO_01
    1,R
   18,L
    5,L,Z

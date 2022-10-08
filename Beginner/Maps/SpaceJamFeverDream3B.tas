@@ -3,6 +3,7 @@ console load SpringCollab2020/1-Beginner/Cruor
    1
 	
 #Start
+#lvl_cruor_00
  190
    2,L,J
    1,L,K,G
@@ -12,6 +13,7 @@ console load SpringCollab2020/1-Beginner/Cruor
 
   40
 
+#lvl_cruor_01
    4
    1,L,J
   10,L,K
@@ -24,11 +26,13 @@ console load SpringCollab2020/1-Beginner/Cruor
 
   40
 
+#lvl_cruor_01a
    1
    1,S
    1,D,J
   42
 
+#lvl_cruor_02
    5,R,X
   15
    5,D,X
@@ -63,6 +67,7 @@ console load SpringCollab2020/1-Beginner/Cruor
 
   40
 
+#lvl_cruor_03_tp
    1,L,J
    9
    7,R,U,X
@@ -93,7 +98,10 @@ console load SpringCollab2020/1-Beginner/Cruor
    1,L,J
    4,L
    5,R,U,Z
+
   40
+
+#lvl_cruor_04
    6,L
    4,L,J
    3,L,K
@@ -144,6 +152,7 @@ console load SpringCollab2020/1-Beginner/Cruor
 
   40
 
+#lvl_cruor_05
   11
    5,R,D,X
    1,J

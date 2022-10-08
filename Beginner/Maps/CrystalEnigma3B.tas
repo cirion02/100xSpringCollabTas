@@ -5,6 +5,7 @@ console load SpringCollab2020/1-Beginner/Cookie
    1
 
 #Start
+#lvl_ CookieBeg_intro
  190
    5,R,U,X
    2,L,J
@@ -30,9 +31,9 @@ console load SpringCollab2020/1-Beginner/Cookie
    5,R,D,X,G
   12,R,G
   
-
   40
   
+#lvl_ CookieBeg_1
    1,G
    1,D
    5,L,J,Z
@@ -64,6 +65,7 @@ console load SpringCollab2020/1-Beginner/Cookie
   
   40
 
+#lvl_ CookieBeg_2
   13,G
    1,J
    8,D,J
@@ -108,6 +110,7 @@ EndRepeat
 
   40
 
+#lvl_ CookieBeg_4 (0)
    1
    9,L,J
    6,U,X
@@ -145,6 +148,7 @@ EndRepeat
 
   40
 
+#lvl_ CookieBeg_Strawberry1
    8
    1,R,J
    5,U,X
@@ -154,6 +158,7 @@ EndRepeat
 
   40
 
+#lvl_ CookieBeg_4 (1)
   10
    5,D,X
    6
@@ -222,10 +227,10 @@ EndRepeat
   16,J
    5,R,U,X
 
-  41
+  40
 
-   9
-
+#lvl_ CookieBeg_Strawberry2
+  10
    1,D
    5,L,X
    1,L,J
@@ -246,10 +251,11 @@ EndRepeat
    3,R
    5,R,D,X
    1,R,G
-
   12
 
   40
+
+#lvl_ CookieBeg_3
   12,D,G
    1,R
    3,L,D
@@ -259,6 +265,8 @@ EndRepeat
    5,U,X
 
   40
+
+#lvl_ CookieBeg_Strawberry3
    1
    6,L
   15,U,Z
@@ -269,9 +277,10 @@ EndRepeat
 
    5,R,X
 
-  41
+  40
 
-  10
+#lvl_ CookieBeg_5
+  11
    5,D,X
   10,L
    5,R,J,Z
@@ -327,6 +336,7 @@ EndRepeat
 
   40
 
+#lvl_ CookieBeg_Outro
    8,D,J
   10,R,D,Z
    1,L,J

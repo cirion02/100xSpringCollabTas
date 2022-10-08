@@ -5,6 +5,7 @@ console load SpringCollab2020/1-Beginner/Flagpole1up
    1
 
 #Start
+#lvl_Flagpole1up_00_Intro
   84
    5,R,J,Z
   13,L,D
@@ -47,6 +48,7 @@ EndRepeat
 
   40
   
+#lvl_Flagpole1up_01
    1,J
    4,L
    5,L,D
@@ -83,11 +85,13 @@ EndRepeat
 
   40
 
+#lvl_Flagpole1up_02 (0)
   10
    6,R,D,X
 
   40
 
+#lvl_Flagpole1up_BerryPuzzle01
    9
    5,R,D,X
    1,R,J
@@ -133,6 +137,7 @@ EndRepeat
    
   40
 
+#lvl_Flagpole1up_02 (1)
    6
    5,U,C
    1,J
@@ -156,6 +161,7 @@ EndRepeat
 
   40
   
+#lvl_Flagpole1up_03
   11,R
   15,L,X
    1,G
@@ -192,6 +198,7 @@ EndRepeat
 
   40
   
+#lvl_Flagpole1up_04 (0)
   10
    5,L,D,X
    9,R,J
@@ -207,6 +214,7 @@ EndRepeat
 
   40
 
+#lvl_Flagpole1up_BerryPuzzle02
   18,R
   15
   11,G
@@ -229,12 +237,14 @@ EndRepeat
 
   40
 
+#lvl_Flagpole1up_04 (1)
    1,L,J
    9,R
    6,U,X
 
   40
 
+#lvl_Flagpole1up_05
    1,L,J
   10
    6,L,U,X
@@ -281,6 +291,8 @@ EndRepeat
    5,R,U,X
 
   40
+
+#lvl_Flagpole1up_06_Outro
    1
    1,J,G
    7,D

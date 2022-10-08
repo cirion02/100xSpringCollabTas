@@ -4,6 +4,8 @@
 console load SpringCollab2020/1-Beginner/Bissy
    1
 
+#Start
+#lvl_Bissy_00
  190
    6,L,J,Z
    9,L
@@ -12,19 +14,21 @@ console load SpringCollab2020/1-Beginner/Bissy
 
   40
 
+#lvl_Bissy_01
   15,R,D
    5,R,J,Z
    7,R
   20,R,J
-   5,U,X
+   6,U,X
 
-  42
+  40
 
+#lvl_Bissy_02 (0)
+   1
   12,J
    5,R,X
    5
    1,J,G
-
    8,D
   15,R,D
    5,R,J,Z
@@ -32,6 +36,7 @@ console load SpringCollab2020/1-Beginner/Bissy
 
   40
 
+#lvl_Bissy_03 (1)
    6,R
   10,R,J
    3
@@ -39,6 +44,7 @@ console load SpringCollab2020/1-Beginner/Bissy
 
   40
 
+#lvl_Bissy_02 (1)
    3
   11,J,G
    1,R,K
@@ -47,6 +53,7 @@ console load SpringCollab2020/1-Beginner/Bissy
 
   40
 
+#lvl_Bissy_01B
   14,L,J
   14,L,K
 
@@ -61,12 +68,16 @@ console load SpringCollab2020/1-Beginner/Bissy
 
   40
 
+#lvl_Bissy_02 (2)
   10
    5,R,D,Z
    1,R,J
    4,R
 
   40
+
+
+#lvl_Bissy_03 (1)
    3,R
    4,R,J
    6,J
@@ -76,9 +87,11 @@ console load SpringCollab2020/1-Beginner/Bissy
    5,R,J,Z
    7,R
   21,R,D
-   5,R,U,X
+   6,R,U,X
 
-  41
+  40
+
+#lvl_Bissy_03B
    1
    1,L,J
   13,L,D
@@ -115,6 +128,7 @@ console load SpringCollab2020/1-Beginner/Bissy
 
   40
 
+#lvl_Bissy_03 (2)
    2
    4,G
    1,J
@@ -128,6 +142,7 @@ console load SpringCollab2020/1-Beginner/Bissy
 
   40
 
+#lvl_Bissy_04
   11,J
    5,U,X
    1,L,J
@@ -163,6 +178,7 @@ console load SpringCollab2020/1-Beginner/Bissy
 
   40
 
+#lvl_Bissy_05
   10,R,J,G
    7,R
    3,J,G
