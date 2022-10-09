@@ -13,21 +13,34 @@ console load SpringCollab2020/1-Beginner/Skeleton
   16,R,D
    9,D
    5,R,X
-   6
-   4,R
+  10
    5,U,X
    1,J
-  23,L,D
-   7,L,J
+   9,L,J
+   9,L
+   4,R
+   3,J,R
    5,R,D,X
    
+  # 4,R
+  # 5,U,X
+  # 1,J
+  #23,L,D
+  # 7,L,J
+  # 5,R,D,X
+   
   40
+ 
 
 #lvl_skeleton2_01
-   3,R,K
-  21,R,J,G
-  13,R,D
-  16,D
+
+  # 3,R,K
+  #21,R,J,G
+  #13,R,D
+  #16,D
+  
+   1,J
+  35,D
    7,R,Z
 Repeat, 3
    1,J,G
@@ -286,4 +299,4 @@ EndRepeat
    5,L,U,X
  134
  
-#0:42.857(2521)
+#0:42.483(2499)
