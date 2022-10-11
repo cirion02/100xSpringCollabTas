@@ -84,7 +84,7 @@ EndRepeat
    4,R,J
    
   40
-
+  
 #lvl_hennyburgr-2 (1)
    4,R
    2,J,G
@@ -93,22 +93,16 @@ EndRepeat
    5,R,X
 
   40
-
+  
 #lvl_hennyburgr-3
    3,R,J
   45,R
    1,L,J
-   4,L
-   5,U,X
-  10
-   4,L,J
-   7,L
-   5,U,X
-  24,D
-   5,L,J,Z
-  19,R
-   1,L,J
    3,L
+   2
+   5,U,X
+  53,J,L
+  18
    5,U,X
 
   40
