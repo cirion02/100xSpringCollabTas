@@ -128,7 +128,7 @@ EndRepeat
 
   40
 
-#lvl_hennyburgr-5
+#lvl_hennyburgr-5	
    1,L,J
    9,R,D
    5,U,X
@@ -141,20 +141,15 @@ EndRepeat
   20,L,D
    5,L,J,X
    7,L
-  16,L,D
-   5,D,X
-   1,J,G
-  14,R,D
-   4,J
-   5,R,X
-   1,J
-  15,R,J
-   7,L
+  16,L
+   5,X,D,R
+  11,J,L
+  18,D,L
+  16,R
    5,U,X
-  31,R,D
-   5,R,J,Z
-   7,R
-  11,R,J
+   1,J,R
+  12,R,D
+  15,J,R
    5,U,X
   29,R,D
    6,R,D,X
@@ -214,6 +209,7 @@ EndRepeat
    4,L,D,X
  135
 
-#0:37.638(2214)
+#0:37.264(2192)
+
 
 
