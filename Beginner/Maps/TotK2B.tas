@@ -77,10 +77,14 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    1,K,R
   11,J,R
   23,D,R
-   2,J
+  
+  #3rd frame is for spinner cycle 
+   3,J
+   
   10,X,D,R
-   1,G,J
-  12,G,K
+   4,L
+   1,J,R
+  12,K,L
    5,X,U,R
 
   40
@@ -191,4 +195,4 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    5,R,Z
  135
  
-#0:26.622(1566)
+#0:26.707(1571)
