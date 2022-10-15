@@ -7,6 +7,7 @@ console load SpringCollab2020/1-Beginner/iamdadbod
 #Start
 #lvl_totk_intro
   88
+  
    5,L,J
    2,L
    6,L,J
@@ -54,15 +55,21 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    
 #lvl_totk2
    7,L
-  10,L,J
+   
+#this is for fun bino storage it's actually a spinner cycle
+   1,X
+   
+   9,L,J
    5,R,Z
-   7,L,K
-   1,R,J
-   8,R
-  12,L,J
-  12,R,K
-  22,R,D
-  10,D
+   1,K
+   6,L,K
+   1,J
+   1,G,K,L
+  13,G,J,L
+   8,G,K,L
+   4,J,R
+  27,R,D
+   4,D
    6,R,U,Z
    
   40
@@ -184,4 +191,4 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    5,R,Z
  135
  
-#0:28.118(1654)
+#0:27.999(1647)
