@@ -62,20 +62,18 @@ console load SpringCollab2020/1-Beginner/Abby
   56
    
   40
-   
 #lvl_Jude_02
   38,R
    5,R,X
-  39
-   4,J
-   2,R,K
-  11,R
+  43
+   5,R,J,Z
+  10,R
   37
-   5,U,X
+   5,U,Z
   41
    1,L,J
   22,L,D
-  38,D
+  37,D
   46
   14,D
   10,R,D
@@ -83,7 +81,7 @@ console load SpringCollab2020/1-Beginner/Abby
   26,R,D
   59,L,D
    5,D,X
-  68,D
+  67,D
    5,L,Z
   26
    4,L,J
@@ -196,4 +194,4 @@ console load SpringCollab2020/1-Beginner/Abby
 
  135
 
-#0:52.122(3066)
+#0:52.071(3063)
