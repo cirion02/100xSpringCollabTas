@@ -77,18 +77,18 @@ console load SpringCollab2020/1-Beginner/Snas
    8,L,K
    1,L
   26,L,J
-   9,U,X
-   6,R
+   8,U,X
+   7,R
   15,U,C
-   2
-   5,R
-  22,R,D
+   3
+  26,R,D
   15,L
   17,U,X
-  15,U,C
+   7,U,C
+   9,R
   15,U,X
-  19,R
-  34,L
+  16,R
+  33,L
   15,U,X
   15,U,C
   16,R
@@ -111,6 +111,7 @@ console load SpringCollab2020/1-Beginner/Snas
   40
 
 #lvl_Snas06b
+
    5,R,J
    9,L,K
    6,L,X
@@ -153,4 +154,4 @@ console load SpringCollab2020/1-Beginner/Snas
    5,L,D,X
  135
 
-#0:26.248(1544)
+#0:26.197(1543)
