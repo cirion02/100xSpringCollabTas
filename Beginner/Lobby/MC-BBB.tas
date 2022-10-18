@@ -9,9 +9,11 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 4119.70846605301 832
    1,L,J
    1,L
    6,U,X
-  42,R,D
+   2,R,D
+   1,J
+  15,R,D
    5,R,D,X
    8,R,J
   20,R,D
    1,X
-#0:01.717(101)
+#0:01.309(77)
