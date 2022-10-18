@@ -3,7 +3,8 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 3192 160
 
 #Start
   36
-  14,R,J
+   5,R
+   6,R,J
   15,D,X
    2,J
    5,R,Z
@@ -15,5 +16,5 @@ console load SpringCollab2020/0-Lobbies/1-Beginner 3192 160
    5,L,J
   10,L
    1,X
-#0:01.258(74)
+#0:01.207(71)
 
