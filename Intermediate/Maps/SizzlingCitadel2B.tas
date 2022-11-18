@@ -1,0 +1,283 @@
+#Made by Cirion02
+
+console load SpringCollab2020/2-Intermediate/Noax
+   1
+
+#Start
+#lvl_Noax_00
+ 190
+ 
+   8,J
+   6,L,U,X
+   1,J,G
+  27,L,D
+   4,L,Z
+   1,L,J
+  13,L,D
+  15,D,X
+   4,L,Z
+   3,L,J
+   2,L
+   
+  40
+  
+#lvl_Noax_01 (0)
+   5,L
+   3,L,J
+   1,L,K,G
+   2,L,J,G
+   8,L
+   4,L,J
+   4,L,K,G
+  12,R,J
+   5,L,X
+   
+  40
+   
+#lvl_Noax_S01
+  11,J,G
+   6,K,G
+   7,L,U,X
+  11,R,J
+   5,R,X
+  15,L
+   5,U,X
+  26,R,J
+  32,R,D
+   4,R,Z
+   1,J
+  15,L,D
+   4,L
+   2,L,J
+  16,L
+  10,R,D,X
+   1,J
+   3,K,G
+   6,R,J,G
+   5,R,D,X
+  
+  40
+  
+#lvl_Noax_01 (1)
+   1,R,J
+   7,R
+   7,R,J
+   5,D,X
+ 116
+   5,L,X
+  23
+   5,L,U,X
+   1,R,J
+   1,R,K
+   1,R,J
+  16,R
+   5,R,D,X
+  15
+   5,R,X
+  11
+  15,U,X
+   5,L,C
+   7
+   4,L,J
+   2,L,K
+   5,L,Z
+   7
+   4,L,J
+  12,L,K
+   5,R,X
+   1,J,G
+   5,R,X
+  22
+   5,R,D,X
+   
+  40
+ 
+#lvl_Noax_02 (0)
+  10
+   5,U,X
+  23
+   1,L,J
+   1,L
+   5,D,X
+  36
+   5,L,D,X
+   1,J
+   2,K,G
+   
+  40
+   
+#lvl_Noax_S02
+   7,J,G
+   5,U,X
+   
+  40
+  
+#lvl_Noax_02 (1)
+   1,J,G
+  19,D
+   5,R,Z
+  25
+  26,D
+   5,R,X
+  13
+   5,R,Z
+   9
+   4,R,J
+   3,R,K
+   5,U,X
+  11
+   4,L,J
+   5,U,X
+  
+  40
+  
+#lvl_Noax_03
+  11
+  15,D,X
+   5,R,C
+  15
+   5,R,D,X
+   1,J
+   1,L,K
+  22,L,D
+   5,U,X
+  18
+  20,R,D
+  23,D
+   5,R,X
+  26,L,D
+   5,D,X
+  26
+   3,D
+   5,R,X
+  67
+   4,R,J
+  40,R,K
+   1,G
+  12,J,G
+  12,K,G
+   8,J,G
+   6,K,G
+   5,R,X
+  18
+   4,L,G
+   5,U,X
+  16
+  18,L
+   5,R,X
+   3,R,J
+  11,R
+   1,R,J
+   9,R
+   
+  40
+  
+#lvl_Noax_04
+   8,R
+   5,U,X
+  16
+   9,R
+   5,U,X
+   1,J
+  15,L,J
+   5,R,X
+  15
+   4,R,J
+  10,L,K
+   5,R,X
+  12,J,G
+  12,K,G
+  12,L,J,G
+   2,K,G
+   1,L,J,G
+   5,L
+   6
+   3,L
+  14
+  11,L
+   6
+  15,U,X
+  15,L
+  17
+   2,L,J
+  14,L
+   8,L,D
+   6,L,J
+   9,L
+   3,L,D
+   8,L,J
+   1,R,K
+   9,R,J
+   8,R
+  16,L,K
+   1,L,J
+   4,L,K
+   5,L,U,X
+  22
+   4,L,J
+   7,L,D
+  17,R,D
+   5,U,X
+   2,R,J
+  15,R
+   1,L,J
+  10,L,K
+  12,L
+   1,G
+   2,J,G
+  13,L,J
+  12,K,G
+   2,J,G
+   5,L,X
+  23
+   4,R,J
+  12,R,K
+   5,R,X
+  63
+   5,R,Z
+   7,L,J
+   
+   #spinner cycle
+   1
+   
+   5,U,X
+  10
+  17,R
+   5,U,X
+  21
+   6,L,U,X
+   1,R,J
+  22,R,K
+   1,G
+   1,J
+   7,R,J
+   9,R
+  10,R,J
+   1,L,K
+  50,L,J
+   2,L,K
+  15,R,X
+   5,L,U,C
+  
+  40
+  
+#lvl_Noax_05
+   1
+  72,O
+  
+   4,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   3,K,G
+  12,J,G
+   1,L,J
+  12,K,G
+   9,L,J,G
+   7,L
+  15,L,J
+   5,U,X
+   
+ 135
+ 
+#0:41.871(2463)
