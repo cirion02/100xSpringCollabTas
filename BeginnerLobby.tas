@@ -15,7 +15,7 @@ Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/HOS-ES,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/ElectricStratosphere1BNF,Start
+Read,Beginner/Maps/ElectricStratosphere2B,Start
 Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/ES-BP,Start
@@ -96,4 +96,3 @@ Read,Menuing/EnterLevel
 Read,Beginner/Maps/DesoliteSpire3B,Start
 Read,Menuing/ExitLevel
 
-Read,Menuing/RtmFromLobby
