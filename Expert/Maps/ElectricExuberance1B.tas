@@ -104,12 +104,16 @@ console load SpringCollab2020/4-Expert/CANADIAN
    1,S
    1,D,J
   69,O
-   1,L,J
-  19,L
-  34,R,D
-  10,L,J
+***s
+   5,L,J,Z
+   9,R,D
+  11,D
+   8,R,D
+   8,L,Z
+   7,R,J
+
    5,L,X
  135
 
-#0:34.731(2043)
+#0:34.357(2021)
   
