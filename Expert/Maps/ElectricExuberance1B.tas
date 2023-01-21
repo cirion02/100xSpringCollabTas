@@ -1,0 +1,110 @@
+#created by Dragon512
+
+console load SpringCollab2020/4-Expert/CANADIAN
+   1
+
+#Start
+ 190
+
+#lvl_1
+   5,R,X
+  21,D
+ 183
+ 132,D,X
+  15,L,D,C
+ 102,R,X
+  66
+   6,R,Z
+   4,L,J
+   7,L
+  26
+  19,R,X
+  15,U,C
+   2,R
+ 303
+   5,R,X
+  47,D
+  15,R,X
+  15,U,C
+  18,R,D
+   4,Z
+   1,R,J
+  11,R
+   5
+  15,R,Z
+   7,J
+  15,R,X
+ 108
+  51,D
+   4,R,Z
+  10,R,J,G
+   2,R,K
+   3,R
+   6,U,X
+
+  40
+
+#lvl_3
+   1,S
+   1,D,J
+  69,O
+   9,L
+  40
+  15,L,U,X
+  50,R,D
+  18,D
+  15,R,Z
+  17
+  12,R,J,G
+  11,L,K
+  25,U,Z
+   6,D
+  34,L,D
+   5,U,X
+
+  40
+
+#lvl_4
+  11,R,D
+   5,U,X
+
+  40
+
+#lvl_5b
+  49,D
+  11,L,J
+   8,L,U,X
+   1,J
+  69,D
+  23,L,D
+   5,L,Z
+
+  40
+
+#lvl_6
+  11,L,D
+   6,L,D,X
+  11,L
+   8,L,U,X
+  14,R,D
+  15,D
+   8,L,D
+   2,L
+  34,R,D
+   6,R,D,X
+
+  40
+
+#lvl_7
+   1,S
+   1,D,J
+  69,O
+   1,L,J
+  19,L
+  34,R,D
+  10,L,J
+   5,L,X
+ 135
+ 
+#0:38.335(2255)
+  
