@@ -39,40 +39,41 @@ console load SpringCollab2020/4-Expert/CANADIAN
    4,R,Z
   10,R,J,G
    2,R,K
-   3,R
-   6,U,X
-
-  40
-
-#lvl_3
-   1,S
-   1,D,J
-  69,O
-   9,L
-  40
-  15,L,U,X
-  50,R,D
-  18,D
-  15,R,Z
-  17
-  12,R,J,G
-  11,L,K
-  25,U,Z
-   6,D
-  34,L,D
+   1,R,D
+  12,L,D
    5,U,X
 
   40
 
+#lvl_3
+  30,J
+  18,R,X
+   8,L,U,C
+   7,J,G
+   8,L
+   8,L,X
+  12,J,G
+   2,L,K,G
+   8,L
+   7,R,X
+   1,L,J
+  16,L,D
+#maybe with better lightning cycle can go to 24
+  26,D
+  15,L,X
+   5,U,C
+
+  40
+
 #lvl_4
-  11,R,D
+  39,L,D
    5,U,X
 
   40
 
 #lvl_5b
-  49,D
-  11,L,J
+  10,D
+  47,L,D
    8,L,U,X
    1,J
   69,D
@@ -84,7 +85,7 @@ console load SpringCollab2020/4-Expert/CANADIAN
 #lvl_6
   11,L,D
    6,L,D,X
-  11,L
+  18,L
    8,L,U,X
   14,R,D
   15,D
@@ -105,6 +106,6 @@ console load SpringCollab2020/4-Expert/CANADIAN
   10,L,J
    5,L,X
  135
- 
-#0:38.335(2255)
+
+#0:36.210(2130)
   
