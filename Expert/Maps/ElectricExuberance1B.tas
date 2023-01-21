@@ -7,47 +7,67 @@ console load SpringCollab2020/4-Expert/CANADIAN
  190
 
 #lvl_1
-   5,R,X
-  21,D
- 183
- 132,D,X
+   2,J
+  15,R,D,X
+  15,D,C
+  15,D,X
+  15,D,C
+  15,D,X
+  15,D,C
+  15,D,X
+  19,D,C
+  15,D,X
+  15,D,C
+  15,D,X
+  15,D,C
+  20,D,X
+  20,D,C
+  18,D,X
+  18,D,C
+  19,D,X
+  18,D,C
+  19,D,X
+  18,D,C
+  19,D,X
   15,L,D,C
- 102,R,X
-  66
-   6,R,Z
-   4,L,J
-   7,L
-  26
-  19,R,X
-  15,U,C
-   2,R
- 303
-   5,R,X
-  47,D
   15,R,X
-  15,U,C
-  18,R,D
-   4,Z
+  15,R,C
+  15,R,X
+  15,R,C
+  15,R,X
+  15,R,C
+  15,R,X
+  15,R,C
+  16,D,X
+  19,D,C
+  18,D,X
+  19,D,C
+  15,D,X
+   5,R,Z
+  10,L,J
+   5,L
+  14,D,C
+   1
+  23,D,C
+   6,R,U,Z
+   1,R,J,G
+   8,R
+   2,R,J
+   5,R,D,X
    1,R,J
-  11,R
-   5
-  15,R,Z
-   7,J
-  15,R,X
- 108
-  51,D
-   4,R,Z
-  10,R,J,G
-   2,R,K
-   1,R,D
-  12,L,D
+   3,L,D
+   1,D
+   2,R,D
+   1,D
+   1,R
+   1
    5,U,X
 
   40
 
 #lvl_3
-  30,J
-  18,R,X
+  28,D
+  15,R,X
    8,L,U,C
    7,J,G
    8,L
@@ -85,7 +105,7 @@ console load SpringCollab2020/4-Expert/CANADIAN
 #lvl_6
    5,L,D,X
    1,R,J
-  13,L
+  12,L
    4,R
    8,L,U,C
   14,R,D
@@ -104,7 +124,6 @@ console load SpringCollab2020/4-Expert/CANADIAN
    1,S
    1,D,J
   69,O
-***s
    5,L,J,Z
    9,R,D
   11,D
@@ -115,5 +134,5 @@ console load SpringCollab2020/4-Expert/CANADIAN
    5,L,X
  135
 
-#0:34.357(2021)
+#0:22.984(1352)
   
