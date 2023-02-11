@@ -96,3 +96,11 @@ Read,Menuing/EnterLevel
 Read,Beginner/Maps/DesoliteSpire3B,Start
 Read,Menuing/ExitLevel
 
+Read,Beginner/Lobby/DS-Restart,Start
+Read,Menuing/SkipHeartgateFromRestart
+Read,Beginner/Lobby/Start-hs,Start
+Read,Menuing/EnterHeartside
+Read,Beginner/Maps/Beginner-Heartside,Start
+
+ 200
+   1,O

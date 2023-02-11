@@ -1,0 +1,25 @@
+console load SpringCollab2020/0-Lobbies/1-Beginner 2536 248
+
+   1
+
+#This is included in the heartgate skip file
+  36
+
+#Start
+  13,L,J
+   8,L,K,G
+   5,L,X
+   2,L,J
+   2,L,K,G
+  20,L
+   5,U,X
+  19,R,J
+  12,R,K,G
+   7,R
+   7,L,J
+   5,L,Z
+  10,L,J
+   7,L
+   1,X
+
+
