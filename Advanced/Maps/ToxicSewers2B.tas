@@ -1,0 +1,165 @@
+#Created by Cirion
+
+console load SpringCollab2020/3-Advanced/Rufus
+   1
+
+#Start
+ 190
+   6,R,U,X
+
+  40
+
+#lvl_Rufus_01
+   5
+   4,J,G
+  30,R,Z
+   4,R,J
+  22,R,K
+   8,J
+  18,R,X
+   4,R,J
+  12,R,Z
+   4,R,J
+   6,R,K
+   5,R,X
+   4
+   1,J
+  16,D
+  12,L,Z
+   4,L,J
+  12,L,K
+   7,L,U,X
+   1,J
+  15,D
+  18,L,D
+  12,J,G
+   4,K,G
+   5,R,Z
+  10,R,J
+  41,R,D
+   6,R,Z
+
+  40
+
+#lvl_Rufus_02
+   1
+   5,R,J,G
+  19,R
+  12,R,X
+   4,R,J
+   2,R,K
+  18,R,D,X
+   5,R
+   9,R,C
+  12,J,G
+   3,K,G
+  14,L,X
+
+   4,L,J
+   9,L,K
+  29,L
+  15,U,X
+  21,R,D
+   5,R,X
+
+# +3f
+#   4,L,J
+#   8,L,K
+#  23,L,D
+#  16,L,U,Z
+#   4,L,J
+#  10,L,K
+#   5,L,X
+#  16,R
+#   6,R,X
+
+  40
+
+#lvl_Rufus_03 (0)
+  10
+   7,R,U,X
+   8,L
+   6,L,U,X
+   1,J,G
+  27,D
+   2,J
+  12,R,D,X
+   3,L,J
+   5,D,X
+  25,D
+   3,L,D
+   3,D
+   1,L,D
+   2,D
+   4,R,D
+   6,R,D,X
+
+  40
+
+#lvl_Rufus_03b
+   9
+  29,D,X
+  21,D,G
+   1,R
+   9,D
+  10,L,D
+  21,L,D,G
+   1,L
+   9,D
+  12,R,D,X
+   3,J
+   5,L,D,X
+   1,R,J
+   7,R
+  11,R,J
+   5,K,G
+  12,L,J
+  12,L,D,X
+   3,J
+  14,R,D,X
+   1,R,J
+  10,R,X
+   5,L,J
+  10,L,D,X
+   5,R,J
+  54,U,C
+  10
+   8,J,G
+  12,R,K,G
+   6,L,X
+
+  40
+
+#lvl_Rufus_03 (1)
+   9,J,G
+   6,R,U,X
+
+  40
+
+#lvl_Rufus_04
+  12,J,G
+   6,K,G
+   5,R,X
+   8,R,J,G
+   1,L,J
+  17,R
+   8,R,X
+   1,J,G
+  10,D
+   2,L,D
+   4,D
+   1,L,D
+   4,D
+  12,L,D
+   5,R,X
+  40
+
+#lvl_Outro
+  10,L,J
+   5,U,X
+  43,L,D
+   5,L,U,X
+ 135
+
+#0:23.103(1359)
+
