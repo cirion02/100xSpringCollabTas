@@ -1,0 +1,156 @@
+#Created by Cirion02
+
+console load SpringCollab2020/4-Expert/dahlukeh
+   1
+
+#Start
+ 190
+  10,R,J
+   7,R,Z
+
+  40
+
+#lvl_dahlukeh_02
+   1,J,G
+   7,R
+   9,R,U,X
+   1,J,G
+   6,D
+   2
+   4,J
+   2,K,G
+   8,L,K
+  23,L,D
+   6,R,U,Z
+   2,J
+  28,R,D
+   7,R,Z
+
+  40
+
+#lvl_dahlukeh_03
+   8
+  10,L,D,X
+   4,R,J
+   3,J
+   5,U,X
+   5,R,J
+   3,R
+   8,L
+   1,L,J
+   5,R,U,X
+   1,R,J
+  11,R,D
+   2,D
+   2,L,J
+   5,R,X
+
+  40
+
+   5
+   1,J
+   7,L
+   5,L,D,X
+   1,R,J
+   1,R,K,G
+   7,R
+  17,L,J
+   5,R,X
+   1,J
+   2,R,J
+  11,R,K,G
+  14,J,G
+   1,K,G
+   7,R
+   7,R,X
+   1,J,G
+  40,R,D
+   8,R,J
+   6,R,X
+
+  40
+
+#lvl_dahlukeh_05
+   9
+   5,R,U,X
+
+  40
+
+#lvl_dahlukeh_05_berry
+   1,S
+   1,D,J
+  69,O
+
+   6,R,U,X
+   1,L,J
+  17,L,D
+   9,L
+  20,R
+   4,R,J,G
+  15,R
+  21,R,J
+  15,D,X
+   5,R,Z
+   1,R,J
+   9,R
+   5,U,X
+   1,R,J
+   2,R,D
+   9,D
+   5,R,D
+  27,R,U
+   4,U
+   5,R,Z
+  16,J,G
+   6,R,X
+   1,J,G
+  15,R,D
+
+   1,S
+   1,D,J
+  69,O
+
+  92
+   5,L,U,X
+   1,J
+  33,R,D
+   6,R,U,X
+   1,L,J
+  17,L,D
+   9,L
+  20,R
+   4,R,J,G
+  15,R
+  21,R,J
+  15,D,X
+   5,R,J,Z
+  10,R
+   5,R,J,Z
+  10,R
+   5,R,J,Z
+  11,R
+   5,R,J,Z
+   7,R
+   1,R,J
+   3,R
+  15,D,X
+   5,R,U,C
+
+  40
+
+#lvl_dahlukeh_06
+   3
+   1,J,G
+  19,D
+   7,R,X
+
+  40
+
+#lvl_dahlukeh_07
+   2
+   1,L,J
+   5,L
+   5,L,X
+ 135
+
+ChapterTime: 0:23.341(1373)
