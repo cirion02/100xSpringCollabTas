@@ -87,18 +87,20 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
    8
    6,R,X
    2,D,G
-  27,R,D,G
-  48,D,G
-   1,R
-   6,R,Z
+  10,R,D,G
+  21,R
+   6,R,D,Z
    1,L,J
   20,L,D
    9,D
   27,R
-Repeat,32
-   2,D
+   2
+Repeat,45
+   1,D
    1
 EndRepeat
+   1,J
+   6
   21,G
   41
    6,L,X
@@ -112,7 +114,7 @@ EndRepeat
   12,R,J,G
   12,R,K,G
    2,R,J,G
-   8,R
+   7,R
    4,R,Z
    1,R,J
    7,R
@@ -153,4 +155,4 @@ EndRepeat
    5,R,X
  135
 
-#0:34.034(2002)
+#0:33.303(1959)
