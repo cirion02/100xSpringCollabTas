@@ -6,6 +6,7 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
    1
 
 #Start
+#lvl_iamdadbod_intro
  190
    5,R,J,Z
   12,R
@@ -49,6 +50,7 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
 
   40
 
+#lvl_iamdadbod_1
   16,L,J
    6,U,X
    1,J
@@ -102,12 +104,14 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
 
   40
 
+#lvl_iamdadbod_2
    1,R,J
   23,R,D
    5,R,Z
 
   40
 
+#lvl_iamdadbod_berry_1
    1
    1,L,K
    7,L,J
@@ -146,6 +150,7 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
   40
 
 
+#lvl_iamdadbod_3
   21,G
   21,L,G
    1,L
@@ -231,6 +236,7 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
 
   40
 
+#lvl_iamdadbod_berry_2
 #TODO: See if ot dying is faster to ot wait on crystal timer
    2
    1,J
@@ -265,13 +271,15 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
 
   40
 
+#lvl_iamdadbod_4
    1
   75,O
    7,R,J,Z
 
   43
-#This room might be faster without bcs
 
+#This room might be faster without bcs
+#lvl_iamdadbod_5
    5,R,J
   12,R
    1,L,J
@@ -334,6 +342,7 @@ console load SpringCollab2020/5-Grandmaster/iamdadbod
 
   43
 
+#lvl_iamdadbod_outro
    7,J,G
    6,R,K,G
    5,R,D,X
