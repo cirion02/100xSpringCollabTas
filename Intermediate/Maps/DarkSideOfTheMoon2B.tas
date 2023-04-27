@@ -121,7 +121,6 @@ EndRepeat
    3,R,J
    
   40
-  
 #lvl_Evilleafy_05
    5,R,J
    6,U,X
@@ -131,10 +130,11 @@ EndRepeat
   20,R
   92,R,U,G
   50,R,D,G
-  52,R,U,G
-   1
+  51,R,U,G
+   1,L
    6,L,U,X
    1,R,J
+#   1,R,K
   15,R
   20,R,Z
   13,L
@@ -142,17 +142,16 @@ EndRepeat
   21,L,J
   
   40
-  
 #lvl_Evilleafy_06
    8,L,J,G
-   8,L,K,G
+   7,L,K,G
    5,U,X
   27,L,D
-   5,D
-  26,L,U
+   4,D
+  27,L,U
    5,U,X
   42,L
    5,R,X
  135
 
-#0:33.303(1959)
+#0:33.269(1957)
