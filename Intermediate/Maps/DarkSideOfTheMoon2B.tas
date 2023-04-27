@@ -6,8 +6,9 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
 #Start
 #lvl_Evilleafy_00
   36
-   5,R,U,X
-  48,R,D
+   6,R,U,X
+   1,J,G
+  36,R,D
   
   40
   
@@ -31,7 +32,6 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
    5,U,X
    
   40
-  
 #lvl_Evilleafy_04
   11,L
    6,L,U,X
@@ -40,27 +40,23 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
    5,L,J,G
    
   40
-  
 #lvl_Evilleafy_04b
   12,L,J,G
   12,L,K,G
-   7,L,J,G
-   5,L,X
-   5,L,K,G
-  20,L
    8,L,J,G
-   5,L,K,G
-   1,L,J,G
-   4,R,J
-  19,R
-  77
-   1,R,J
-  14,R
-   2,R,J
-  15,D,X
+   5,L,Z
+   1,L,K,G
+   4,L,J,G
+  14,L
    1,L,J
-  21,L
-  14,R,D
+   3,L,K,G
+   5,L,J,G
+  96
+   3,R,J
+  16,R
+   5,R,D,X
+   1,L,J
+  19,R,D
   
   40
   
@@ -68,9 +64,11 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
    7,R,D
   52,D
    8,R,U,X
-   7,L,J
+   4
+   3,L,J
   15,L,C,G
-  60,R,D,G
+  37,R,D,G
+  23,R,G
   19,D,G
   12,R,G
   58,R,U,G
@@ -88,7 +86,8 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
    5,R
    8
    6,R,X
-  29,R,D,G
+   2,D,G
+  27,R,D,G
   48,D,G
    1,R
    6,R,Z
@@ -96,7 +95,7 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
   20,L,D
    9,D
   27,R
-Repeat,33
+Repeat,32
    2,D
    1
 EndRepeat
@@ -154,4 +153,4 @@ EndRepeat
    5,R,X
  135
 
-#0:34.901(2053)
+#0:34.034(2002)
