@@ -1,0 +1,367 @@
+# Created by Cirion02
+
+RecordCount: 710
+
+console load SpringCollab2020/5-Grandmaster/iamdadbod
+   1
+
+#Start
+ 190
+   5,R,J,Z
+  12,R
+   1,R,J
+  16,R
+   1,R
+  24,R,G
+   1,D
+   7,R
+   4,R,J
+   5,R,X
+  21,R,G
+   1,D
+
+# inputs for alt strat that probably doesn't work
+#  90
+#   4
+#  12,J
+#  12,R,K
+#   6,R,X
+#
+#  40
+#
+#  11,L,J
+#   6,U,X
+#   1,R,J
+#  16,R,D
+#  13,R,J,Z
+#  18,R,D
+#  42,D
+#   5,L,X
+#   8,R,J
+#   5,R,X
+#   1,L,J
+
+  19,L,J,Z
+  83,L
+   8,J
+  12,K,G
+   5,R,X
+
+  40
+
+  16,L,J
+   6,U,X
+   1,J
+  11,R,D
+  10,L,D
+   6,L,J
+  15,L
+   4,X
+   1,R,D,X
+   1,R,J
+  53,D
+   8,L,X
+   1,J
+   3,R,J
+   3,R
+   5,R,Z
+   1,J
+   2,L
+  20,D
+   7,L,D
+  17,J
+  10,R
+   8,R,J,Z
+  10,R
+   7,L
+  26,R
+   5,U,Z
+  20,L,J
+   6,R,D,X
+  12,L,J
+   5,L,X
+   8,J,G
+  14,R
+   5,R,X
+  10,J,G
+   5,K
+   1,L,K
+  28,L,G
+   1,L,D
+   1,L,J
+   8,J
+   5,U,X
+  13,G
+  18,R,J,G
+  10,R,J
+  12,R,K,G
+  41,R
+  60
+  10,R
+   5,R,U,X
+
+  40
+
+   1,R,J
+  23,R,D
+   5,R,Z
+
+  40
+
+   1
+   1,L,K
+   7,L,J
+   1
+  12,L,J
+   1,R,J
+  10,R,D
+   6,L,Z
+   1,R,J
+  12,L
+  10,L,J,C
+   6,L
+  20
+  15,U,Z
+   5,R
+  15,R,J
+   5,U,X
+   1,J
+   1
+   1,J,G
+  16,D
+   9,L,D
+  15,D,X
+   5,R,J,Z
+   7,R
+  10,R,J
+  15,U,X
+   3,L
+   2
+   7,R
+   3,R,J
+   6,L,J
+   4,L,K,G
+   5,U,X
+
+  40
+
+
+  21,G
+  21,L,G
+   1,L
+   5,L,Z
+   1,J
+  34,R
+  28,L,G
+
+   1,R,D
+   1,X
+ 295
+  17,ALU
+   7,R,ALU
+   6,R,Z
+   1,S,N
+   9,O
+   2,L,J
+  16,L
+  15,U,Z
+   2,D
+  36,R,D,ALU
+  15,U,Z
+   6
+  38,R,G,ALU
+   1,R
+   5,L,Z
+   1,S,N
+   9,O
+  10,R,J
+  28,R,G
+  35,L,G
+  75,G
+   1,S,N
+   9,O
+   8,J,G
+   6
+   7,R,G
+   6
+   9,D
+   5,L,Z
+   1,S,N
+   9,O
+  26,R,J,G
+   1,R,D
+   3,R
+   5,U,Z
+  20,L,D,G
+   1,R,D,G
+   1,R,G
+   6,R,D,G
+   1,R
+   1,S,N
+   9,O
+   3,R,X
+  17,R,J,X
+   4,D
+  51,D,G,ALU
+   1,L,D,G
+   1,R
+   2,L
+  11,R
+   5,R,Z
+  25,R,G,ALU
+   1,D
+   5,L,Z
+  58,R,D
+  15,R,U,Z
+ 307,ALU
+  15,U,V
+  16,L,D,ALU
+  28,D,ALU
+   5,R,D,Z
+   1,S,N
+   9,O
+   2,R,J
+   1,S,N
+   9,O
+  21,L,J
+   5,U,Z
+  54,R,J
+   6,R,U,X
+
+
+  40
+
+#TODO: See if ot dying is faster to ot wait on crystal timer
+   2
+   1,J
+   8,L,D
+  10,D
+   7,L,J,Z
+   5,L
+  14,R
+   6,U,X
+   1,J
+  29,D
+   5,R,X
+   1,L,J
+  22,D
+  29,R,D,X
+   1
+  72,O
+  19,L,J
+   5,R,D,X
+   1,L,J
+  15,L,G
+  51,R,G
+   1,D
+   3
+   4,J
+   5,R,X
+ 280,G
+   1,R
+  18,D
+   5,J
+   5,R,Z
+
+  40
+
+   1
+  75,O
+   7,R,J,Z
+
+  43
+#This room might be faster without bcs
+
+   5,R,J
+  12,R
+   1,L,J
+  16,R,J
+  35,L,G
+   1,L
+   5,L,U,X
+  30
+   1,X
+ 365,R,D
+  26,R,D
+  10,R,Z
+   1,S,N
+   9,O
+  15,R,J,G
+  15,U,Z
+   5
+  12,L,D
+   4,L
+   6,R,Z
+  30,D
+  16,L,D
+  15,R,U,Z
+   4,D
+  13,L,D
+   1,S,N
+   9,O
+   6,L,J
+  29,L,D,AR
+  15,D,Z
+   7,L
+   1,S,N
+   9,O
+   2,L,J
+  10,L,D
+  20,D,G
+  23,R,D,G
+   2,D
+   2,R,D
+   5,U,Z
+  21,L,D,G,AL
+   1,R,AL
+  18,L,D,AL
+   4,D,AL
+   1,S,N,AL
+   9,O,AL
+  15,R,J,AL
+  15,R,U,Z,AL
+  29,D,AL
+  15,R,Z
+  16,R,AL
+  50,R,D,AL
+  59,R,AL
+  11,R,Z
+  21,L,J
+  15,U,X
+   5,R,D
+  40,L,D
+   6,R,Z
+
+  43
+
+   7,J,G
+   6,R,K,G
+   5,R,D,X
+   8,L,J
+   4,L
+   5,R,J
+   5,L,X
+ 135
+
+ChapterTime: 1:19.492(4676)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
