@@ -1,0 +1,194 @@
+#Made by Jules and Cirion02
+
+console load SpringCollab2020/2-Intermediate/Bonicle
+   1
+
+#Start
+ 106
+
+#lvl_bonicle_00 (0)
+   6,R,U,X
+   1,L,J
+  19,L,D
+  11,L,Z
+   4,R,J
+   5,R,D,X
+   1,L,J
+  12,D
+  18,L,D
+   5,L,J,Z
+   2,L
+  13,R
+Repeat, 25
+   1
+   1,R,D
+   1
+   1,L,D
+EndRepeat
+   2,J
+   5,R,D,X
+  40
+
+#lvl_bonicle_02b (0)
+  57,L,D
+   5,U,X
+  40
+
+#lvl_bonicle_00 (1)
+   2,L,J
+   6,L,K
+  20,L,D
+   5,D
+  40
+
+#lvl_bonicle_02b (1)
+  22,D
+   5,R,U,X
+  40
+
+#lvl_bonicle_01
+  29,L
+   9,J,G
+   6,K,G
+   1,R,J
+  10,R,K
+  10,R,D,X
+   1,L,J
+   4,R,D
+  15,D,X
+   2,R,J
+   1,L,J
+  16,L,D
+   1,L,J
+  12,L,D
+   3
+  27,L,J
+   5,U,X
+  35,L,J
+  11,K,G
+   5,L,D
+   6,R
+  16,R,D
+   7,R,X
+   1,L,J
+  49,L,D
+   5,D,X
+  32,D
+   2,L,D
+   5,D,X
+  37,L
+   7,J,G
+   9,L,K,G
+   6,L,X
+  12,J
+  10,K,G
+   7,J,G
+   7,L,D
+   5,L,J,Z
+  37,R,D
+   6,D
+  13,L,D
+  12,L,J
+  13,L,K,G
+   1,J
+  24,L,J
+  12,K,G
+  12,J,G
+  11,K,G
+   7,L,D
+  10,L,J,Z
+  23,L
+  12,L,J,G
+  15,U,X
+  30,L,D
+   1,L,J
+   3,L
+  15,D,X
+   5,L,J,Z
+  10,R
+   5,L,J,Z
+   7,R
+   1,L,D,J
+   2,L
+
+  40
+
+#lvl_bonicle_02b (2)
+   5,R,X
+
+  40
+
+#lvl_bonicle_02
+  11,L,J
+  28,R,J
+   6,R,X
+
+  40
+
+#lvl_bonicle_03
+   1
+  40
+
+#lvl_bonicle_04 (0)
+  12,J,G
+  12,K,G
+  10,J,G
+   5,L,U,Z
+   1,J
+  25,R,D
+  15,U,X
+  11,D
+   5,R,C
+   1,L,J
+  15,L,K
+  29,L
+   8,R
+   5,U,X
+   9,R,J
+  11,L
+   2,L,J
+   5,L,U,X
+   1,J
+   1,L,J
+   7,L,K,G
+   8,L
+   5,L,J,Z
+   7,L
+
+  40
+
+#lvl_bonicle_04b
+   1,L,J
+  25,L,D
+   6,L,Z
+   1,R,J
+  29,R,D
+  12,J,G
+   8,K,G
+   6,J,G
+   6,R,X
+   2,R,J,G
+  11,R
+   3,R,J
+   1,J
+   5,R,D,X
+
+  40
+
+#lvl_bonicle_04 (1)
+  10
+   2,L,J
+   5,R,D,X
+
+  40
+
+#lvl_bonicle_06
+   5
+   5,J
+   5,R,X
+  14,R,J
+   4,X
+   1,L,D,X
+ 135
+
+ChapterTime: 0:32.351(1903)
