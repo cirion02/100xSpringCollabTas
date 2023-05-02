@@ -1,4 +1,5 @@
 #created by Dragon512
+#optimised by Jules
 
 console load SpringCollab2020/2-Intermediate/Evilleafy
    1
@@ -11,11 +12,11 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
   36,R,D
   
   40
-  
 #lvl_Evilleafy_01
    6,R,U,X
    8,R,J,G
-  13,R
+   1,R,K,G
+  11,R
    5,U,X
    
   40
@@ -27,8 +28,8 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
   40
   
 #lvl_Evilleafy_03
-  17,R,D
-  29,D
+  13,R,D
+  31,D
    5,U,X
    
   40
@@ -154,4 +155,4 @@ EndRepeat
    5,R,X
  135
 
-#0:33.269(1957)
+#0:33.218(1954)
