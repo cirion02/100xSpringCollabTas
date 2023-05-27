@@ -1,5 +1,6 @@
-#Vanilla File Creature by Tyran, Kataiser, jacks, & sasha
-#Final room addapted to 100x by Cirion02
+RecordCount: 1111
+
+#By Tyran, Kataiser, jacks, & sasha
 
 console load SpringCollab2020/1-Beginner/itsabrody
    1
@@ -28,7 +29,7 @@ console load SpringCollab2020/1-Beginner/itsabrody
    1,R
    1,R,J
    8,R,D
-   5,F,180
+   5,F,179.9999
    1,F,159.7
   10,F,0.01
    5,U
@@ -48,10 +49,10 @@ console load SpringCollab2020/1-Beginner/itsabrody
    1,R,J,G
    1,J
   30,R,D
-   6,F,180
+   6,F,179.9999
    1,F,170.41
    1,F,165.53
-   1,F,180
+   1,F,179.9999
   18,F,23.49
  159,R
    1,F,82.82
@@ -318,7 +319,7 @@ console load SpringCollab2020/1-Beginner/itsabrody
 
 #lvl_2
   22,R,D
-  23,F,180
+  23,F,179.9999
    5,F,172.97
    1,F,163.2
    1,F,152.89
@@ -969,7 +970,7 @@ console load SpringCollab2020/1-Beginner/itsabrody
    9,R
    3,R,J
   10,R,D
-  12,F,180
+  12,F,179.9999
    1,F,1
    1,R
    1,F,1
@@ -1076,9 +1077,9 @@ console load SpringCollab2020/1-Beginner/itsabrody
   45,R
   12,F,46
   43,F,71
-   9,F,90
+   9,F,89.9999
   26,F,94
-  23,F,180
+  23,F,179.9999
    9,F,120
   16,R
    8,U
