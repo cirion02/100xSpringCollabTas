@@ -4,95 +4,95 @@ console load SpringCollab2020/4-Expert/Zerex
 #Start
  190
 
-2,J
-5,X,R
+   2,J
+   5,R,X
 
-40
+  40
 
-21
-5,X,U,R
+  21
+   5,R,U,X
 
-40
+  40
 
-11,G
-6,Z,L
-1,J,R
-7,R
-1,J,R
-5,X,U
-22
-5,X,U
-18
-5,X,R
-11
-4,J
-4,K
-5,X,U,R
-25,D
-5,Z,R
+  11,G
+   6,L,Z
+   1,R,J
+   7,R
+   1,R,J
+   5,U,X
+  22
+   5,U,X
+  18
+   5,R,X
+  11
+   4,J
+   4,K
+   5,R,U,X
+  25,D
+   5,R,Z
 
-40
+  40
 
-1
+   1
 
-72,O
+  72,O
 
-11,R
+  11,R
 
-40
+  40
 
-5,C,U,L
-18,D
-5,Z,U,R
-7
+   5,L,U,C
+  18,D
+   5,R,U,Z
+   7
 
-43
+  43
 
-39,R,D
-5,Z,R,J
-7,R
-3,L,J
-5,X,U
-42,D,R
-1,J
-1,D,R
-7,R,D
-6,D
-5,Z,L,J
-7,L
-4,J,L
-5,X,D
-10,L
-5,Z,L,J
-7,L
-1,J,L
-10,L
-5,X,D
-15
+  39,R,D
+   5,R,J,Z
+   7,R
+   3,L,J
+   5,U,X
+  42,R,D
+   1,J
+   1,R,D
+   7,R,D
+   6,D
+   5,L,J,Z
+   7,L
+   4,L,J
+   5,D,X
+  10,L
+   5,L,J,Z
+   7,L
+   1,L,J
+  10,L
+   5,D,X
+  15
 
-40
+  40
 
-11,D,R
-5,X,U,L
+  11,R,D
+   5,L,U,X
 
-40
+  40
 
 #this part is the part below
-1,J
-7
-3,J
-5,X,U,R
-5
-4,J,R
-4,K,R
-5,X,D,R
+   1,J
+   7
+   3,J
+   5,R,U,X
+   5
+   4,R,J
+   4,R,K
+   5,R,D,X
 
-40
+  40
 
-10
-5,X,R
-16,D,R
-5,Z,R
+  10
+   5,R,X
+  16,R,D
+   5,R,Z
 
 #+11f
 #1,J
@@ -105,43 +105,47 @@ console load SpringCollab2020/4-Expert/Zerex
 #21,D,R
 #5,Z,R
 
-15
-4,J
-5,X,U
-44,D
-5,Z,R
-32
+  15
+   4,J
+   5,U,X
+  44,D
+   5,R,Z
+  32
 
-43
+  43
 
-11,D,R
-6,Z,R,J
-8,R,D
-20,D
+  11,R,D
+   6,R,J,Z
+   8,R,D
+  20,D
 
-3,D
-5,X,R
-25
-5,X,U,R
-4
-54,D
-4,D
-6,Z,R
-1,J,L
-12,K,L
-5,X,R
-23
-4,J,R
-2,K,R
-5,X,U,R
-10
-5,X,U
-14
-5,X,R
-10,R
+   3,D
+   5,R,X
+  25
+   5,R,U,X
+   4
+  54,D
+   4,D
+   6,R,Z
+   1,L,J
+  12,L,K
+   5,R,X
+  23
+   4,R,J
+   2,R,K
+   5,R,U,X
+  10
+   5,U,X
+  14
+   5,R,X
+  10,R
 
-40
+  40
 
-5,X,U,R
-41,D,L
-5,X,U,R
+   5,R,U,X
+  41,L,D
+   5,R,U,X
+
+ 135
+
+ChapterTime: 0:22.899(1347)

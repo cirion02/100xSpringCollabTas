@@ -4,87 +4,89 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
 #Start
  190
  
- 21,L
- 5,X,D
- 10
- 1,J
- 5,Z,U,R
- 10,L
- 5,Z,U,L
- 56
- 5,X,U,L
- 41
+  21,L
+   5,D,X
+  10
+   1,J
+   5,R,U,Z
+  10,L
+   5,L,U,Z
+  56
+   5,L,U,X
+  41
  
- 1,S
- 1,D,J
- 69,O
+   1,S
+   1,D,J
+  69,O
 
- 5,L
- 5,Z,R,J
- 8,L
- 22,J,R
- 5,X,U
- 27
- 11,L
- 2,J,L,G
- 30,L
- 15,X,U
- 11,L,D
- 32,R,D
- 17,D
- 34,D,L
- 5,Z,R
- 1,J,L,D
- 28,L,D
- 5,Z,R
- 16,R
- 5,X,D
- 20
- 10,R
- 28
- 15,X,D
- 7
- 5,X,R
- 1,G,J
- 1,G,K
- 1,G,J
- 1,G,K
- 6
- 5,Z,R,U
- 1
+   5,L
+   5,R,J,Z
+   8,L
+  22,R,J
+   5,U,X
+  27
+  11,L
+   2,L,J,G
+  30,L
+  15,U,X
+  11,L,D
+  32,R,D
+  17,D
+  34,L,D
+   5,R,Z
+   1,L,D,J
+  28,L,D
+   5,R,Z
+  16,R
+   5,D,X
+  20
+  10,R
+  28
+  15,D,X
+   7
+   5,R,X
+   1,J,G
+   1,K,G
+   1,J,G
+   1,K,G
+   6
+   5,R,U,Z
+   1
  
- 41
+  41
  
- 10
+  10
  
- 5,X,L
- 1,J,R
- 15,R
- 2
- 4,R
- 5,X,U
- 33,D
- 36,D,R
- 5,Z,R,U
- 1
+   5,L,X
+   1,R,J
+  15,R
+   2
+   4,R
+   5,U,X
+  33,D
+  36,R,D
+   5,R,U,Z
+   1
  
- 41
+  41
  
- 12
- 5,Z,R,U
- 41
+  12
+   5,R,U,Z
+  41
  
- 50,D,L
- 5,X,L
- 1,G,J,L
- 36,L
+  50,L,D
+   5,L,X
+   1,L,J,G
+  36,L
  
- 1,S
- 1,D,J
- 69,O
+   1,S
+   1,D,J
+  69,O
  
- 5,U,X
- 26,D
- 5,X
+   5,U,X
+  26,D
+   5,X
  
  135
+
+ChapterTime:
