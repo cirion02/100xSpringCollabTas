@@ -74,7 +74,6 @@ EndRepeat
   28
 </crackhead strat>
 
-
 <take the block time=74f>
 #  47,D
 #   1,R,J
@@ -143,63 +142,69 @@ EndRepeat
   22,D
   10,R,D
    4,R,J
-  15,L,J
-   6,K,G
-   4,R,J
-   1,J
-   8,R,K
-   1,R,J,G
+  13,L,J
+   7,K,G
+   1,L,K
+   8,R,J
+   3,R
    1,R,K,G
+   1,R,J,G
    9,R
-   4,R,K
+   4,R,J
    1,R
-   8,R,K
-  13,R
-   6,K
-  10,R,K
-   5,R,J,G
-  35,R,K,G
-  15,R,J,G
-  11,R,G
-  31,R,K,G
-   1,R,J
-   6,R,K,G
-   8,R,J,G
-  10,R,D
-  17,D
-  36,L
-   3,L,D,J
-  19,L,D
-Repeat, 4
+   8,R,J
+  14,R
+   1,R,J,G
+   4,R,K,G
+   3,R
+   1
+  12,R
+   1,R,K,G
+  15,R,D
+   2,R,J
+   5,R
+   1,R,K,G
+  14,R
+   6,R,J
+   5,R
+   4,R,J
+   8,R
+   1,R,D
+   7,L,D
+   2,D
+   2,L,D,J
+  35,L,J
+   7,D
+   2,L,J
+  18,L,D
+Repeat, 6
    1,L,J
   14,L
 EndRepeat
-   2,L,J
-  15,L
    1,L,J
-  14,L
-   1,L,J
-   2,L
-  18,D
-   8,R,D
-   1,R,K
-  14,R,D
-   1,R,J
-   6,R
-   1,R,K,G
-  14,R,D
-   4,R,D,J
-  17,R
-   1,R,K
-  14,R
-   1,R,J
-   9
-   5,R
-   1,R,J
+  14,L,D
+   8,D
+   6,R,D
+   1,R
+   2,R,D
+   1,R,D,J
   14,R
    1,R,J
   14,R
    2,R,J
+   1,R,K,G
+   1,R,J,G
+  12,R
+   1,R,J
+  15,R
+   1,R,J,G
+  13,R
+   1,R,J
+  15,R
+   1,R,J
+  13,R
+   1,R,J
+  12,R
    5,R,D,X
    1,L,J
    4,R,D
