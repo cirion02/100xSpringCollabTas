@@ -3,8 +3,6 @@
 console load SpringCollab2020/3-Advanced/BeefyUncle
    1
 
-#TODO: Test if not doing funny warp is faster
-
 #Start
 #lvl_beefy_00
  190
@@ -13,59 +11,28 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
    5,R,X
   19,R,K,G
    1,R
-  14,R,J,Z
-  22,R
-   5,R,U,X
+  19,L,J
+   5,R,D,X
 
   40
 
 #lvl_beefy_01
-   2
-   6,L,J
-   3,R,K
-   1,R,J,G
-   1,R,K,G
-   4,R,K,G
-   5,U,X
-
-#lvl_beefy_03 (0)
-  40
-
-   1
-
-  72,O
-
-#<Just hyper>
-   5,R,J,Z
-   7,R
-   1,R,J
-   3,R
+   2,R,J
+   8,R
+   6,R,U,Z
 
   40
 
 #lvl_beefy_02
-   1,R
-   8,L
-#</Just hyper>
-
-#<Small jump dash  frame=+1f>
-#   2,J
-#   5,R,X
-#  40
-#   1,L,J
-#  18,L
-#</Small jump dash>
-
-  15,D,X
-   5,R,J,Z
-   7,R
-  27,R,J
+  12
+   5,R,D,X
+   1,L,J
+   7,L
+   8,L,J
    5,U,X
    1,J
   31,L,J
    5,R,U,Z
-
-#<Non-warp>
   44,L,D
    5,L,D,Z
    1,R,J
@@ -92,25 +59,6 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
    1,L,J
   14,L
    3,L,J
-
-#</Non-warp>
-
-#<Deathwarp frame=+21>
-#  45,L,J
-#   5,L,D,Z
-#  24
-#   1,S
-#   1,D,J
-#  69,O
-#   5,L,J,Z
-#   2,L
-
-#  40
-
-#   5,L
-#   9,L,J
-#</Deathwarp>
-
    5,U,X
    1,J
   11,L,J
@@ -181,7 +129,7 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
    5,L,X
  135
 
-ChapterTime: 0:22.202(1306)
+ChapterTime: 0:19.261(1133)
 
 
 
