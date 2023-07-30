@@ -1,8 +1,9 @@
+#Created by Cirion02
+
 console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    1
 
 #Start
-
 #lvl_Dav_00
  190
 
@@ -30,39 +31,32 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
    1,L,J,G
    7,L
    8
-  14,L
+  22,L
   15,U,X
-  11,L,D
-  32,R,D
-  17,D
-  34,L,D
-   5,R,Z
-   1,L,D,J
-  28,L,D
-   9,R,Z
-   1,J
-   5,R
+  19,L,D
+   6,R
+   6,R,D,X
+   1,R,J
+  26,L,D
+   1,L,J,G
+  11,L
+   3
+  10,L
    5,D,X
   20
-  10,R
-  28
-  15,D,X
-   7
-   5,R,X
-   1,J,G
-   9
-   6,R,U,Z
+  10
+  26
+   6,R,U,X
  
   40
  
 #lvl_Dav_03
   11
- 
    5,L,X
-   1,R,J
-  15,R
-   2
-   4,R
+   8,L,J,G
+   2,L,K,G
+   3,L
+  21,R
   15,U,X
   23,D
   36,R,D
@@ -77,11 +71,11 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
   43
 
 #lvl_Dav_05
-  48,L,D
-   5,L,X
-   1,L,J,G
-  36,L
- 
+  11
+   5,L,D,X
+   1,L,J
+  33,L
+
    1,S
    1,D,J
   69,O
@@ -92,4 +86,4 @@ console load SpringCollab2020/5-Grandmaster/TheDavSmasher
  
  135
 
-ChapterTime: 0:17.731(1043)
+ChapterTime: 0:15.912(936)
