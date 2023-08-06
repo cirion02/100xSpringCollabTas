@@ -1,71 +1,78 @@
 #made by Cirion02
 
 console load SpringCollab2020/3-Advanced/NeoKat
-
-1
+   1
 
 #Start
-76
+#lvl_1
+  76
 
-5,X,R
-1,J,G
-5,D,R
-10,J,R
-5,X,U
+   5,R,X
+   1,J,G
+   5,R,D
+  10,R,J
+   5,U,X
 
-40
+  40
 
-1
-72,O
+#lvl_2
+   1
+  72,O
 
-15,L
-6,D
-8,D,R
-9,D
-15,J,L
-6,L
-29,J,L
-3
-5,Z,U
+  15,L
+   6,D
+   8,R,D
+   9,D
+  15,L,J
+   6,L
+  29,L,J
+   3
+   5,U,Z
 
-40
+  40
 
-19,L
-12,G,J,L
-12,G,K
-8,G,J
-8,K,R
-4,J,G
-4,J,L
-5,X,U,L
+#lvl_3
+  19,L
+  12,L,J,G
+  12,K,G
+   8,J,G
+   8,R,K
+   4,J,G
+   4,L,J
+   5,L,U,X
 
-40
+  40
 
-1
+#lvl_4 (0)
+   1
 
-72,O
+  72,O
 
-5,Z,L
-1,J
-19,D,L
-2,L
+   5,L,Z
+   1,J
+  19,L,D
+   2,L
 
-40
+  40
 
-5,X,U,L
-1
-1,J
-2,D,R
-36,D,L,G
+#lvl_4b
+   5,L,U,X
+   1
+   1,J
+   2,R,D
+  36,L,D,G
 
-77
+  77
 
-8,D
-12,J
-5,Z,R
-40
-5,J,R
-5,G,K,R
+   8,D
+  12,J
+   5,R,Z
+
+  40
+
+#lvl_4
+   5,R,J
+   5,R,K,G
 
 #+13f
 #11,J
@@ -83,22 +90,26 @@ console load SpringCollab2020/3-Advanced/NeoKat
 #40
 #18,J,R
 
-5,X,U
-2,J
-13,J,L
-29,L
-110,G
-5,X,R
-9
-1,G,J
-25,D
-5,X,U,R
-27,D,R
+   5,U,X
+   2,J
+  13,L,J
+  29,L
+ 110,G
+   5,R,X
+   9
+   1,J,G
+  25,D
+   5,R,U,X
+  27,R,D
 
-40
+  40
 
-4,D,R
-5,Z,R
-1
-10,J,L
-5,X,U,L
+#lvl_5
+   4,R,D
+   5,R,Z
+   1
+  10,L,J
+   5,L,U,X
+ 135
+
+ChapterTime: 0:18.598(1094)
