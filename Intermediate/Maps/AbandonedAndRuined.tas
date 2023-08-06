@@ -1,88 +1,94 @@
 #created by Cirion02
 
 console load SpringCollab2020/2-Intermediate/aleph_null
- 1
+   1
 
-#start
-69
+#Start
+#lvl_aleph_start
+  69
 
-5,Z,J,R
-7,R
-13,J,R
-5,X,U
-44,R,D
-5,X,R
+   5,R,J,Z
+   7,R
+  13,R,J
+   5,U,X
+  44,R,D
+   5,R,X
 
-40
+  40
 
-1
-75,O
+#lvl_aleph_entrance
+   1
+  75,O
 
-5,X,R
-13,J,G
-10,K,G
-2,J,G
-9,R
-5,Z,R
-52,L,D
-6,Z,L,J
-8,L
-26,L,J
-5,X,U
-25,D,R
-8,D
-5,Z,R
+   5,R,X
+  13,J,G
+  10,K,G
+   2,J,G
+   9,R
+   5,R,Z
+  52,L,D
+   6,L,J,Z
+   8,L
+  26,L,J
+   5,U,X
+  25,R,D
+   8,D
+   5,R,Z
 
-40
+  40
 
-10
-1,J
-5,X,D
-10
-5,X,R
-4,J,L
-24,R,D
+#lvl_aleph_main
+  10
+   1,J
+   5,D,X
+  10
+   5,R,X
+   4,L,J
+  24,R,D
 
-72
+  72
 
-7,X,U,R
-11,J,R,G
-8,R
-10,J,R
-5,X,R
-1,J,G
-16,D
-8,R
-9,R,D
-5,Z,D,R
-1,J
-7,L
-12,J,R
-2,K,G
-5,X,R
-1,J,G
-21,D,L
+   7,R,U,X
+  11,R,J,G
+   8,R
+  10,R,J
+   5,R,X
+   1,J,G
+  16,D
+   8,R
+   9,R,D
+   5,R,D,Z
+   1,J
+   7,L
+  12,R,J
+   2,K,G
+   5,R,X
+   1,J,G
+  21,L,D
+   5,R,U,Z
 
-5,Z,U,R
+  40
 
-40
+#lvl_aleph_right
+   1,D,J
+   3,L,D
+  17,D
+   1,R,D
+   7,J,G
+   5,R,U,X
+  25,L
+   3
+   5,L,U,X
+  44,R,D
+   5,L,Z
 
-1,J,D
-3,D,L
-17,D
-1,D,R
-7,J,G
-5,X,U,R
-25,L
-3
-5,X,U,L
-44,D,R
-5,Z,L
+  43
 
-43
+#lvl_aleph_end
+   1
+  10,R,J
+  16,R
+   5,U,X
+ 135
 
-1
-10,J,R
-16,R
-
-5,X,U
+ChapterTime: 0:16.320(960)
