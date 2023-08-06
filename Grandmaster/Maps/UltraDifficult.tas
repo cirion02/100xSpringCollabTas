@@ -2,80 +2,103 @@ console load SpringCollab2020/5-Grandmaster/BobDole
    1
 
 #Start
-54
+#lvl_0
+  54
 
+  11,J
+   6,R,Z
+   1,R,J,G
+  49,R,J
+   5,R,U,Z
+  44,D
+  34,R,J
+   5,R,D,Z
+   1,R,J
+   5,R
 
-11,J
-6,Z,R
-1,G,J,R
-49,J,R
-5,Z,U,R
-44,D
-34,J,R
-5,Z,D,R
-1,J,R
-5,R
-40
-4,R
-5,X,U
-3
-1,J,R
-31,R
-5,Z,R
-5
-8,G,J
-5,Z,R
-17,L
-5,X,D
-10,L
-5,Z,L,J
-8,L
-2,J,L
-40
-10,J,L
-15,X,D
-19,J,R
-15,X,D
-5,C,R
-21,D
-8,J
-5,X,D,R
-41
-9,J
-5,X,R
-49
-21,D,R
-5,X,R
-9
-3,J,R
-5,X,D,R
-1,J,R
-8,R
-2,J,R
-5,X,R
-1
-2,G,J,R
-7,R
-3
-6,Z,L
-6,J,R
-3
-3,D,R
-6,Z,D,L
-7,J,L
-1,K,L,G
-24,L
-5,X,D
-40
-1,J,R
-9,R,D
-5,Z,R
-49
-1,R
-5,Z,L,D
-1,J,R
-8,R
-13,J,R
-5,X,U
-28,R
-5,X
+  40
+
+#lvl_1b
+   4,R
+   5,U,X
+   3
+   1,R,J
+  31,R
+   5,R,Z
+   5
+   8,J,G
+   5,R,Z
+  17,L
+   5,D,X
+  10,L
+   5,L,J,Z
+   8,L
+   2,L,J
+
+  40
+
+#lvl_2
+  10,L,J
+  15,D,X
+  19,R,J
+  15,D,X
+   5,R,C
+  21,D
+   8,J
+   6,R,D,X
+
+  40
+
+#lvl_3
+   9,J
+  13,R,X
+
+  40
+
+#lvl_4
+   1
+  21,R,D
+   5,R,X
+   9
+   3,R,J
+   5,R,D,X
+   1,R,J
+   8,R
+   2,R,J
+   5,R,X
+   1
+   2,R,J,G
+   7,R
+   3
+   6,L,Z
+   6,R,J
+   3
+   3,R,D
+   6,L,D,Z
+   7,L,J
+   1,L,K,G
+  24,L
+   5,D,X
+
+  40
+
+#lvl_5
+   1,R,J
+   9,R,D
+  14,R,Z
+
+  40
+
+#lvl_6
+   1,R
+   5,L,D,Z
+   1,R,J
+   8,R
+  13,R,J
+   5,U,X
+  28,R
+   5,X
+
+ 135
+
+ChapterTime: 0:15.266(898)
