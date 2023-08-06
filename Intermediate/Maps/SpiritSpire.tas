@@ -2,34 +2,34 @@
 #With help for room 5 from Euni
 
 console load SpringCollab2020/2-Intermediate/Goat
- 1
+   1
 
-61
+  61
 
-2,J
-10,X,D,R
-6,J,L
-29,X,U
-13,R
-2,J,L
-5,K,L
-4,J,L
-6,X,U,L
+   2,J
+  10,R,D,X
+   6,L,J
+  29,U,X
+  13,R
+   2,L,J
+   5,L,K
+   4,L,J
+   6,L,U,X
 
 
 
-1,G,J
-27,D
-5,X,U
+   1,J,G
+  27,D
+   5,U,X
 
-40
+  40
 
-11
-34,Z,R
-5,X,R
-6
-19,L
-5,X,L
+  11
+  34,R,Z
+   5,R,X
+   6
+  19,L
+   5,L,X
 
 #+7f
 #12,G,J
@@ -46,123 +46,123 @@ console load SpringCollab2020/2-Intermediate/Goat
 #19,L
 #5,X,L
 
-27
-4,J,L
-11,K,L
-19,X,U
-29,L
-5,X,D
-1,J,L,G
-6,D,L
-8,D
-7,J,L
-1,G,K,L
-4,G,J,L
-11,L
-36,Z,U
-22,R
-11,J,R,G
-24,R,D
-5,X,R
-1,G,J,R
-10,R
-23,X,U
-21,C,R
+  27
+   4,L,J
+  11,L,K
+  19,U,X
+  29,L
+   5,D,X
+   1,L,J,G
+   6,L,D
+   8,D
+   7,L,J
+   1,L,K,G
+   4,L,J,G
+  11,L
+  36,U,Z
+  22,R
+  11,R,J,G
+  24,R,D
+   5,R,X
+   1,R,J,G
+  10,R
+  23,U,X
+  21,R,C
 
-5,L,G
-14,D
-6,X,L
+   5,L,G
+  14,D
+   6,L,X
 
 #+1f
 #20,L,D
 #6,X,L
 
-1,G,J
-21,D
-36,X,D
-5,C,R
-1,G,J
-5,D,R
-3,D
-5,J
-7,J,L
-12,K,G
-8,J,G
-7,Z,U,R
+   1,J,G
+  21,D
+  36,D,X
+   5,R,C
+   1,J,G
+   5,R,D
+   3,D
+   5,J
+   7,L,J
+  12,K,G
+   8,J,G
+   7,R,U,Z
 
-40
+  40
 
-1,J,L
-6,K,L
-10,L
-2,G,K,L
-13,L
-2,R
-3,J,L
-26,D,L
-24,X,D
-5,C,L
-1,G,J
-28,D
-6,J
-5,Z,L
-1,J,R
-17,K,R
-5,X,U
-22,L,J
-18,X,U
-23,C,U
-14,L
-15,X,U
-5,R,D
-12,L,D
-30,R
-5,X,D
-7,J
-11,J,L
-5,K,G,L
-8,J,G,L
-5,Z,L
-9,J,L
-10,L
-25,R
-5,X,U
-10,J,R
-32,X,R
-31,C,U
-5,X,U,R
+   1,L,J
+   6,L,K
+  10,L
+   2,L,K,G
+  13,L
+   2,R
+   3,L,J
+  26,L,D
+  24,D,X
+   5,L,C
+   1,J,G
+  28,D
+   6,J
+   5,L,Z
+   1,R,J
+  17,R,K
+   5,U,X
+  22,L,J
+  18,U,X
+  23,U,C
+  14,L
+  15,U,X
+   5,R,D
+  12,L,D
+  30,R
+   5,D,X
+   7,J
+  11,L,J
+   5,L,K,G
+   8,L,J,G
+   5,L,Z
+   9,L,J
+  10,L
+  25,R
+   5,U,X
+  10,R,J
+  32,R,X
+  31,U,C
+   5,R,U,X
 
-40
+  40
 
-1
-8,K,G
-1,J,L
-15,K,L
-5,Z,U,R
-6
-2,L
-1,J,L
-3,L
-36,R
-5,X,U
-23,D,L
-7,J
-5,X,R
-10,R
-15,X,U
-17,D,L
-19,D
-25,J,L
-5,X,U
-13,J,L
-3,G,K,L
+   1
+   8,K,G
+   1,L,J
+  15,L,K
+   5,R,U,Z
+   6
+   2,L
+   1,L,J
+   3,L
+  36,R
+   5,U,X
+  23,L,D
+   7,J
+   5,R,X
+  10,R
+  15,U,X
+  17,L,D
+  19,D
+  25,L,J
+   5,U,X
+  13,L,J
+   3,L,K,G
 
 
-12,L
-5,Z,L,J
-15,L,D
-49,D
-5,X,D
+  12,L
+   5,L,J,Z
+  15,L,D
+  49,D
+   5,D,X
 
 #+21
 #15,L
@@ -173,63 +173,63 @@ console load SpringCollab2020/2-Intermediate/Goat
 #42,L
 #5,X,D
 
-10
-5,Z,L
+  10
+   5,L,Z
 
-40
+  40
 
-10
-5,X,D
-10
-40,X,L
-18,C,L
-18,X,D
-14,C,R
-4,J,R
-24,K,R
-16,X,U
-9,R
-5,X,U
-20,D
-5,Z,D,L
-1,J,L
-8,L
-13,R
-2,L,G
-1,J,L,G
-2,L
-10
-2,J
-6,J,L
-18,K,L,G
-20,Z,U
-40,L,D
-67,D
-5,Z,R,U
-2,J
-8,D
-16,Z,U
-12,G,J
-3,G,K
-6,X,U,R
+  10
+   5,D,X
+  10
+  40,L,X
+  18,L,C
+  18,D,X
+  14,R,C
+   4,R,J
+  24,R,K
+  16,U,X
+   9,R
+   5,U,X
+  20,D
+   5,L,D,Z
+   1,L,J
+   8,L
+  13,R
+   2,L,G
+   1,L,J,G
+   2,L
+  10
+   2,J
+   6,L,J
+  18,L,K,G
+  20,U,Z
+  40,L,D
+  67,D
+   5,R,U,Z
+   2,J
+   8,D
+  16,U,Z
+  12,J,G
+   3,K,G
+   6,R,U,X
 
-40
+  40
 
 
-1
-12,J,G,R
-12,K,G,R
-12,J,G,R
-2,K,G,R
-2,J,G,L
-5,X,U
-11,J,L
-1,K,G,L
-1,J,G,L
-37,K,G,L
-15,X,U
-23,D,L
-5,X,U
+   1
+  12,R,J,G
+  12,R,K,G
+  12,R,J,G
+   2,R,K,G
+   2,L,J,G
+   5,U,X
+  11,L,J
+   1,L,K,G
+   1,L,J,G
+  37,L,K,G
+  15,U,X
+  23,L,D
+   5,U,X
 
 #+1f
 #9
@@ -244,38 +244,42 @@ console load SpringCollab2020/2-Intermediate/Goat
 #5,X,U
 
 
-40
+  40
 
-1,J,G
-15,D
-24,R,U,Z
-4
-15,U,X
-10,R,D
-18,L,D
-1,L,J
-5,R,X
-1,J,G
-128,U,G
-7,J,G
-2,R,J
-28,K
-10
-25,J
-1,K
-12,L,K
-30,J
-9,L,K
-80,R,G
-4,R,G
-5,L,U,X
+   1,J,G
+  15,D
+  24,R,U,Z
+   4
+  15,U,X
+  10,R,D
+  18,L,D
+   1,L,J
+   5,R,X
+   1,J,G
+ 128,U,G
+   7,J,G
+   2,R,J
+  28,K
+  10
+  25,J
+   1,K
+  12,L,K
+  30,J
+   9,L,K
+  80,R,G
+   4,R,G
+   5,L,U,X
 
-40
+  40
 
-11,G
-5,Z,D,R
-1,J,L
-7,L
-7,J,L
-6,L
-5,X,U
+  11,G
+   5,R,D,Z
+   1,L,J
+   7,L
+   7,L,J
+   6,L
+   5,U,X
+
+ 135
+
+ChapterTime: 0:43.894(2582)
