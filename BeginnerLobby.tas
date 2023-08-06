@@ -5,32 +5,32 @@ console load SpringCollab2020/0-Lobbies/1-Beginner
 
 Read,Beginner/Lobby/Start-CE,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/CrystalEnigma3B,Start
+Read,Beginner/Maps/CrystalEnigma,Start
 Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/CE-HOS,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/HeavensOuterSpace3B,Start
+Read,Beginner/Maps/HeavensOuterSpace,Start
 Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/HOS-ES,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/ElectricStratosphere2B,Start
+Read,Beginner/Maps/ElectricStratosphere,Start
 Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/ES-BP,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/BlastProcessing2B,Start
+Read,Beginner/Maps/BlastProcessing,Start
 Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/BP-AA,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/AzuriteAscent3B,Start
+Read,Beginner/Maps/AzuriteAscent,Start
 Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/AA-Star,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/Starjump2B,Start
+Read,Beginner/Maps/Starjump,Start
 Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/Star-HA,Start
@@ -40,12 +40,12 @@ Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/HA-Cirq,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/CirqueMaderano3B,Start
+Read,Beginner/Maps/CirqueMaderano,Start
 Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/Cirq-Sing,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/TheSingularity2B,Start
+Read,Beginner/Maps/TheSingularity,Start
 Read,Menuing/ExitLevel
 
 #weird desync
@@ -53,47 +53,47 @@ Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/Sing-SJFD,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/SpaceJamFeverDream3B,Start
+Read,Beginner/Maps/SpaceJamFeverDream,Start
 Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/SJFD-MC,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/MossyCaverns3B,Start
+Read,Beginner/Maps/MossyCaverns,Start
 Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/MC-BBB,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/BadelineBlockBelt3B,Start
+Read,Beginner/Maps/BadelineBlockBelt,Start
 Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/BBB-ItS,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/IntoTheStorm3B,Start
+Read,Beginner/Maps/IntoTheStorm,Start
 Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/ItS-TD,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/ThoughtfulDreams3B,Start
+Read,Beginner/Maps/ThoughtfulDreams,Start
 Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/TD-ST,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/SeekerTemple2B,Start
+Read,Beginner/Maps/SeekerTemple,Start
 Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/ST-TotK,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/TotK2B,Start
+Read,Beginner/Maps/TotK,Start
 Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/TotK-Chill,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/ChilloutMountain3B,Start
+Read,Beginner/Maps/ChilloutMountain,Start
 Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/Chill-DS,Start
 Read,Menuing/EnterLevel
-Read,Beginner/Maps/DesoliteSpire3B,Start
+Read,Beginner/Maps/DesoliteSpire,Start
 Read,Menuing/ExitLevel
 
 Read,Beginner/Lobby/DS-Restart,Start
