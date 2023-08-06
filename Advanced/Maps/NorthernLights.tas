@@ -2,21 +2,37 @@ console load SpringCollab2020/3-Advanced/Bissy
 
    1
 #Start
+#lvl_Bissy_00
  190
    5,U,X
    1,L,U
+
   40
+
+#lvl_Bissy_01
   11,L
-   5,U,X
-  42
+   7,U,X
+
+  40
+
+#lvl_Bissy_02
   11,L
    5,L,U,X
+
   40
+
+#lvl_Bissy_03
    2,R,U
    2,R
    4,R,D
-  42
+   2
+
+  40
+
+#lvl_Bissy_04
    5,R,U
    6,R,D
   13,U,X
  135
+
+ChapterTime: 0:05.695(335)
