@@ -1,0 +1,163 @@
+console load SpringCollab2020/4-Expert/Mineman
+   1
+
+#Start
+ 190
+
+   8,R
+   6,R,X
+   6,L,J
+   5,R,U,X
+
+  40
+
+#lvl_mineman_1
+   7,R
+   4
+   9,R,D,X
+   1,R,J
+  24,L,D
+   5,U,X
+
+  40
+
+#lvl_mineman_2 (0)
+  11
+   5,L,D,X
+   2,R,J
+   8,R
+   1,R,J
+   3,R
+   3
+  14,L,J
+  15,L,U,X
+  31,L,D
+
+  40
+
+#lvl_mineman_berry1
+   1
+  72,O
+   6,L,U,X
+StunPause, Input
+  10,L,U
+  14,R,D
+   4,D
+EndStunPause
+  36,D
+   5,R,U,X
+StunPause, Input
+  10
+SkipInput, 3, 1
+  15,D,C
+   1,L,J
+  14,L
+  12,L
+  28,L,J
+SkipInput, 3, 1
+  15,U,Z
+  25,L,J
+   6,L,D
+EndStunPause
+   1,R,D
+  14,R
+   5,R,X
+
+  40
+
+#lvl_mineman_2 (1)
+  10
+  15,D,X
+   8,L
+   1,L,J
+   4,L,Z
+  31,L,J
+   5,U,X
+
+  40
+
+#lvl_mineman_3
+  11
+   5,L,D,X
+   1,R,J
+   7,R
+  17,R,J
+   8,R,U,X
+
+  40
+
+#lvl_mineman_4
+  11,L
+   5,L,D,X
+   1,R,J
+   7,R
+   5,R,J
+   5,U,X
+  10,J
+  11
+   6,U,X
+   1,L,J
+  49,L,J
+  10,L
+   9,L,J
+   9,L
+  11,L,J
+   1,L,K,G
+   5,L,J,G
+  17,L
+  32,L,J
+  16,U,Z
+  20,L,J
+   5,R,K
+  21,R,U,X
+   5,L,J
+  12,R,X
+   4,R,J
+  14,R,K
+  13,U,Z
+  19,R,D
+  23,D
+   1,L
+   1,J
+   2,K,G
+  28,R,K
+   5,L,U,X
+
+  40
+
+#lvl_mineman_5
+  11,D
+   7,L,U,X
+   1,J,G
+   6,D
+  12,R,D
+   6,R,U,X
+   1,L,J
+  40,L,D
+   3,F,240.663
+  11,F,181
+  11,F,121
+  32,F,95.801
+   1,F,92.283
+   9,F,63.464
+  52,F,58.275
+  15,R
+  15,R,D,X
+  15,U,C
+  22,L,D
+  53,D
+   1,R,U
+  57,U
+
+  40
+
+#lvl_mineman_outro
+   1,U
+  12,F,10.759
+  10,F,15.696
+   1,F,10.714
+  36,F,320.269
+   5,R,U,X
+ 135
+
+ChapterTime: 0:43.792(2576)
