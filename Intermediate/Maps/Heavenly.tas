@@ -2,48 +2,48 @@
 
 console load SpringCollab2020/2-Intermediate/phant
 
-1
+   1
 
 #Start
-190
+ 190
 
-7,J
-5,Z,L
-1,J,L
-12,D,L
-5,X,U
-37,D,L
+   7,J
+   5,L,Z
+   1,L,J
+  12,L,D
+   5,U,X
+  37,L,D
 
-244
+ 244
 
-16,J
-7,X,R
-2,J,L
-9,L
-18,D,R
-5,Z,U,R
+  16,J
+   7,R,X
+   2,L,J
+   9,L
+  18,R,D
+   5,R,U,Z
 
-40
+  40
 
-11
-8,X,U,R
-23,R,D
+  11
+   8,R,U,X
+  23,R,D
 
-40
+  40
 
-8,X,R
-1,J,G
-60,D,R
-2,J,R
+   8,R,X
+   1,J,G
+  60,R,D
+   2,R,J
 
-40
+  40
 
-5,J,R
-6,Z,R
-9,J,L
-5,X,U
+   5,R,J
+   6,R,Z
+   9,L,J
+   5,U,X
+ 135
 
-
-#ChapterTime: 0:12.206(718)
+ChapterTime: 0:12.206(718)
 #TimeSpendWaiting: 0:09.605(565)
 
