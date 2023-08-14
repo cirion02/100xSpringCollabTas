@@ -1,251 +1,251 @@
 #created by Cirion02
 
 console load SpringCollab2020/2-Intermediate/TheAdvertisement
- 1
+   1
 
+#Start
+ 190
 
-190
+   7,J
+   6,R,X
 
-7,J
-6,X,R
+  40
 
-40
+   1
+   1,L,J
+   8,L,K
+   6,R,U,X
+   1,J
+  21,L,D
+  10,L,D,X
+   1,R,J
+  14,R,D
+   1,G
+  15,L,D
+   5,L,D,Z
+   1,R,J
+   7,R
+  32,R,J
+   5,U,X
+   1,J
+   4,R
+   1,J,G
+  22
+   8,L,X
+   8,L,J,G
+   7,L
+   7,R,J
+  10,R,Z
+   1,J
+   1,L,K
+  15,L,D
+   1,L,J
+   8,L,D
+  13,R,D
+   1,G
+   1,R,J
+   5,R,D
+   1,G
+  16,L
+  10,R,D,X
+  17,L,J
+   5,U,X
+   1,R,J
+  12,R
+   6,L,X
+   1,R,J
+  33,R
+  13,R,D
+  16,R,J
+   5,R,X
 
-1
-1,J,L
-8,K,L
-6,X,U,R
-1,J
-21,D,L
-10,X,D,L
-1,J,R
-14,R,D
-1,G
-15,D,L
-5,Z,D,L
-1,J,R
-7,R
-32,J,R
-5,X,U
-1,J
-4,R
-1,G,J
-22
-8,X,L
-8,J,G,L
-7,L
-7,J,R
-10,Z,R
-1,J
-1,K,L
-15,L,D
-1,J,L
-8,D,L
-13,D,R
-1,G
-1,J,R
-5,D,R
-1,G
-16,L
-10,X,D,R
-17,J,L
-5,X,U
-1,J,R
-12,R
-6,X,L
-1,J,R
-33,R
-13,D,R
-16,J,R
-5,X,R
+  40
 
-40
+  12,J,G
+  10,R,K,G
+   6,U,X
+   1,R,J
+  18,R,D
+  12,R,J
+   5,R,X
+   6,J,G
+  13,D,X
+   9,R,C
+  12,J,G
+  12,K,G
+   6,R,D,X
+  10,J,G
+   1,K,G
+   7,R
+   5,R,X
 
-12,J,G
-10,K,G,R
-6,X,U
-1,J,R
-18,D,R
-12,J,R
-5,X,R
-6,G,J
-13,X,D
-9,C,R
-12,J,G
-12,K,G
-6,X,D,R
-10,G,J
-1,G,K
-7,R
-5,X,R
+  40
 
-40
-
-5
-1,G,J
-5,D,L
-9,D
-18,X,U
-5,C,D,L
-8,J,L
-4,L
+   5
+   1,J,G
+   5,L,D
+   9,D
+  18,U,X
+   5,L,D,C
+   8,L,J
+   4,L
 #9 frames dies to fire
-10,J,L
-6,X,D,L
-1,J
-6,K,R
-96
-14,D,L
-3,J,L
-9,X,D
-12,J
-5,X,L
-5,G,J
-1,K
-5,K,L
-97
-14,D,L
-3,J,L
-9,X,R
+  10,L,J
+   6,L,D,X
+   1,J
+   6,R,K
+  96
+  14,L,D
+   3,L,J
+   9,D,X
+  12,J
+   5,L,X
+   5,J,G
+   1,K
+   5,L,K
+  97
+  14,L,D
+   3,L,J
+   9,R,X
 
-60
+  60
 
-3
-1,G,J
-21,D
-6,X,L,D
+   3
+   1,J,G
+  21,D
+   6,L,D,X
 
-120
-9,X,L
+ 120
+   9,L,X
 
-60
+  60
 
-14,X,U
+  14,U,X
 
-40
+  40
 
-12,L,D
-1,J,R
-6,R
-1,J
-7,J,L
-5,Z,R
-1,J,R
-7,R
-4,J,R
-5,X,U
-1,J
-8,D,L
-5,X,U,L
-1,J,G
-9
-15,Z,U,R
-31,D
-2,D,L
-5,X,U,R
-1,J,L
-13,D,L
-5,Z,L
-1,J,R
-19,R
-77
-22,L
-5,X,D,L
+  12,L,D
+   1,R,J
+   6,R
+   1,J
+   7,L,J
+   5,R,Z
+   1,R,J
+   7,R
+   4,R,J
+   5,U,X
+   1,J
+   8,L,D
+   5,L,U,X
+   1,J,G
+   9
+  15,R,U,Z
+  31,D
+   2,L,D
+   5,R,U,X
+   1,L,J
+  13,L,D
+   5,L,Z
+   1,R,J
+  19,R
+  77
+  22,L
+   5,L,D,X
 
-40
+  40
 
-1
-5,X,U,R
+   1
+   5,R,U,X
 
-58
+  58
 
-10
-10,X,D,R
-1,J
-12,K,G
-6,J,G
-5,X,D,R
-1,J,R
-7,R
-2,J,R
-15,X,D
-10,Z,L
-1,J,R
-4,R
-5,X,U
-1,J
-19,D,L
-7,Z,L
-1,R,J
-8
-5,X,D,R
-2,J,R
+  10
+  10,R,D,X
+   1,J
+  12,K,G
+   6,J,G
+   5,R,D,X
+   1,R,J
+   7,R
+   2,R,J
+  15,D,X
+  10,L,Z
+   1,R,J
+   4,R
+   5,U,X
+   1,J
+  19,L,D
+   7,L,Z
+   1,R,J
+   8
+   5,R,D,X
+   2,R,J
 
-40
+  40
 
-4,J,R
-7,J
-32,G,K,R
-20,R
-23,J,R
-5,X,D,R
-53
-4,J
-125,G
-7,X,D,R
-1,J,R
-7,R
-1,J,R
-14,R,D
-6,L,D
-9,R,D
-6,X,U,L
-1,J,R
-37,D,R
-7,X,R
-2,G,J
-18,D,R
-9,X,R
-8,G,J
-12,G,K
+   4,R,J
+   7,J
+  32,R,K,G
+  20,R
+  23,R,J
+   5,R,D,X
+  53
+   4,J
+ 125,G
+   7,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D
+   6,L,D
+   9,R,D
+   6,L,U,X
+   1,R,J
+  37,R,D
+   7,R,X
+   2,J,G
+  18,R,D
+   9,R,X
+   8,J,G
+  12,K,G
 #This could probably be optimised to regain stamina
-7,K,L,G
-21,D,G,R
-1,D,R
-11,J,R
-6,K,L
-19,X,R,G
-6,J,R,G
-8,R,G
-15,J,R,G
-1,K,G
-11,K,R,G
-21,K,R
-16,J,L
-6,X,D,R
-3,J,L
-28,L
-11
-14,L
-7,X,R
-13,G
-12,J,G,L
-10,K,G,R
-9,J,G,L
-8,K,G,R
-1,K,D
-1,G,J
-7,J
-1,X,R
-4,X,R,G
-15,G,R
+   7,L,K,G
+  21,R,D,G
+   1,R,D
+  11,R,J
+   6,L,K
+  19,R,X,G
+   6,R,J,G
+   8,R,G
+  15,R,J,G
+   1,K,G
+  11,R,K,G
+  21,R,K
+  16,L,J
+   6,R,D,X
+   3,L,J
+  28,L
+  11
+  14,L
+   7,R,X
+  13,G
+  12,L,J,G
+  10,R,K,G
+   9,L,J,G
+   8,R,K,G
+   1,D,K
+   1,J,G
+   7,J
+   1,R,X
+   4,R,X,G
+  15,R,G
 
-40
+  40
 
-1,J
-1,K,L
-9,L
+   1,J
+   1,L,K
+   9,L
 
-135
+ 135
 
 #0:43.860(2580)
