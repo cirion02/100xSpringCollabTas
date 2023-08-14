@@ -15,6 +15,5 @@ Read, Other\prologue,Start
   47
 
 Read, IntermediateLobby,Start
-***
 Read, Menuing/RtmFromLobby
 Read, Menuing/ViewJournal
