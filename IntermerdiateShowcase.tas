@@ -1,0 +1,20 @@
+unsafe
+
+Read, Menuing\StartFile
+
+Read, Other\prologue,Start
+
+ 165
+   1,J
+  25
+   1,R
+  50
+   1,J
+  43
+   1,J
+  47
+
+Read, IntermediateLobby,Start
+***
+Read, Menuing/RtmFromLobby
+Read, Menuing/ViewJournal
