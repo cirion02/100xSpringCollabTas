@@ -6,11 +6,13 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
 #Start
  190
 
+#lvl_TheAd_00
    7,J
    6,R,X
 
   40
 
+#lvl_TheAd_01
    1
    1,L,J
    8,L,K
@@ -61,6 +63,7 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
 
   40
 
+#lvl_TheAd_02
   12,J,G
   10,R,K,G
    6,U,X
@@ -77,10 +80,12 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
   10,J,G
    1,K,G
    7,R
+***s
    5,R,X
 
   40
 
+#lvl_TheAd_03
    5
    1,J,G
    5,L,D
@@ -248,4 +253,5 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
 
  135
 
+ChapterTime: 0:43.860(2580)
 #0:43.860(2580)
