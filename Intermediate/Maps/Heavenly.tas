@@ -1,49 +1,59 @@
 #made by Cirion02
 
 console load SpringCollab2020/2-Intermediate/phant
-
    1
 
 #Start
  190
 
+#lvl_phant-start
    7,J
    5,L,Z
    1,L,J
-  12,L,D
-   5,U,X
-  37,L,D
+  12,L
+  15,U,X
+  27,L,D
 
- 244
+ 132
+
+  40
+
+#lvl_phant-01
+  72
 
   16,J
    7,R,X
-   2,L,J
-   9,L
-  18,R,D
+   3,L,J
+   5,L
+   3,L,J
+  13,R
+   3,R,D
    5,R,U,Z
 
   40
 
+#lvl_phant-02
   11
    8,R,U,X
   23,R,D
 
   40
 
+#lvl_phant-03
+  15,D,X
+   9,R,J
    8,R,X
-   1,J,G
-  60,R,D
-   2,R,J
 
   40
 
-   5,R,J
+#lvl_phant-end
+   4
+   3,R,J
    6,R,Z
    9,L,J
-   5,U,X
+   5,R,U,X
  135
 
-ChapterTime: 0:12.206(718)
+ChapterTime: 0:11.492(676)
 #TimeSpendWaiting: 0:09.605(565)
 
