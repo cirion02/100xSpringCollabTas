@@ -5,26 +5,35 @@ console load SpringCollab2020/2-Intermediate/Goat
    1
 
 #Start
+#lvl_Intro
   61
 
    2,J
   10,R,D,X
    6,L,J
   29,U,X
+
   13,R
    2,L,J
    5,L,K
    4,L,J
    6,L,U,X
 
+#+1f
+#   3,R
+#   5,U,Z
+#   9,L,J
+#  11,L
+#   6,L,U,X
 
-
-   1,J,G
-  27,D
-   5,U,X
+   1,R,J
+  12,R,D
+  13,D
+   6,U,X
 
   40
 
+#lvl_1
   11
   34,R,Z
    5,R,X
@@ -93,6 +102,7 @@ console load SpringCollab2020/2-Intermediate/Goat
 
   40
 
+#lvl_2
    1,L,J
    6,L,K
   10,L
@@ -135,6 +145,7 @@ console load SpringCollab2020/2-Intermediate/Goat
 
   40
 
+#lvl_3
    1
    8,K,G
    1,L,J
@@ -179,6 +190,7 @@ console load SpringCollab2020/2-Intermediate/Goat
 
   40
 
+#lvl_4
   10
    5,D,X
   10
@@ -217,6 +229,7 @@ console load SpringCollab2020/2-Intermediate/Goat
   40
 
 
+#lvl_3
    1
   12,R,J,G
   12,R,K,G
@@ -247,6 +260,7 @@ console load SpringCollab2020/2-Intermediate/Goat
 
   40
 
+#lvl_5
    1,J,G
   15,D
   24,R,U,Z
@@ -273,6 +287,7 @@ console load SpringCollab2020/2-Intermediate/Goat
 
   40
 
+#lvl_6
   11,G
    5,R,D,Z
    1,L,J
@@ -283,4 +298,4 @@ console load SpringCollab2020/2-Intermediate/Goat
 
  135
 
-ChapterTime: 0:43.894(2582)
+ChapterTime: 0:43.877(2581)
