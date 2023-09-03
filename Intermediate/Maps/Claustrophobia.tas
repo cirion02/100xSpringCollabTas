@@ -1142,7 +1142,6 @@ Repeat,3
   14,L
 EndRepeat
   16,L,D
-***S
    6,L,J
   39,L,D
    2,L,J
@@ -1180,7 +1179,6 @@ EndRepeat
    1
    1,D,G
   38,D
-***s
    5,R,Z
    1,J
    1,L,K
