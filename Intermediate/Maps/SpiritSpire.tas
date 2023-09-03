@@ -228,13 +228,14 @@ console load SpringCollab2020/2-Intermediate/Goat
    9
    8,R,U,X
    1,J,G
-  19,D
-   5,L,U,Z
+  21,D
+   6,L,U,X
 
   40
 
 #lvl_5
-  23,D
+   1,J,G
+  15,D
   24,R,U,Z
    4
   15,U,X
@@ -270,4 +271,4 @@ console load SpringCollab2020/2-Intermediate/Goat
 
  135
 
-ChapterTime: 0:41.208(2424)
+ChapterTime: 0:41.140(2420)
