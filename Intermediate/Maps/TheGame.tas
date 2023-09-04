@@ -3,6 +3,7 @@ console load SpringCollab2020/2-Intermediate/Hallow
    1
    
 #Start
+#lvl_Hallow_01
  190
 
    7,J
@@ -14,6 +15,7 @@ console load SpringCollab2020/2-Intermediate/Hallow
 
   40
 
+#lvl_Hallow_02
   17,R
    5,R,J,Z
   12,R
@@ -53,6 +55,7 @@ console load SpringCollab2020/2-Intermediate/Hallow
 
   40
 
+#lvl_Hallow_03
    5,R,Z
    9,L
   36
@@ -100,6 +103,7 @@ console load SpringCollab2020/2-Intermediate/Hallow
 
   40
 
+#lvl_Hallow_04
    8,R
    5,U,X
    4,J
@@ -133,6 +137,7 @@ console load SpringCollab2020/2-Intermediate/Hallow
 
   40
 
+#lvl_Hallow_05
    1,J
   23,L,D
    5,R,X
@@ -168,6 +173,7 @@ console load SpringCollab2020/2-Intermediate/Hallow
 
   43
 
+#lvl_Hallow_06
    7
    5,R,D,X
    1,R,J
@@ -228,6 +234,7 @@ console load SpringCollab2020/2-Intermediate/Hallow
 
   43
 
+#lvl_Hallow_07
   10,J
    5,R,X
   19,L,J
