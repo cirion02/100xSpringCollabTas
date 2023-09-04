@@ -1,152 +1,160 @@
 #created by Cirion02
 
 console load SpringCollab2020/2-Intermediate/Rocketguy2
- 1
+   1
 
 #Start
-190
+#lvl_RG2_0
+ 190
 
-1,J,L
-14,L
-5
-10,Z,R
-1,J,L
-5,L
-15,X,D
-5,Z,R,J
-3,J,R
+   1,L,J
+  14,L
+   5
+  10,R,Z
+   1,L,J
+   5,L
+  15,D,X
+   5,R,J,Z
+   3,R,J
 
-40
+  40
 
-1,J,R
-13,D,R
-4,L,D
-1,L,G
-7,X,U,R
-1,G,J
-16,D,R
+#lvl_RG2_1
+   1,R,J
+  13,R,D
+   4,L,D
+   1,L,G
+   7,R,U,X
+   1,J,G
+  16,R,D
 
-40
+  40
 
-5,D,R
-3,J,R
-20,D,R
-15,X,D
-5,J,L
-18,L,D
-6,X,D,R
-1,K
-1,J,L
-1
+#lvl_RG2_2 (0)
+   5,R,D
+   3,R,J
+  20,R,D
+  15,D,X
+   5,L,J
+  18,L,D
+   6,R,D,X
+   1,K
+   1,L,J
+   1
 
-40
+  40
 
-27,D
-1,S
-1,D,J
-69,O
-5,X,U,L
+#lvl_RG2_5s
+  27,D
+   1,S
+   1,D,J
+  69,O
+   5,L,U,X
 
-40
+  40
 
-1,J,R 
-13,D,R
-3,J,R
-10,J,L
-8,K,G
-10,Z,L
-24,J,R
-6,X,U
+#lvl_RG2_2 (1)
+   1,R,J
+  13,R,D
+   3,R,J
+  10,L,J
+   8,K,G
+  10,L,Z
+  24,R,J
+   6,U,X
 
-40
+  40
 
-1,J 
-2,J,L
-1,K,L,G
-15,J,L,G
-6,Z,L
-1,J,L
-7,R
-2,J,R
-10,X,D,R
-12,G,J
-12,G,K
-12,G,J
-17,G
-4
-7,G
-3
-11,G
-6
-5,Z,R
-39,D,R
-5,X,D
-49,D
-5,X,L
-6,G
-1,G,J,L
-35
-10,Z,R,J
-53,R
-11,L
-1,J,L
-11,L
-6,X,L
-1,J,G
-17,D
-1
-1,S
-1,D,J
-34
-11,J,G
-10,L
-3,J,L
-6,X,L
-1,J,R
-12,R
-2,J,R
-10,X,R
-1,G,J
-14,L,K
-5,X,D,R
+#lvl_RG2_4
+   1,J
+   2,L,J
+   1,L,K,G
+  15,L,J,G
+   6,L,Z
+   1,L,J
+   7,R
+   2,R,J
+  10,R,D,X
+  12,J,G
+  12,K,G
+  12,J,G
+  17,G
+   4
+   7,G
+   3
+  11,G
+   6
+   5,R,Z
+  39,R,D
+   5,D,X
+  49,D
+   5,L,X
+   6,G
+   1,L,J,G
+  35
+  10,R,J,Z
+  53,R
+  11,L
+   1,L,J
+  11,L
+   6,L,X
+   1,J,G
+  17,D
+   1
+   1,S
+   1,D,J
+  34
+  11,J,G
+  10,L
+   3,L,J
+   6,L,X
+   1,R,J
+  12,R
+   2,R,J
+  10,R,X
+   1,J,G
+  14,L,K
+   5,R,D,X
 
-40
+  40
 
-36
+#lvl_RG2_5
+  36
 
-1,S
-1,D,J
-69,O
+   1,S
+   1,D,J
+  69,O
 
-7,X,U,R
-1,G,J
-12,D,L
-6,L
-2
-10,D
-4,D,R
-6,D
-5,X,R
-1,J
-26,L,J,G
-1,L,J
-59,R
-1,J,R
-21,D,R
-6,Z,R
-5,J,G,R
-8,R
-12,J,R
-6,Z,R
+   7,R,U,X
+   1,J,G
+  12,L,D
+   6,L
+   2
+  10,D
+   4,R,D
+   6,D
+   5,R,X
+   1,J
+  26,L,J,G
+   1,L,J
+  59,R
+   1,R,J
+  21,R,D
+   6,R,Z
+   5,R,J,G
+   8,R
+  12,R,J
+   6,R,Z
 
-40
+  40
 
-1
-9,J,L
-1,X
-4,X,L,D
-12
-1,J,R
-122,R
+#lvl_RG2_6
+   1
+   9,L,J
+   1,X
+   4,L,D,X
+  12
+   1,R,J
+ 122,R
 
 #0:25.228(1484)
