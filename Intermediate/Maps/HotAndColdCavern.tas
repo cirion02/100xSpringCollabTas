@@ -5,10 +5,12 @@ console load SpringCollab2020/2-Intermediate/GG19
 
 #Start
  193
+
 #lvl_Gabe_intro
    5,R,U,X
   40
-#lvl_Gabe_1 (0)
+
+#lvl_Gabe_1
    1,J,G
   21,D
    8,R,X
@@ -34,19 +36,18 @@ console load SpringCollab2020/2-Intermediate/GG19
   40
 
 #lvl_Gabe_1B
+***S
    1
   19,D
    5,R,Z
    6,R,J
-  18,R,D
-   5,R,U,X
-  40
-#lvl_Gabe_1 (1)
-   5
-   6,L
+  23,R
+   1,R,J,G
+   5,R,K,G
+   3,R,J,G
    5,U,X
-  17,L,K
   40
+
 #lvl_Gabe_2
    5
    6,L
@@ -135,4 +136,4 @@ console load SpringCollab2020/2-Intermediate/GG19
    5,L,U,X
  135
 
-ChapterTime: 0:23.749(1397)
+ChapterTime: 0:22.797(1341)
