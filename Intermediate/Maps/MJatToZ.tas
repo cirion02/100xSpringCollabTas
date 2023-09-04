@@ -156,28 +156,35 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
    1,R,J
   19,R
   77
-  22,L
+   2,J
    5,L,D,X
-
-  40
-
-#lvl_TheAd_03 (2)
-   1
-   5,R,U,X
+   1,R,J
+   9,R
+   5,L,J,Z
+   7,L
+   1,L,J
+   2,L
+  15,D,X
+   5,R,U,C
 
   58
 
+
 #lvl_TheAd_04 (1)
   10
-  10,R,D,X
-   1,J
-  12,K,G
-   6,J,G
-   5,R,D,X
-   1,R,J
-   7,R
-   2,R,J
-  15,D,X
+   6,R,U,X
+   1,L,J
+  15,L,D
+   1,D
+  10
+   2,R
+  11,R,D
+  15,R,D,X
+  15,D,C
+
+#Spinner cycle (deload cycle)
+   3
+
   10,L,Z
    1,R,J
    4,R
@@ -210,6 +217,7 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
    6,L,D
    9,R,D
    6,L,U,X
+#The spinner in question
    1,R,J
   37,R,D
    7,R,X
@@ -259,5 +267,5 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
 
  135
 
-ChapterTime: 0:43.860(2580)
+ChapterTime: 0:43.741(2573)
 
