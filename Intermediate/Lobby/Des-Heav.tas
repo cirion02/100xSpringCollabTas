@@ -3,16 +3,14 @@ console load SpringCollab2020/0-Lobbies/2-Intermediate 2072 2056
 
 #Start
   36
-   7,R,U,Z
-   1,J,G
-   9,R
-   5,R,J,Z
-   5,R
-   3,R,J
-   2,R
+  10,R,U,X
+   5,J
+  10,R,D,X
+   6,L,J
   15,D,X
    5,L,D,Z
    1,R,J
    7,L
    1,X
-#0:00.833(49)
+#0:00.816(48)
+
