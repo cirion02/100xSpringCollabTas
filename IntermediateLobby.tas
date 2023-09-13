@@ -40,7 +40,7 @@ Read,Menuing/ExitLevel
 
 Read,Intermediate/Lobby/WI-MT.tas,Start
 Read,Menuing/EnterLevel
-Read,Intermediate/Maps/MorbiusTemple.tas,Start
+Read,Intermediate/Maps/MobiusTemple.tas,Start
 Read,Menuing/ExitLevel
 
 Read,Intermediate/Lobby/MT-ER.tas,Start
