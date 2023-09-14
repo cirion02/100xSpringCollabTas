@@ -19,7 +19,6 @@ console load SpringCollab2020/2-Intermediate/aleph_null
 #lvl_aleph_entrance
    1
   75,O
-
    5,R,X
   13,J,G
   10,K,G
@@ -30,17 +29,16 @@ console load SpringCollab2020/2-Intermediate/aleph_null
    6,L,J,Z
    8,L
   26,L,J
-   5,U,X
-  25,R,D
+  15,U,X
+  15,R,D
    8,D
    5,R,Z
 
   40
 
 #lvl_aleph_main
-   9
+  10
    1,J
-   1,K
   15,D,X
    5,R,Z
    3,L,J
@@ -69,8 +67,8 @@ console load SpringCollab2020/2-Intermediate/aleph_null
 
 #lvl_aleph_right
   10,R,J
-   5,R,U,X
-  25,L
+  15,R,U,X
+  15,L
    3
    5,L,U,X
   44,R,D
