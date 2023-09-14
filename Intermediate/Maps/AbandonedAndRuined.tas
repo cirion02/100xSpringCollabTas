@@ -7,12 +7,12 @@ console load SpringCollab2020/2-Intermediate/aleph_null
 #lvl_aleph_start
   69
 
-   5,R,J,Z
-   7,R
-  13,R,J
+   2,L
    5,U,X
-  44,R,D
-   5,R,X
+   1,J
+  11,L,K,G
+  15,L
+   6,R,X
 
   40
 
@@ -85,4 +85,4 @@ console load SpringCollab2020/2-Intermediate/aleph_null
    5,U,X
  135
 
-ChapterTime: 0:15.385(905)
+ChapterTime: 0:14.773(869)
