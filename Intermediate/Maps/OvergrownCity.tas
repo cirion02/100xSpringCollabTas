@@ -98,8 +98,7 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
 
 #frameties a straight down because you can't jump out of a down until frame 16
    2,R
-   5,R,D,X
-   5
+  10,R,D,X
    5,L,J
    6,L,D,X
 
