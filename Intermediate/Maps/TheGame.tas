@@ -47,22 +47,21 @@ console load SpringCollab2020/2-Intermediate/Hallow
    5,R,Z
   16,R,J
   43
+  15,R,X
+  21,R
+   5,R,J,Z
+  13,R
    5,R,X
-  31,R,D
-   5,R,J,Z
-  10,R
-   5,R,J,Z
-  10,R
 
   40
 
 #lvl_Hallow_03
-   5,R,Z
-   9,L
+  10,L
   36
    5,R,X
-  38,R,D
-  41,L
+  43,R,D
+  32
+   9,L
   52,R
    5,U,Z
   25,R,D
@@ -74,77 +73,91 @@ console load SpringCollab2020/2-Intermediate/Hallow
    5,L,J,G
    1,L
   11,L,J
-  20,L,D
-  46,L
+  17,L,D
+  32
+  17,L
    5,L,X
   44,D
    5,R,X
-   1,R,J,G
-   7,R,D
-   5,L,J
-   5,U,X
-  26,D
-  73,R,D
-   5,R,U,X
+   1,J,G
    3
+   1,R
+   1,R
+   2
+   2,L
+  15,U,X
+   6,D
+   9,R,D
+  32
+  41,R,D
+  10,R,U,X
    1,L,J
-  19,L,D
-  37,R
+  11,L,D
+  37
    5,R,X
    1,J
    7,R,D
   30,L,D
+  15,R,Z
+  12,D
+   1,G
+   1,R,K
+  13,R
+  39
+  30,R,D
    5,R,Z
-  20,D
-   5,R
-  15,R,J
-  69,R,D
-   5,R,Z
-  32,R
+  40,R
 
   40
 
 #lvl_Hallow_04
    8,R
-   5,U,X
-   4,J
+   5,U,Z
+   2,J
   25,R,J
    5,R,X
    6,L,J
   31,L
   37
    1
-   5,R,Z
-  27,R,D
+  31,R,Z
+
+#TODO: Get featherline to stop being dumb
+   1,R,D
   15,F,103
   10,F,245
   18,F,335
   26,F,337
    2,F,330
    6,L
-  73,R,D
-  59,D
-   5,R,Z
-  19,L,D
-  37,R,J
+
+  36
+  37,R,D
+  32
+  29,D
+  15,R,Z
+  37
    5,R,U,X
   23,L,D
   64,D
    5,R,X
-   2,L
-  51,R,D
+  40
+  13,R,D
    5,R,X
-  11
+  12
 
   40
 
 #lvl_Hallow_05
    1,J
-  23,L,D
+  17,L,D
+   2
    5,R,X
    1,J,G
   17,D
-  82,R,D
+   6,R,D
+  32
+  43,R,D
    5,R,D,Z
   10
    5,L,X
@@ -247,4 +260,4 @@ console load SpringCollab2020/2-Intermediate/Hallow
 
  135
 
-ChapterTime: 0:50.473(2969)
+ChapterTime: 0:50.116(2948)
