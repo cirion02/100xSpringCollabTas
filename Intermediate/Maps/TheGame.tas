@@ -5,31 +5,32 @@ console load SpringCollab2020/2-Intermediate/Hallow
 #Start
 #lvl_Hallow_01
  190
-
-   7,J
-   5,R,Z
+#Spinner cycle
+   2
+   9,R,J
+   5,R,D,Z
    1,R,J
-   7,R
-   1,R,J
-   1,R
+   5,R
 
   40
 
 #lvl_Hallow_02
-  17,R
-   5,R,J,Z
-  12,R
-   6,R,J
+   1,R
+   1,R,J
+  18,R
+  19,R,J,Z
   37
   24,L,D
-   5,R,X
-  35,L,D
+   6,R,X
+   5,L
+  27
    1,R,J
    7,R,K
-  20,R,D
+  20,R
   14,R
    5,L,X
   25,R
+#Spinner cycle is here
    5,R,Z
    1,L,J
   18,L,K
@@ -242,4 +243,4 @@ console load SpringCollab2020/2-Intermediate/Hallow
 
  135
 
-ChapterTime: 0:50.626(2978)
+ChapterTime: 0:50.575(2975)
