@@ -693,43 +693,44 @@ EndRepeat
    8,L,J
    4,L
 #r4 red
+***S
    4,D
    6,R,D
    1,R,J
    4,R,D
-   1,R,J
-   1,R
-   5,U,X
-  13,D
-   2,L,D
-  27,D
-  20,R,D
-   5,R,J,Z
-   7,R
    2,R,J
-  15,R
-   1,R,J
-  14,R
-   1,L,J
-   6,R
-  11,D
-   5,U,X
-  13,D
-   3,R,D
-  47,D
-  30
-   5,L,J,Z
-  11,L
-   2,L,J
-   5,U,X
-   1,J
-  34,D
+  12,R,K
+   5,R,Z
+   5,J,G
+   3,R,K,G
+  12,R
+   5,R,J,Z
+  12,L
+   1,R
+  15,U,X
+  26,D
   16,L,D
-   5,L,J,Z
-   6,L,J
-  22,L,D
+***S
+  31
+  10,L,X
+   1,R,J
+   4,L
+  15,U,X
+  11,L,D
+   6,D
+   8
+   5,R,D,X
    1,L,J
-   9,L
+  12,L
+   1,L,J
+  14,L
+   1,L,D
+***S
+   1,L,D,J
+   4,L
+   1,L,J
+   5,L
+   7,L,J
    5,U,X
    9,L,D
    1,L,J
@@ -1277,4 +1278,4 @@ EndRepeat
    1,J
   50,D
 
-ChapterTime: 2:53.162(10186)
+ChapterTime: 2:51.462(10086)
