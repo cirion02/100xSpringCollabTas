@@ -785,11 +785,12 @@ EndRepeat
    1,S
    1,D,J
   69,O
+***S
    5,L,J,Z
    2,L,D
-  24,R,D
-   3,L,D
-   2,D
+  22,R,D
+   2,R
+   3,L
    5,R,D,X
    3,L,J
   42
@@ -1278,4 +1279,4 @@ EndRepeat
    1,J
   50,D
 
-ChapterTime: 2:51.292(10076)
+ChapterTime: 2:51.258(10074)
