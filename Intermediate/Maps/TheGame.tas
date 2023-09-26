@@ -130,7 +130,6 @@ console load SpringCollab2020/2-Intermediate/Hallow
   26,F,337
    2,F,330
    6,L
-
   36
   37,R,D
   32
@@ -158,9 +157,8 @@ console load SpringCollab2020/2-Intermediate/Hallow
    6,R,D
   32
   43,R,D
-   5,R,D,Z
-  10
-   5,L,X
+  15,R,D,X
+   5,L,C
    1,R,J
   10,D
   37
@@ -176,40 +174,23 @@ console load SpringCollab2020/2-Intermediate/Hallow
    5,U,X
    1,R,J
   23,R,D
-  61,D
+  32
+  29,D
    5,R,X
    1,L,J
    1,L
-  47,R,J
-   5,R,X
-   2
-   2,J,G
+  38
+  30,L,J
+   3,J
+   1,L,K,G
+   1,K
+   5,R,D,X
 
-  43
+  40
 
 #lvl_Hallow_06
-
-#Spinner Cycle
-   2,G
-
-   7
-   5,R,D,X
-   1,R,J
-   7,R
-   1,R,J
-
-  15,R,D
-   4,D
-   1,R,J
-   1,R,K
-   1,R,J
-   7,R,J
-
-#frameties
-#18,R,D
-#1,J,R
-#10,K,R
-  38,D
+  15,R,J
+  37
    6,R,U,X
    1,L,J
   21,L,D
@@ -221,7 +202,8 @@ console load SpringCollab2020/2-Intermediate/Hallow
    9,R,Z
    1,L,J
   34,L,D
-  45,D
+  32
+  13,D
    5,R,Z
    7,L,J
   16,L
@@ -229,35 +211,38 @@ console load SpringCollab2020/2-Intermediate/Hallow
    6,R,U,X
    1,L,J
   20,L,D
-  49,D
-   1,X
-   4,R,D,X
+  31
+   1,K,G
+  16,D
+   5,R,D,X
+   1,R,J
+   9,L,D
+  15,D,X
+   8,U
+  27
+  10,L
+  15
+   5,R,Z
    1,L,J
-  37,F,124
-  37,D
-   1,R,D
-   8,D
-#Spinner cycle is here
-   5,R,X
-   1,L,J
-  50,L
+   4,L
+  39
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
-   1,R,K
-   8,R,J
+  10,R,K
    5,R,D,X
 
   43
 
 #lvl_Hallow_07
-  10,J
-   5,R,X
-  19,L,J
+   6,J
+   4
+   6,R,Z
+   9,L,J
    5,L,U,X
 
  135
 
-ChapterTime: 0:50.116(2948)
+ChapterTime: 0:49.538(2914)
