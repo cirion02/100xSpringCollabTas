@@ -49,7 +49,7 @@ EndRepeat
 #shout out to kivov for finding this
    2,L,J,G
    1,D,G
-<crackhead strat>
+# <crackhead strat>
    7,D
    5,L,D,X
    2,R,J
@@ -71,9 +71,9 @@ EndRepeat
    8,R,J
    7,R,D
   28
-</crackhead strat>
+# </crackhead strat>
 
-<take the block time=74f>
+# <take the block time=74f>
 #  47,D
 #   1,R,J
 #  14,R
@@ -97,7 +97,7 @@ EndRepeat
 #   8,R,J
 #   7,R,D
 #  18
-</take the block>
+# </take the block>
 
    5,R,X
    6
@@ -274,7 +274,6 @@ EndRepeat
    2
   13,R,J,X
 #reenter r1 y
-***S
    2,D,G
    5,D
    5,L,D,X
@@ -366,9 +365,6 @@ EndRepeat
 #r2 green
   12,R,D
    9,R,J,Z
-
-***S
-
   22,R,D
   25,L,D
    5,L,X
@@ -448,7 +444,6 @@ EndRepeat
    1,L,J
    4,L,D
    1,L,K
-***S
    1,L,D
   15,U,X
    2,L,D
@@ -471,7 +466,6 @@ EndRepeat
    7,L
    9,R,J
 #r2 pink
-***s
    5,R,D,X
    1,L,J
    7,L
@@ -693,7 +687,6 @@ EndRepeat
    8,L,J
    4,L
 #r4 red
-***S
    4,D
    6,R,D
    1,R,J
@@ -710,7 +703,6 @@ EndRepeat
   15,U,X
   26,D
   16,L,D
-***S
   31
   10,L,X
    1,R,J
@@ -725,7 +717,6 @@ EndRepeat
    1,L,J
   14,L
    1,L,D
-***S
    1,L,D,J
    4,L
    1,L,J
@@ -737,7 +728,6 @@ EndRepeat
    1
    5,U,X
   40
-***S
   14,L,D
    9,D
    5,R,X
@@ -745,7 +735,6 @@ EndRepeat
    8,R,J
    7,R
 #r2 yellow
-***S
    4,R
    1,R,D
    1,R,J
@@ -759,7 +748,6 @@ EndRepeat
   27,R,J
    5,U,X
   72,O
-***S
    8,L
    1,L,D,J
    4,L
@@ -785,7 +773,6 @@ EndRepeat
    1,S
    1,D,J
   69,O
-***S
    5,L,J,Z
    2,L,D
   22,R,D
@@ -868,7 +855,6 @@ EndRepeat
   69,O
    5,R,Z
 #r3 pink
-***S
   13,D
   13,R,J,Z
   24,R,G
@@ -927,7 +913,6 @@ EndRepeat
    1
   10,L,K,X
    5,L
-***S
 #r3 green
    5,D
    2,R
@@ -955,13 +940,11 @@ EndRepeat
   13,G
    2,R,J,G
    8,R,G
-***S
    4,L,J,G
    1
    7,D
    5,L,D,X
    5
-***S
    1,R,J
    5,L
   15,D,Z
@@ -973,7 +956,6 @@ EndRepeat
    5,L
    1,L,J
    7,L
-***S
    5,L,J
    5,U,X
    9,R,D
@@ -983,7 +965,6 @@ EndRepeat
   40
 
 #hub (6), going to final section
-***S
   12
    9,J,G
    5,R,Z
@@ -1268,14 +1249,13 @@ EndRepeat
    #heart collect
    5,D,X
   32
-   4,J
+  15
+   5,J
    6,R,D,X
-   1,L,J
-  36,L
-   1,X
-   4,R,D,X
-   2
+   2,L,J
+  57,L
+   5,R,D,X
    1,J
-  50,D
+  14,D
 
 ChapterTime: 2:50.017(10001)
