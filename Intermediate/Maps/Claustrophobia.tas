@@ -345,6 +345,19 @@ EndRepeat
    5,R,U,X,G
   95,R,G
 #room 2
+
+#Saves time but cycles
+#   1,R,G
+#   1,R,G
+#   5,R,G
+#   1,J,G
+#   1,R,G
+#   1,L
+#  15,R
+#   5,R,D,Z
+#   1,R,J
+
+
    1,L,G
   13,D,G
   10,J,G
@@ -353,6 +366,9 @@ EndRepeat
 #r2 green
   12,R,D
    9,R,J,Z
+
+
+
   22,R,D
   25,L,D
    5,L,X
