@@ -961,22 +961,19 @@ EndRepeat
    7,D
    5,L,D,X
    5
-   1,R,D,J
-   6,L,D
-   5,D,Z
-   1,L,J
-   9
-   1,L,J
-   2,L
-   7,D
-   6,L,D
+***S
+   1,R,J
+   5,L
+  15,D,Z
+   5,L
+   1
    1,L,D,J
-   5,L,D
-   1,L,D,J
-   2,L,D,K
-   7,L,D
+   4,L
    1,L,J
-   3,L,D
+   5,L
+   1,L,J
+   7,L
+   3,L,J
    5,U,X
    4,L,K
    7,R,D
@@ -1282,4 +1279,4 @@ EndRepeat
    1,J
   50,D
 
-ChapterTime: 2:51.037(10061)
+ChapterTime: 2:50.884(10052)
