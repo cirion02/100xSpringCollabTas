@@ -868,6 +868,7 @@ EndRepeat
   69,O
    5,R,Z
 #r3 pink
+***S
   13,D
   13,R,J,Z
   24,R,G
@@ -926,6 +927,7 @@ EndRepeat
    1
   10,L,K,X
    5,L
+***S
 #r3 green
    5,D
    2,R
@@ -953,7 +955,8 @@ EndRepeat
   13,G
    2,R,J,G
    8,R,G
-  17,L,J,G
+***S
+   4,L,J,G
    1
    7,D
    5,L,D,X
@@ -1279,4 +1282,4 @@ EndRepeat
    1,J
   50,D
 
-ChapterTime: 2:51.258(10074)
+ChapterTime: 2:51.037(10061)
