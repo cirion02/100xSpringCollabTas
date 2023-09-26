@@ -274,6 +274,7 @@ EndRepeat
    2
   13,R,J,X
 #reenter r1 y
+***S
    2,D,G
    5,D
    5,L,D,X
@@ -285,10 +286,15 @@ EndRepeat
    1,R,J
    4,R,D
    5,U,X
+
    1,D,G
   17,L,D
    4,D
    9,L,D
+#This saves a bunch of frames but breaks cycles
+#   1,J
+#  18,D
+
    2,J
    5,L,D,X
    1
@@ -315,24 +321,27 @@ EndRepeat
    5,R,X
   10,L
    5,L,Z
+
    1,D,G
   20,D
+   1,G
    2,R,D
-  20,D,G
+  24,D,G
    1,J,G
-  26,L,J,G
-   2,L,K,G
+  16,L,J,G
    1,L,G
    6,L,D,G
    2,L,G
-   6,L
-   7,L,J,Z
-  22,L,G
+   4,L
+   5,L,J,Z
+   7,L
    1,L,J
-  10,L
-  13,D
-   3,J
+  24,L,G
+   4,L
+   1,L,J
   10,L,J
+   2,L,K,G
+   7
    5,R,U,X,G
   95,R,G
 #room 2
@@ -416,7 +425,7 @@ Repeat, 3
   14,L
 EndRepeat
    1,L,D,J
-  18,L,D
+  16,L,D
    1,L,J
    1,L,K
    2,L,D
@@ -1247,4 +1256,4 @@ EndRepeat
    1,J
   50,D
 
-ChapterTime: 2:53.961(10233)
+ChapterTime: 2:53.689(10217)
