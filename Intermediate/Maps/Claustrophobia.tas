@@ -737,6 +737,7 @@ EndRepeat
    1
    5,U,X
   40
+***S
   14,L,D
    9,D
    5,R,X
@@ -744,6 +745,7 @@ EndRepeat
    8,R,J
    7,R
 #r2 yellow
+***S
    4,R
    1,R,D
    1,R,J
@@ -757,14 +759,14 @@ EndRepeat
   27,R,J
    5,U,X
   72,O
-   1,J
-   3
-  13,L,D
-   1,L,J
+***S
+   8,L
+   1,L,D,J
    4,L
-   1,L,K
-   1,L
-   1,L,K
+   1,L,J
+   2,L
+   2
+   1,L,J
    6,L,D
    5,L,J,Z
   10,L
@@ -1278,4 +1280,4 @@ EndRepeat
    1,J
   50,D
 
-ChapterTime: 2:51.462(10086)
+ChapterTime: 2:51.360(10080)
