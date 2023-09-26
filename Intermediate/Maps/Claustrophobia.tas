@@ -471,11 +471,15 @@ EndRepeat
    7,L
    9,R,J
 #r2 pink
-   1
-   5,L,D,Z
-   1,D,J
-  50,D
-   5,L,U,X
+***s
+   5,R,D,X
+   1,L,J
+   7,L
+   2,L,D
+   3,L,J
+  14,L,D,X
+   1,J
+   5,L,U,C
    1,J
    9,L,J
    4,R,D
@@ -1273,4 +1277,4 @@ EndRepeat
    1,J
   50,D
 
-ChapterTime: 2:53.621(10213)
+ChapterTime: 2:53.162(10186)
