@@ -6,6 +6,8 @@ console load SpringCollab2020/2-Intermediate/Oppen_Heimer
 
 #Start
  190
+
+#lvl_hub (0)
    1,R,J
    4,R
   28,R,G
@@ -44,8 +46,13 @@ EndRepeat
    7,L,D
    2,L,J
    5,L,Z
+
   40
-#r1 blue
+
+#lvl_room_1
+
+
+#lvl_room_1 (Blue) (0)
 #shout out to kivov for finding this
    2,L,J,G
    1,D,G
@@ -105,11 +112,14 @@ EndRepeat
   14,L
    6,L,J
    5,U,X
+
+
    9,R,D
    1,R,J
   15,R,D
    5,U,Z
-#r1 yellow
+
+#lvl_room_1 (Yellow) (0)
    5,L
    1,L,D
    1,L,J
@@ -214,11 +224,14 @@ EndRepeat
    1,R,K
    1,R,D
    1,R,J
+
+
    6,R,D
   10,R,K,X
    5,R
+
+#lvl_room_1 (Pink)
    1,R,D
-#r1 pink
    5,R,Z
    1,L,J
    7,L
@@ -260,7 +273,11 @@ EndRepeat
    1,L,J
    4,L,D
    1,L
+
+
    5,L,X
+
+#lvl_room_1 (Blue) (1)
   15,D
    5,L,J,Z
    7,R
@@ -271,9 +288,12 @@ EndRepeat
    5,R,J,X
   15,R
   28,R,J,G
+
+
    2
   13,R,J,X
-#reenter r1 y
+
+#lvl_room_1 (Yellow) (1)
    2,D,G
    5,D
    5,L,D,X
@@ -298,11 +318,15 @@ EndRepeat
    5,L,D,X
    1
    1,R,J
-  17,R,D
+  12,R,D
+
+
+   5,R,D
    5,R,J,Z
   21,R,G
    9,R,J,G
-#r1 green
+
+#lvl_room_1 (Green)
    4,R,G
    1,R,J,G
   19,R,G
@@ -328,6 +352,8 @@ EndRepeat
   24,D,G
    1,J,G
   16,L,J,G
+
+
    1,L,G
    6,L,D,G
    2,L,G
@@ -339,11 +365,21 @@ EndRepeat
    4,L
    1,L,J
   10,L,J
+
+#lvl_room_1 (Blue) (2)
    2,L,K,G
    7
    5,R,U,X,G
-  95,R,G
-#room 2
+  14,R,G
+
+  40
+
+#lvl_hub (1)
+   1,G
+
+  40
+
+#lvl_room_2 (0)
 
 #Saves time but cycles
 #   1,R,G
@@ -358,11 +394,16 @@ EndRepeat
 
 
    1,L,G
+
+#lvl_room_2 (Green) (0)
   13,D,G
   10,J,G
+
+
    1
   11,R
-#r2 green
+
+#lvl_room_2 (Green) (1)
   12,R,D
    9,R,J,Z
   22,R,D
@@ -387,11 +428,14 @@ EndRepeat
    5,R,J,Z
   15,R,D
    9,R,J
+
+
    8,L,D
    5,L,J,Z
    7,L
   22,L,J,G
-#r2 blue
+
+#lvl_room_2 (Blue)
    2,L,G
    1,L,J,G
    5,L,G
@@ -459,13 +503,16 @@ EndRepeat
   14,R,D,G
    1,R,J,G
    1,R,G
+
+
    1,L,G
    1,L
    4,L,D
    5,L,J,Z
    7,L
    9,R,J
-#r2 pink
+
+#lvl_room_2 (Pink)
    5,R,D,X
    1,L,J
    7,L
@@ -492,8 +539,12 @@ EndRepeat
    1,R,J
   10,R
    5,R,Z
+
+#lvl_room_2 (Green) (2)
   13,D
    9,J
+
+
    8,L,D
    5,L,J,Z
   10,L,D
@@ -511,15 +562,21 @@ EndRepeat
   24,L,G
    1,L,J,G
    5,L,G
+
   40
+
+
+#lvl_hub (2)
   10,L,G
    1,R,J,G
    1,G
   19,R,D,G
   18,L,D,G
   29,D,G
+
   40
-#room 4 
+
+#lvl_room_4
    7,R,D,G
   14,R,J,G
 
@@ -532,6 +589,8 @@ EndRepeat
    1,R,J
    2,R
   24,R,G
+
+#lvl_room_4 (Yellow) (0)
    8,L,G
    1,L
   19
@@ -540,13 +599,22 @@ EndRepeat
    4,R
   16,R,G
    9,R,J,G
+
+
    1,R,G
    1,D
   10,R,D,Z
    1,J
+
+#lvl_room_4 (Yellow) (1)
    4
    5,L,U,X
-  31,L,G
+
+
+  13,L,G
+
+#lvl_room_4 (Green)
+  18,L,G
    1,D
    5,L,Z
    1,J
@@ -586,12 +654,15 @@ EndRepeat
    1,L,J
    5,L
    5,U,X
+
+
    9,R,D
    1
    5,R,J,Z
    7,R
   11,L,J
-#r4 pink
+
+#lvl_room_4 (Pink)
    1,L,D
    2,D,G
    5,D
@@ -666,9 +737,12 @@ EndRepeat
    1,R,J
    5,R
    1,R,J
+
+
    7,R,D
   15,R,J,X
-#r4 red
+
+#lvl_room_4 (Red)
    4,D
    2,R,D
    2,R,J
@@ -686,7 +760,10 @@ EndRepeat
    7,L
    2,L,D
    1,L,D,J
-   8,L
+   4,L
+
+
+   4,L
    1,L,D
    1,L,J
   15,L
@@ -695,14 +772,21 @@ EndRepeat
    1,L,J
    1
    5,U,X
+
   40
+
+#lvl_hub (3)
   14,L,D
    9,D
    5,R,X
+
   40
+
+#lvl_room_2 (1)
    8,R,J
    7,R
-#r2 yellow
+
+#lvl_room_2 (Yellow)
    4,R
    1,R,D
    1,R,J
@@ -723,6 +807,8 @@ EndRepeat
    2,L
    2
    1,L,J
+
+
    6,L,D
    5,L,J,Z
   10,L
@@ -732,7 +818,10 @@ EndRepeat
    6,L,D
    6,R,D
    5,L,U,X
+
   40
+
+#lvl_hub (4)
    1,R,J
    9,R
    5,R,J,Z
@@ -748,11 +837,15 @@ EndRepeat
    3,L
    5,R,D,X
    3,L,J
-  42
-#Room 3
+   2
+
+  40
+
+#lvl_room_3
    5,D
    5,L,X
-#r3 yellow
+
+#lvl_room_3 (Yellow)
   12,L,D
    6,L,J,Z
    8,L
@@ -788,9 +881,12 @@ EndRepeat
    1,L,J
   12,L
   10,L,K
+
+
   13,R,D
   14,R,K
-#r3 red
+
+#lvl_room_3 (Red)
    4,D
    8,L,D
    1,L,J
@@ -822,7 +918,9 @@ EndRepeat
    1,D,J
   69,O
    5,R,Z
-#r3 pink
+
+
+#lvl_room_3 (Pink)
   13,D
   13,R,J,Z
   24,R,G
@@ -877,11 +975,14 @@ EndRepeat
    5
    8,R,J
    5,U,X
+
+
    9,L,D
    1
   10,L,K,X
    5,L
-#r3 green
+
+#lvl_room_3 (Green)
    5,D
    2,R
    5,R,Z
@@ -923,6 +1024,8 @@ EndRepeat
    1,L,J
    5,L
    1,L,J
+
+
    7,L
    5,L,J
    5,U,X
@@ -930,9 +1033,10 @@ EndRepeat
   12,R,J
    4,K,G
    5,R,U,X
+
   40
 
-#hub (6), going to final section
+#lvl_hub (5)
   12
    9,J,G
    5,R,Z
@@ -943,9 +1047,10 @@ EndRepeat
   13,L
   15
    5,U,X
+
   40
 
-#Bosses
+#lvl_bosses
 #first key
   12,R,D
    5,D
@@ -1024,12 +1129,14 @@ EndRepeat
    1,J
    6,L,D
   33,D
+
+
   18,R,D
    3,R
    5,U,X
-#second key
    1,R,J
   10,R,D
+#second key
    5,R,J,Z
   10,R
    5,R,D
@@ -1083,6 +1190,8 @@ EndRepeat
   15,R,Z
    2,L,D
   43,D
+
+
   12,R,D
    7,R,Z
    1,L,J
@@ -1184,6 +1293,8 @@ EndRepeat
    1
    1,D,G
   21,D
+
+
   17,R,D
    6,U,X
    1,R,J
@@ -1195,8 +1306,11 @@ EndRepeat
    1,J
    6,L,D
   27,D
+
+
   15,R,D
    6,R,U,X
+
   40
 
 #lvl_outro
@@ -1214,7 +1328,7 @@ EndRepeat
    5
    5,U,X
   49,D
-   #heart collect
+#heart collect
    5,D,X
   32
   15
