@@ -64,9 +64,11 @@ EndRepeat
    9,R,J
    5,R,U,X
    1,J
-   9,D
+   1,D
    5,R,X
+
   40
+
    1,D,G
   13,D
   30,R,D
@@ -206,4 +208,4 @@ EndRepeat
    5,L,X
  135,L,D
 
-FileTime: 0:38.777(2281)
+FileTime: 0:38.641(2273)
