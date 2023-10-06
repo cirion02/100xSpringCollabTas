@@ -21,7 +21,7 @@ EndRepeat
    5,L,D,X
 
   40
-***s
+
    1,L,J
   11,L
    5,U,X
@@ -50,7 +50,6 @@ EndRepeat
    1
    1,J,G
   24,D
-***S
   30,L
    1,R
    6,U,X
@@ -58,10 +57,11 @@ EndRepeat
    1,K,G
   25,R
    9,D
+
    1,S
    1,D,J
   69,O
-***S
+
    9,R,J
    5,R,U,X
    1,J
@@ -79,7 +79,7 @@ EndRepeat
    5,R,U,X
 
   40
-***S
+
    1,J
   10,L,D
    5,L,J,Z
@@ -100,7 +100,6 @@ EndRepeat
    6,L,J
    9,J
    5,L,D,X
-***S
    1,R,J
    1,L,K
   18,L
@@ -115,7 +114,6 @@ EndRepeat
    7,R,J
   12,R
   36,L,D
-***S
   10
 
    5,L,Z
@@ -128,7 +126,6 @@ EndRepeat
    1,L,J
    2,L
   85,D,X
-***S
    3,L
    5,U,Z
   19,L,J
@@ -140,7 +137,6 @@ EndRepeat
    1,S
    1,D,J
   69,O
-***S
    5,L,J,Z
   19,R,D
    7,D
@@ -161,43 +157,40 @@ EndRepeat
    1,R,J
   13,R
    2,R,J
-  45,R,D,X
+   5,R,D,X
+
+  40
+
    1,S
    1,D,J
   69,O
+***S
+   4,R,J
+  13,K,G
+   5,R,U,X
    2,R,J
-   2,R,K,G
-   5,R
+   1,R,K,G
    5,R,J,G
-   2,R,K,G
-  14,R
-   1,R,J
-   1
-  16,U,X
-  12,L,D
-  18,D
-  11,L,D
-   5,R,X,G
-   8,R,J,G
-   1,R
-  11,L,D
-   3,D
-   4,L,D
-   9,L,J
-   7,L,D
+   3,R,K,G
+   1,R,J,G
+  10,R
+   6,J
+   1,L,K
+   2,L
+  15,L,K
+   5,L,U,X
    1,S
    1,D,J
-  50,L
-  17,D,X
-   1
-   5,R,X
-   1,J
-  13,R,D
-   3,L,D
-  32,D
+  34
+***S
+   1,J,G
+  16,D
+  18,D,X
+   5,R,D,C
+   1,R,J
+  35,D
    1,Q
-   1,J
-  31,O
+  32,O
 #chapter restart
    5,U,X
   26,D
@@ -212,4 +205,4 @@ EndRepeat
    5,L,X
  135,L,D
 
-FileTime: 0:36.329(2137)
+FileTime: 0:35.037(2061)
