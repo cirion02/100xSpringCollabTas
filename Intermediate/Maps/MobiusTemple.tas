@@ -6,9 +6,9 @@ console load SpringCollab2020/2-Intermediate/Skeleton
 #Start
 #lvl_skeleton_00_start(0)
  190
-
+***S
    6,R,J,Z
-   1,L,J
+   1,J
    6,R,J
   18,R,D
    6,R,U,X
@@ -19,15 +19,13 @@ console load SpringCollab2020/2-Intermediate/Skeleton
    3
    1,L,J
   30,L,D
-   1,L,J
-   5,L,D
+   6,L
    5,L,Z
 
-  40
+  43
 
 #lvl_skeleton_00_berry
-   4
-  23,D
+  14
    6,R,U,X
   10,L,J
   12,L
@@ -105,10 +103,9 @@ console load SpringCollab2020/2-Intermediate/Skeleton
   14,R,J
    5,R,U,X
 
-  40
+  43
 
 #lvl_skeleton_02
-   3
 
    1,R,J
   20,R,K
@@ -124,7 +121,10 @@ console load SpringCollab2020/2-Intermediate/Skeleton
    5,R,D,X
    1,R,J
   26,R
-   1
+
+#spinner visibility cycle
+   8
+
    6,L,D,X
    1,R,J
   20,R,K
@@ -221,8 +221,8 @@ console load SpringCollab2020/2-Intermediate/Skeleton
   31,R,D
    5,R,U,Z
 
-#lvl_skeleton_04
   40
+#lvl_skeleton_04
 
   10
   15,D,X
