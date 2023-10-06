@@ -1,37 +1,39 @@
 #Made by Jules
+#Optimizer by Cirion02
 
 console load SpringCollab2020/2-Intermediate/hennyburgr
    1
 
 #Start
+#lvl_hennyburgr_intro
   15,U,X
   16,R,D
    5,R,U,X
 
   40
 
+#lvl_hennyburgr_4 (0)
    1
 
   40
 
-Repeat, 5
-   1,G
-   1
-EndRepeat
+#lvl_hennyburgr_1 (0)
+  10,G
    5,L,D,X
 
   40
 
+#lvl_hennyburgr_4 (1)
    1,L,J
   11,L
-   5,U,X
-  49,D
+  15,U,X
+  39,D
   15,L,J
    5,L,X
    1,J
   28,D
-   5,U,X
-  26,D
+  15,U,X
+  16,D
    5,R,X
    5,G
    1,R,D,J
@@ -41,8 +43,8 @@ EndRepeat
    9,L,D
    1,J
   34,D
-   5,U,X
-  34,D
+  15,U,X
+  24,D
   14,R,D
    1,L,J
    4,L,K
@@ -70,6 +72,7 @@ EndRepeat
 
   40
 
+#lvl_hennyburgr_1 (1)
    1,D,G
   13,D
   30,R,D
@@ -80,6 +83,7 @@ EndRepeat
 
   40
 
+#lvl_hennyburgr_2
    1,J
   10,L,D
    5,L,J,Z
@@ -134,9 +138,11 @@ EndRepeat
    7,L,J
   40,L,D
    9
+
    1,S
    1,D,J
   69,O
+
    5,L,J,Z
   19,R,D
    7,D
@@ -147,6 +153,7 @@ EndRepeat
 
   40
 
+#lvl_hennyburgr_1 (2)
    6,D
   10,L
   15,D,X
@@ -161,10 +168,11 @@ EndRepeat
 
   40
 
+#lvl_hennyburgr_3
    1,S
    1,D,J
   69,O
-***S
+
    4,R,J
   13,K,G
    5,R,U,X
@@ -182,7 +190,6 @@ EndRepeat
    1,S
    1,D,J
   34
-***S
    1,J,G
   16,D
   18,D,X
@@ -191,18 +198,25 @@ EndRepeat
   35,D
    1,Q
   32,O
+
 #chapter restart
-   5,U,X
-  26,D
+
+
+#lvl_hennyburgr_intro
+  15,U,X
+  16
    5,R,J,Z
    7,L
    9,L,D,J
    5,R,D,Z
+
   40
+
+#lvl_hennyburgr_outro
    1
    1,J,G
   16,L,K
    5,L,X
- 135,L,D
+ 135
 
 FileTime: 0:35.037(2061)
