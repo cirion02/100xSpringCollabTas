@@ -4,16 +4,24 @@ console load SpringCollab2020/2-Intermediate/hennyburgr
    1
 
 #Start
-   5,U,X
-  26,R,D
+  15,U,X
+  16,R,D
    5,R,U,X
-  81
+
+  40
+
+   1
+
+  40
+
 Repeat, 5
    1,G
    1
 EndRepeat
    5,L,D,X
+
   40
+***s
    1,L,J
   11,L
    5,U,X
@@ -42,11 +50,14 @@ EndRepeat
    1
    1,J,G
   24,D
-  34,L
-   5,U,X
+***S
+  30,L
+   1,R
+   6,U,X
    1,J
-  23,R
-  11,D
+   1,K,G
+  25,R
+   9,D
    1,S
    1,D,J
   69,O
@@ -195,4 +206,4 @@ EndRepeat
    5,L,X
  135,L,D
 
-FileTime: 0:38.794(2282)
+FileTime: 0:38.777(2281)
