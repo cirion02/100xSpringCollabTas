@@ -93,7 +93,6 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
   30,R,G
   97
   16,R
-
 #frameties a straight down because you can't jump out of a down until frame 16
    2,R
   10,R,D,X
@@ -101,7 +100,6 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
    6,L,D,X
 
   40
-
 #lvl_1e (1)
   15,R,D,G
    3,J,G
@@ -113,10 +111,13 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
    5,L,J
   12,L
    9,R
-  39,R,J
-  25,L,D
+  32,R,J
+   1,R,D
+  15,D
+  16,L,D
    1,L,J
-  14,L,D
+   2,L,D
+  12,D
    5,R,J,Z
    6,R
    6,R,J
@@ -140,8 +141,8 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
    5,L,J,Z
    7,L
   15,L,J
-   5,U,X
-  27,L,D
+  15,U,X
+  17,L,D
 
 #+2f
 #5,Z,L,D
@@ -154,4 +155,4 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
    5,R,D,X
  135
 
-ChapterTime: 0:26.044(1532)
+ChapterTime: 0:26.027(1531)
