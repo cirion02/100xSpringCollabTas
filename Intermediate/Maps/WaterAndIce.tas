@@ -261,6 +261,7 @@ EndRepeat
   12,J,G
   10,K,G
   12,J
+***S
    5,L,Z
    1,L,J
    7,L
@@ -268,29 +269,28 @@ EndRepeat
    4,L
    6,R
    5,U,X
+***S
+
+
+   2,L,J
+   1,R,K,G
+  14,R,J,G
+   7,R,U,X
+#0:31.348(1844)
+***S
+
+
    1,L,J
-   9,L,D
-  15,U,X
-   7,R,U,C
-   1,J
-  13,R,D
-  27,F,125
-  20,R,J,G
-#cringe that one more frame dies
-  15,U,X
-   2,R,J
-   5,U,X
-   1,R,J
-  28,R,D
-  22,L,D
-   4,L,Z
+  27,L,D
+   6,R,D,X
    1,L,J
-  26,R,D
-   5,R,X
+  26,L,D
+   4,L
+   6,R,X
+
    1,L,J
   20,L,D
-   4,L,Z
-   3,L,J
+   7,L,J,Z
    9,L
    1,L,J
   10,L,D
@@ -443,4 +443,4 @@ EndRepeat
    5,L,U,X
  135
 
-ChapterTime: 0:56.032(3296)
+ChapterTime: 0:54.366(3198)
