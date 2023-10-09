@@ -211,6 +211,7 @@ EndRepeat
   40
 
 #lvl_b-1
+***S
    6
    7,R,D,X
    8,R,J
@@ -218,9 +219,9 @@ EndRepeat
    6,L,U,C
    9,L,J,G
   10,L,D,X
+***s
    8,R,J
-   1,R,K,G
-  34,R,D
+  33,R,D
   15,R,D,X
   12,L,C
    3,R,J
@@ -443,4 +444,4 @@ EndRepeat
    5,L,U,X
  135
 
-ChapterTime: 0:56.253(3309)
+ChapterTime: 0:56.219(3307)
