@@ -314,24 +314,21 @@ EndRepeat
    5,L,U,X
    2,R,J
   21,R,D
-   5,L,D,X
-   4,R,J
-  13,R,D
-  77
-   5,R,X
-   1,L,J
-   1,L,K
-   6,R,K
-  28,R,D
-   7,R,J
-   7,K,G
-   1,U,G
-Repeat, 33
+   1,S
+   1,D,J
+  69,O
+***S
+  13,R,J
+   1,K
+   7,L,K
+  31,R,K
+   1,J,G
+  10
+Repeat, 14
    1,G
    1
 EndRepeat
-   5,R,X
-   8
+  11,R,Z
    1,L,J
    3,L,K
   15,U,X
@@ -443,4 +440,4 @@ EndRepeat
    5,L,U,X
  135
 
-ChapterTime: 0:54.366(3198)
+ChapterTime: 0:53.431(3143)
