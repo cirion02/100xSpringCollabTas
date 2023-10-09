@@ -223,18 +223,17 @@ EndRepeat
    8,R,J
   33,R,D
   15,R,D,X
-  12,L,C
-   3,R,J
-   5,U,X
-   1,L,J
-  13,L,D
+  15,L,C
+   6,L,U,X
   40
 
 #lvl_r-2 (1)
-   6,L,D
-   7,L,U,X
-  10,L,J,G
-   1,L,K,G
+***S
+   1,J,G
+   9,D
+   6,L,U,Z
+   9,L,J,G
+   1,K
   40
 
 #lvl_r-3 (0)
@@ -444,4 +443,4 @@ EndRepeat
    5,L,U,X
  135
 
-ChapterTime: 0:56.219(3307)
+ChapterTime: 0:56.032(3296)
