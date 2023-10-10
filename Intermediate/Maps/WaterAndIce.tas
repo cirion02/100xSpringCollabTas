@@ -370,17 +370,13 @@ EndRepeat
    2,L,J
    3,J
   10,L,K,G
-   6,R,D,X
-  11,L,J
+   5,R,D,X
+   8,L,J
    7,L,U,K,G
-   6,L,X
-   1,D,J
-  21,L,D
-   6,L,X
-  10,J,G
-   9,K,G
+   7,L,X
+   1,J,G
    9,D
-   5,U,X
+   5,L,U,Z
   40
 
 #lvl_r-3 (1)
@@ -437,4 +433,4 @@ EndRepeat
    5,L,U,X
  135
 
-ChapterTime: 0:52.003(3059)
+ChapterTime: 0:51.221(3013)
