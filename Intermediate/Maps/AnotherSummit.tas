@@ -5,9 +5,9 @@ console load SpringCollab2020/2-Intermediate/SilverStar
 #Start
 #lvl_IntroRoom
  102
-
-  11,R
-
+   5,R
+   1,R,J
+   4,R
    5,U,Z
 
   40
@@ -77,4 +77,4 @@ console load SpringCollab2020/2-Intermediate/SilverStar
 
  135
 
-ChapterTime: 0:14.297(841)
+ChapterTime: 0:14.280(840)
