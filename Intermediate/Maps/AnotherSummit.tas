@@ -14,19 +14,18 @@ console load SpringCollab2020/2-Intermediate/SilverStar
 
 #lvl_Room1
   11,L,J
-   6,U,X
+   5,U,X
+   1,L,J
+   9,R,J
+   6,R,U,X
 
   40
 
 #lvl_Room2
-   1
-  72,O
-
-   7,L
-   5,R,J,Z
-  18,R
-   5,U,X
-  36,R,D
+  11
+   6,U,X
+   1,L,J
+  26,L,D
    5,L,U,Z
 
   40
@@ -77,4 +76,4 @@ console load SpringCollab2020/2-Intermediate/SilverStar
 
  135
 
-ChapterTime: 0:14.280(840)
+ChapterTime: 0:12.886(758)
