@@ -48,13 +48,15 @@ console load SpringCollab2020/2-Intermediate/SilverStar
    7,L
    5,L,X
    1,R,J
-  14,R,K
-  27,L
-   8,F,274
-   6,F,200
-  49,F,210
-  12,F,265
-  25,L
+   4,R,K
+   9,R,J
+  26
+   1,L
+   8,F,272.078
+   1,F,268.506
+  55,F,214.794
+   1,F,219.888
+  31,F,269.972
   15,U,X
    7,L,Z
    4,J,G
@@ -74,4 +76,4 @@ console load SpringCollab2020/2-Intermediate/SilverStar
 
  135
 
-ChapterTime: 0:12.529(737)
+ChapterTime: 0:12.444(732)
