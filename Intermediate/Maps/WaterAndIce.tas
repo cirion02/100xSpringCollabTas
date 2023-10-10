@@ -347,12 +347,11 @@ EndRepeat
   40
 
 #lvl_b-2
-   1,R,J
-   9,R
-   5,L,D,Z
-  14,R,U,J
-   6,R,U,K
-   2,R,U,J
+***S
+   1,J
+  16,L,K,G
+   1,L,J,G
+   2
    5,R,X
    4,R,J,G
    6,R,K,G
@@ -362,19 +361,16 @@ EndRepeat
   16,L
    5,R,J
    5,R,X
-   5,L,J
-  22,L,D
-   3,L,J,G
-  13,L
-   1,L,J
-  14,L
-   1,L,J
-  15,U,X
-   5,L,D
-  12,D
-   8,R,D
-   2,R,J
-   5,R,D,X
+***S
+   1,J
+  21,D
+  10,R,X
+   9,L,J
+   6,L
+   2,L,J
+   3,J
+  10,L,K,G
+   6,R,D,X
   11,L,J
    7,L,U,K,G
    6,L,X
@@ -441,4 +437,4 @@ EndRepeat
    5,L,U,X
  135
 
-ChapterTime: 0:52.887(3111)
+ChapterTime: 0:52.003(3059)
