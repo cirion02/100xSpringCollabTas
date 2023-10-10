@@ -32,13 +32,11 @@ console load SpringCollab2020/2-Intermediate/SilverStar
 
 #lvl_Room3
   10
-   5,D,X
-  10
+  15,D,X
    1,L,J
    7,L,K
-   6,L,U,X
-   9
-   6,L,D,X
+  15,L,U,X
+   6,L,D,C
 
   40
 
@@ -56,24 +54,24 @@ console load SpringCollab2020/2-Intermediate/SilverStar
    6,F,200
   49,F,210
   12,F,265
-  19,L
-   6,U,X
-  36,D
+  25,L
+  15,U,X
    7,L,Z
-   1,J
-  18,L,J
+   4,J,G
+   1,K,G
+   2,R,K,G
+  12,L,K
    5,U,X
 
   40
 
 #lvl_OutroRoom
   11,R
-   5,R,U,X
-  10
-   5,R,U,X
-  59,L,D
+  15,R,U,X
+  15,R,U,C
+  49,L,D
    5,L,D,X
 
  135
 
-ChapterTime: 0:12.886(758)
+ChapterTime: 0:12.529(737)
