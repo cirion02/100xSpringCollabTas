@@ -1,4 +1,5 @@
 #Made by Jules
+#Optimized by Cirion02
 #Several inputs taken from Mindash
 
 console load SpringCollab2020/2-Intermediate/ProXas
@@ -332,23 +333,23 @@ EndRepeat
    1,L,J
    3,L,K
   15,U,X
+***S
   11,R
    5,R,D,X
    2,L,J
    3
-   9,R
-   4,R,Z
-   4,R,J
-  24,L,D
-   6,L,X
-   2,J
-   8,L
-  14,L,J
-  31,L,D
+   8,R,G
+   7,R,J,Z
+  25,R,D
+   5,L,X
+  13,R,J
+   5,L,D,X
   40
 
 #lvl_b-2
-   5,L,D,X
+   1,R,J
+   9,R
+   5,L,D,Z
   14,R,U,J
    6,R,U,K
    2,R,U,J
@@ -440,4 +441,4 @@ EndRepeat
    5,L,U,X
  135
 
-ChapterTime: 0:53.431(3143)
+ChapterTime: 0:52.887(3111)
