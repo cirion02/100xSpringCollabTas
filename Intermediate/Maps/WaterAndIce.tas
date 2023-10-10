@@ -380,7 +380,7 @@ EndRepeat
   40
 
 #lvl_r-3 (1)
-***S
+***s
    1,R,J
   13,R,D
   10,R,D,X
@@ -389,31 +389,24 @@ EndRepeat
    1,L,J
   19,L,D
    6,L,J
-   5,L,U,X
-   3
+   8,L,U,X
    1,J,G
   24,D
    5,L,U,X
-   2
-   3,R,J
-   2,L,K
-   2,J
-   2,K
-   2,J
-   4,L,K
-   7,R,J
-   3,R,K,G
-   9,R,D
-   2,J
-  11,R,J
-   5,R,K
+***S
+   1
+  15,R,J
+   9,R,K
+   1,R,J,G
+   7,R,D
+  13,R,J
+   6,R,K
   15,R,U,X
    8,R,Z
 
   40
 
 #lvl_outro
-***S
    2
    5,J
    5,R,X
@@ -422,4 +415,4 @@ EndRepeat
    5,L,U,X
  135
 
-ChapterTime: 0:49.249(2897)
+ChapterTime: 0:49.215(2895)
