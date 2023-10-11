@@ -11,8 +11,7 @@ console load SpringCollab2020/2-Intermediate/Oppen_Heimer
    1,R,J
    4,R
   28,R,G
-   2,G
-   9,J,G
+   8,J,G
    2,L,J,G
    1,J,G
    1,L,J,G
@@ -31,14 +30,12 @@ Repeat, 4
    1,R,D
    1
 EndRepeat
-   5,L,X
-  10
-   5,R,X
-  10
+  15,L,X
+  15,R,C
    5,L,X
    7,J
    4,L,D
-   7,D
+   6,D
   11,D,J
   10,D,K,G
   10,D,J,G
@@ -106,8 +103,7 @@ EndRepeat
 #  18
 # </take the block>
 
-   5,R,X
-   6
+  11,R,X
    1,L,K
   14,L
    6,L,J
@@ -133,18 +129,15 @@ EndRepeat
    3,R,K
    8,R,D
    1
-   5,R,U,X
-   2
+   7,R,U,X
    2,R,J,G
    8,R
    9,J
-   5,R,U,X
-   1
+   6,R,U,X
    1,L,J
   10,L,D
    2,L,J
-   5,L,D,X
-   9
+  14,L,D,X
    1,R,J
    5,U,X
    1,J
@@ -234,9 +227,7 @@ EndRepeat
    1,R,D
    5,R,Z
    1,L,J
-   7,L
-   1,L,J
-  14,L
+  17,L
    2,L,K
    7,L,J,G
    7,R,K
@@ -257,8 +248,7 @@ EndRepeat
   15,L,D
    5,L,J,Z
   18,R,D
-   5,R,U,X
-   1
+   6,R,U,X
    1,K,G
    7,R,D
    4,R,J
@@ -284,9 +274,9 @@ EndRepeat
    1,L,J
   17,R,G
   11,R
-   4,R,D
+   3,R,D
    5,R,J,X
-  15,R
+  14,R
   28,R,J,G
 
 
@@ -296,14 +286,13 @@ EndRepeat
 #lvl_room_1 (Yellow) (1)
    2,D,G
    5,D
-   5,L,D,X
-   7
+  12,L,D,X
    3,R,J
    5,U,X
    1,R,J
    6,R,D
    1,R,J
-   4,R,D
+   3,R,D
    5,U,X
 
    1,D,G
@@ -315,15 +304,14 @@ EndRepeat
 #  18,D
 
    2,J
-   5,L,D,X
-   1
+   6,L,D,X
    1,R,J
   12,R,D
 
 
    5,R,D
    5,R,J,Z
-  21,R,G
+  20,R,G
    9,R,J,G
 
 #lvl_room_1 (Green)
@@ -333,16 +321,14 @@ EndRepeat
    4,L,G
   23,D,G
    1
-   5,R,U,X
-   1
+   6,R,U,X
    1,G
   21,L,D
    6,L,J,X
    8,L
   38
   14,J
-   5,R,X
-  10,L
+  15,R,X
    5,L,Z
 
    1,D,G
@@ -411,13 +397,12 @@ EndRepeat
    5,L,X
    1,R,J
    9,R
-   5,U,X
-  13
+  15,U,X
+   3
    5,R,D,X
    2,R,J
   23,L
-   5,L,X
-   3
+   8,L,X
    1,J
   50,R,D
    1
@@ -450,7 +435,6 @@ Repeat, 4
   14,L,G
 EndRepeat
    1,L,G
-   1,D
   13,L,J
    6
    5,L,X
@@ -473,8 +457,8 @@ EndRepeat
   43,G
   13,L,K,G
    1
-   5,D,X
-  20
+  15,D,X
+  10
    4,R
 Repeat, 3
    1,L,J
@@ -557,7 +541,7 @@ EndRepeat
    1,L,J,G
   10,L,G
    1,L
-   6,R,D
+   5,R,D
   10,L,J,Z
   24,L,G
    1,L,J,G
@@ -582,7 +566,7 @@ EndRepeat
 
   11,R,D,G
    1,R
-   2,R,D
+   1,R,D
    2,R
    5,R,J,Z
    7,R
@@ -652,7 +636,7 @@ EndRepeat
   58
   10,R,Z
    1,L,J
-   5,L
+   4,L
    5,U,X
 
 
@@ -660,7 +644,7 @@ EndRepeat
    1
    5,R,J,Z
    7,R
-  11,L,J
+  10,L,J
 
 #lvl_room_4 (Pink)
    1,L,D
@@ -674,8 +658,8 @@ EndRepeat
   10,L,D,G
    1,L,J,G
   11,L,G
-   3,R,D,G
-   7,K,G
+   1,R,D,G
+   6,K,G
    2,R,K,G
 Repeat, 4
    1,K,G
@@ -707,16 +691,15 @@ EndRepeat
   26,D,G
   12,L,D,G
    1,L,J,G
-  15,L,D,G
-  15,D,G
+  14,L,D,G
+  14,D,G
   13,L,D,G
-   1,L,J,G
+   0,L,J,G
    8,L,G
-   5,K,G
+   4,K,G
    5,U,X
   11,R
-   5,D,X
-  10
+  15,D,X
    1,R,D,J
   14,R,D
    3,R,J
@@ -735,7 +718,7 @@ EndRepeat
    1,R,D,J
    4,R,D
    1,R,J
-   5,R
+   4,R
    1,R,J
 
 
@@ -788,15 +771,12 @@ EndRepeat
 
 #lvl_room_2 (Yellow)
    4,R
-   1,R,D
+   2,R,D
    1,R,J
-   4,R,D
-   1,R,J
-  13,R,D
+  12,R,D
    5,R,J,Z
-  10,R
-   5,D,X
-  10
+   9,R
+  15,D,X
   27,R,J
    5,U,X
   72,O
@@ -873,11 +853,10 @@ EndRepeat
    1
    1,R,G
   19,D
-  17,L,K
+  16,L,K
    2,R,J
   13,R,D
-   5,R,Z
-   3
+   8,R,Z
    1,L,J
   12,L
   10,L,K
@@ -892,7 +871,7 @@ EndRepeat
    1,L,J
    4,L,D
    1,L,J
-   4,L,D
+   3,L,D
    2,L
    5,L,K,Z
    7,L
@@ -955,18 +934,17 @@ EndRepeat
    7,R
    1,R,J
    8,R
-   5,U,X
-  29,L
+  15,U,X
+  19,L
    4,L,J,G
    4,L
    4,D
   11,J
    2,L
    6
-   5,D,X
-  10
-   5,U,X
-  23,L,D
+  15,D,X
+  15,U,C
+  13,L,D
 Repeat, 15
    1,D
    1
@@ -995,7 +973,7 @@ EndRepeat
    3,R,K
    3,L,J
    1,L,K,G
-  13,L
+  12,L
    5,U,X
    2,R,J
    2,R,K
@@ -1011,7 +989,7 @@ EndRepeat
    8,R,G
    4,L,J,G
    1
-   7,D
+   5,D
    5,L,D,X
    5
    1,R,J
@@ -1065,21 +1043,19 @@ EndRepeat
   73,R,G
   33,G
   14,D
-   5,U,X
-  32,D,G
+  15,U,X
+  22,D,G
   19
    8,L,D
    7,R,D
    9
    3,L,D
   18,L
-   5,L,X
-   1
+   6,L,X
    1,J
   14,R,D
   55,D
-   5,L,Z
-   5
+  10,L,Z
    1,R,K
   25,R,K,G
   29,D,G
@@ -1087,8 +1063,8 @@ EndRepeat
   85,R,J,G
   13,L,D
    3,D
-   5,U,X
-  14,R,D,G
+  15,U,X
+   4,R,D,G
   28,D,G
    9
    5,L,D
@@ -1097,13 +1073,11 @@ EndRepeat
    7,L,D
    5,R,D
   18,L
-   5,L,X
-   1
+   6,L,X
    1,J
   14,R,D
   72,D
-   5,L,Z
-   5
+  10,L,Z
    2,R,K
   19,R,K,G
   31,L,D,G
@@ -1114,8 +1088,8 @@ EndRepeat
   43,R,D,G
    1,D
   17,J
-   5,U,X
-  42,D,G
+  15,U,X
+  32,D,G
    9
   20,R
   54,D
@@ -1287,8 +1261,7 @@ EndRepeat
   15,R
    9,R,D
    5
-   5,R,Z
-   4
+   9,R,Z
    1,L,J
    1
    1,D,G
@@ -1301,10 +1274,9 @@ EndRepeat
 #fourth key
   10,R,D
    2,R,J
-   5,R,D,X
-   1
+   6,R,D,X
    1,J
-   6,L,D
+   5,L,D
   27,D
 
 
@@ -1316,7 +1288,7 @@ EndRepeat
 #lvl_outro
    6,R,K,G
    6,R,J,G
-   8,R
+   6,R
    3,R,K
    8,R,J,G
    5,R,X
@@ -1340,4 +1312,4 @@ EndRepeat
    1,J
   14,D
 
-ChapterTime: 2:46.073(9769)
+ChapterTime: 2:45.393(9729)
