@@ -7,24 +7,17 @@ console load SpringCollab2020/2-Intermediate/Bonicle
  106
 
 #lvl_bonicle_00 (0)
+***S
    6,R,U,X
    1,L,J
   19,L,D
   11,L,Z
    4,R,J
-   5,R,D,X
-   1,L,J
-  12,D
-  18,L,D
-   5,L,J,Z
-   2,L
-  13,R
-Repeat, 25
-   1
-   1,R,D
-   1
-   1,L,D
-EndRepeat
+  10,R,D,X
+   5,L,J
+  15,D,X
+  52,L
+  67
    2,J
    5,R,D,X
   40
@@ -40,6 +33,10 @@ EndRepeat
 
 #lvl_bonicle_00 (1)
    1
+
+#spinner cycle
+   1
+
    3,R,J
   22,R,D
    5,D
@@ -55,6 +52,7 @@ EndRepeat
   29,L
    9,J,G
    6,K,G
+#spinner cycle is here
    1,R,J
   10,R,K
   10,R,D,X
@@ -196,4 +194,4 @@ EndRepeat
    1,L,D,X
  135
 
-ChapterTime: 0:31.722(1866)
+ChapterTime: 0:31.620(1860)
