@@ -18,7 +18,7 @@ console load SpringCollab2020/2-Intermediate/Bissy
 #lvl_Bissy_01 (0)
    1
   72,O
-***s
+
    6,L,U,X
   12,J,G
    1,K,G
@@ -26,16 +26,13 @@ console load SpringCollab2020/2-Intermediate/Bissy
   40
 
 #lvl_Bissy_02
-***S
   11,J,G
    6,R,U,X
    1,J,G
   19,D
    6,R,Z
-
   11,L
    6,L,U,X
-***S
    1,R,U,J
    1,R,U,K
   15,U,K
@@ -104,14 +101,13 @@ console load SpringCollab2020/2-Intermediate/Bissy
    1,S
    1,D,J
   69,O
-***S
+
    5,R,Z
    1,L,J
    7,L
    2,L,J
   15,U,X
   21,R,D
-***S
    6,L,U,Z
    1,J
   23,L,D
@@ -120,7 +116,6 @@ console load SpringCollab2020/2-Intermediate/Bissy
    1,L,J
    7,L
    1,L,J
-***S
   11,L
    5,U,X
 
