@@ -111,23 +111,24 @@ console load SpringCollab2020/2-Intermediate/Bissy
    2,L,J
   15,U,X
   21,R,D
+***S
    6,L,U,Z
    1,J
   23,L,D
-   6,R,U,Z
-   9,L,J
-   5,L,U,X
+  15,R,U,Z
+   5,R,D,X
+   1,L,J
+   7,L
+   1,L,J
+  10,L
+   5,U,X
 
   40
 
 #lvl_Bissy_06
-   1
-  10,R,K
-   5,U,X
-  29,R,D
-  20,D
+  20,L
    5,L,X
 
  135
 
-ChapterTime: 0:17.867(1051)
+ChapterTime: 0:17.510(1030)
