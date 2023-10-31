@@ -57,7 +57,7 @@ console load SpringCollab2020/2-Intermediate/Bissy
   10,R,D
   14,D
    7,R,D,X
-  10,L,D
+   8,L,D
    6,L,D,X
    1,U,J
   25,U
@@ -126,4 +126,4 @@ console load SpringCollab2020/2-Intermediate/Bissy
 
  135
 
-ChapterTime: 0:17.442(1026)
+ChapterTime: 0:17.408(1024)
