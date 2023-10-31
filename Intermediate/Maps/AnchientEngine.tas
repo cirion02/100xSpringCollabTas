@@ -40,40 +40,33 @@ console load SpringCollab2020/2-Intermediate/aridai
   40
 
 #lvl_aridai-03b
+***S
   26,D
    5,L,Z
    5
-  11,J,G
-  11,K,G
-  11,J,G
-  11,K,G
+  12,J,G
+  12,K,G
+  12,J,G
+   8,K,G
    5,R,X
   15,L,J
 
    8,L
    6
    1,J
-  65,L
-  10
-
-   5,R,X
-   5,J,G
-   5,K,G
+  69,L
+   6
+***S
+   5,R,Z
    3,J,G
+   2
+   6,K,G
   10,R
    2
    5,R
    9,R,D
    6,R,D,X
 
-#alternate inputs, frametie the above
-#6,X,U,R
-#19,D
-#2,R,D
-#7,D
-#7
-#3,L
-#5,X,D,R
   40
 
 #lvl_aridai-03
@@ -404,4 +397,4 @@ console load SpringCollab2020/2-Intermediate/aridai
    5,L,X
  135
 
-ChapterTime: 0:55.165(3245)
+ChapterTime: 0:55.131(3243)
