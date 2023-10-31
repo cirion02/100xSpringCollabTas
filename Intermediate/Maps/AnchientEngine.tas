@@ -42,7 +42,6 @@ console load SpringCollab2020/2-Intermediate/aridai
   40
 
 #lvl_aridai-03b
-***S
   26,D
    5,L,Z
    5
@@ -98,7 +97,6 @@ console load SpringCollab2020/2-Intermediate/aridai
    6,R,D,Z
    9,L
    5,L,X
-  12,L,K,G
 
   40
 
@@ -115,7 +113,6 @@ console load SpringCollab2020/2-Intermediate/aridai
    6
    2,L
    1,R
-***S
   30,R,D
    9,R
    5,L,X
@@ -409,4 +406,4 @@ console load SpringCollab2020/2-Intermediate/aridai
    5,L,X
  135
 
-ChapterTime: 0:56.695(3335)
+ChapterTime: 0:56.491(3323)
