@@ -1,4 +1,6 @@
 #made by Cirion02
+#optimised by Jules
+
 console load SpringCollab2020/2-Intermediate/Bissy
    1
    
@@ -33,7 +35,6 @@ console load SpringCollab2020/2-Intermediate/Bissy
    6,R,Z
   11,L
    6,L,U,X
-   1,R,U,J
    1,R,U,K
   15,U,K
    1,U,J
@@ -57,7 +58,7 @@ console load SpringCollab2020/2-Intermediate/Bissy
   10,R,D
   14,D
    7,R,D,X
-   8,L,D
+   7,L,D
    6,L,D,X
    1,U,J
   25,U
@@ -126,4 +127,4 @@ console load SpringCollab2020/2-Intermediate/Bissy
 
  135
 
-ChapterTime: 0:17.408(1024)
+ChapterTime: 0:17.374(1022)
