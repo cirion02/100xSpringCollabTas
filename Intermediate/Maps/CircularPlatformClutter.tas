@@ -46,17 +46,15 @@ console load SpringCollab2020/2-Intermediate/hennyburgr
   15,U,X
   24,D
   14,R,D
-   1,L,J
    4,L,K
    5,L,X
    1
    1,J,G
-  24,D
-  30,L
+  23,D
+  29,L
    1,R
    6,U,X
    1,J
-   1,K,G
   25,R
    9,D
 
@@ -64,7 +62,7 @@ console load SpringCollab2020/2-Intermediate/hennyburgr
    1,D,J
   69,O
 
-   9,R,J
+   8,R,J
    5,R,U,X
    1,J
    1,D
@@ -219,4 +217,4 @@ console load SpringCollab2020/2-Intermediate/hennyburgr
    5,L,X
  135
 
-FileTime: 0:35.037(2061)
+FileTime: 0:34.952(2056)
