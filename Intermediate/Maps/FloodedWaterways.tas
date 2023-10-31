@@ -24,7 +24,6 @@ console load SpringCollab2020/2-Intermediate/Bissy
    6,L,U,X
   12,J,G
    1,K,G
-
   40
 
 #lvl_Bissy_02
@@ -58,8 +57,8 @@ console load SpringCollab2020/2-Intermediate/Bissy
   10,R,D
   14,D
    7,R,D,X
-   7,L,D
-   6,L,D,X
+   8,L,D
+   5,L,D,X
    1,U,J
   25,U
    1,U,J,G
