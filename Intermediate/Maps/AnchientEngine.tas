@@ -348,6 +348,7 @@ console load SpringCollab2020/2-Intermediate/aridai
 #5,X,L
 
 #probably not optimal
+***S
    5,L,C
    4,L,J,G
    2,L,K,G
@@ -377,29 +378,32 @@ console load SpringCollab2020/2-Intermediate/aridai
    1,J
    4,L
    1,J
-   1,K
-  20,L,J
+   4,L,J
+  17,L,K
+***S
    5,L,X
    5,L,C
-   4,L,J,G
-   2,L,K,G
-   1,L,J,G
-  33,L,K,G
-   5,U,X
-  30,L,D
-   5,U,X
+   7,L,J,G
+   3,L,K,G
+   1,L
+   1,L,J
+  13,L,K,G
+   6,R,U,X
+   3,L,J
+***s
+   7,R,K
+  15,L,J
+  11,L,K,G
+   7,L
+   4,R,J
+   5,R,U,X
 
   40
 
 #lvl_aridai-outro
-  11,J
-   5,R,X
-   6,R,J,G
-   8,R
-   5,R,X
-   1
-   9,J
+  16,L
+   2,L,J
    5,L,X
  135
 
-ChapterTime: 0:52.173(3069)
+ChapterTime: 0:51.867(3051)
