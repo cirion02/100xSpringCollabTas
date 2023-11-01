@@ -315,23 +315,25 @@ console load SpringCollab2020/2-Intermediate/aridai
    1,R,J
   74,R,D
    4,R
-***S
    9,R,J
    6,R,U,X
    1,J,G
-  10,D
-   2,R
-   5,L
-   5,R,Z
-   1,L,J
+***S
 
-  33,R,D
-  13,D
-   5,L,X
-   1,J,G
-  48,D
-   5,L,X
+
   10
+   1,R
+   1,R
+   1,L
+   7,L,J
+  22,L
+  10,R,D,X
+  12,J,G
+  12,K,G
+  12,J,G
+  12,K,G
+   9,L,J
+   5,L,X
 
 #Literally 1 frame slower
 #20,R,D
@@ -346,8 +348,7 @@ console load SpringCollab2020/2-Intermediate/aridai
 #5,X,L
 
 #probably not optimal
-***S
-   5,L,X
+   5,L,C
    4,L,J,G
    2,L,K,G
    7,L,J,G
@@ -361,7 +362,6 @@ console load SpringCollab2020/2-Intermediate/aridai
   13,R,J
    4,R,K
    6,R,U,X
-***S
   24,G
    1,L,J
    9,L,K
@@ -370,7 +370,6 @@ console load SpringCollab2020/2-Intermediate/aridai
    1,L,D
    4,D
   17,L,D
-***S
   51,R,D
    1,G
    6,R,J
@@ -403,4 +402,4 @@ console load SpringCollab2020/2-Intermediate/aridai
    5,L,X
  135
 
-ChapterTime: 0:52.530(3090)
+ChapterTime: 0:52.173(3069)
