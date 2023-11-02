@@ -177,7 +177,7 @@ console load SpringCollab2020/2-Intermediate/Noax
   16
    9,R
 
-#spinner cycle
+#spinner cycle (Should always be 0,3,6,9, or 12)
   12
 
    5,U,X
