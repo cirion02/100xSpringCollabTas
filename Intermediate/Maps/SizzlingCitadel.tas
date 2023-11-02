@@ -41,13 +41,14 @@ console load SpringCollab2020/2-Intermediate/Noax
   15,L
    5,U,X
   26,R,J
-  32,R,D
+***S
+  17,R,D
+  15,L,D
    4,R,Z
    1,J
   15,L,D
-   4,L
-   2,L,J
-  16,L
+   1,L,J
+  15
   10,R,D,X
    1,J
    3,K,G
