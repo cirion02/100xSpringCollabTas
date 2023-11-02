@@ -14,7 +14,6 @@ console load SpringCollab2020/2-Intermediate/Noax
    4,L,Z
    1,L,J
   13,L,D
-***S
   15,D,X
    8,R,J,C
 
@@ -30,8 +29,6 @@ console load SpringCollab2020/2-Intermediate/Noax
   40
 
 #lvl_Noax_S01
-***S
-
    7,J,G
    2,L,J
    5,L
@@ -41,7 +38,6 @@ console load SpringCollab2020/2-Intermediate/Noax
   15,L
    5,U,X
   26,R,J
-***S
   17,R,D
   15,L,D
    4,R,Z
@@ -58,7 +54,6 @@ console load SpringCollab2020/2-Intermediate/Noax
   40
   
 #lvl_Noax_01 (1)
-***S
    1,R,J
    7,R
    7,R,J
@@ -86,7 +81,6 @@ console load SpringCollab2020/2-Intermediate/Noax
   40
  
 #lvl_Noax_02 (0)
-***S
   10
   28,U,X
    1,L,J
@@ -105,7 +99,6 @@ console load SpringCollab2020/2-Intermediate/Noax
   40
   
 #lvl_Noax_02 (1)
-***S
    1,J,G
   19,D
   30,R,Z
@@ -120,10 +113,9 @@ console load SpringCollab2020/2-Intermediate/Noax
   40
   
 #lvl_Noax_03
-***S
+
 #spinner cycle
    0
-
 
   11
   15,D,X
@@ -142,7 +134,6 @@ console load SpringCollab2020/2-Intermediate/Noax
   34,D,X
   72,R,C
    4,R,J
-***s
   38,R,K
    2,K
   12,J,G
@@ -168,13 +159,12 @@ console load SpringCollab2020/2-Intermediate/Noax
    9,R
 
 #spinner cycle (Should always be 0,3,6,9, or 12)
-  12
+   9
 
    5,U,X
    1,J
   15,L,J
-   5,R,X
-  15
+  20,R,X
    4,R,J
   10,L,K
    5,R,X
@@ -273,4 +263,4 @@ console load SpringCollab2020/2-Intermediate/Noax
    
  135
  
-ChapterTime: 0:41.616(2448)
+ChapterTime: 0:41.361(2433)
