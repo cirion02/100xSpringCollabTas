@@ -84,11 +84,11 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
 
 #lvl_Evilleafy_05
    9,R,J
-  15,U,X
+  15,U,Z
   13,L,J
   12,K,G
   12,R,J,G
-   5,R,K,G
+   2,R,K,G
    1,J
    8,R
   25,R,J
@@ -115,4 +115,4 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
    5,R,U,X
  135
 
-ChapterTime: 0:16.847(991)
+ChapterTime: 0:16.796(988)
