@@ -21,29 +21,34 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
   21,L,D
   10,L,D,X
    1,R,J
-  14,R,D
+  21,R,D
    1,G
-  15,L,D
+   7,L,D
    5,L,D,Z
    1,R,J
    7,R
-  32,R,J
+  26,R,J
+   2,L,J
+   1,R,J
+   3,L,J
    5,U,X
    1,J
-   4,R
-   1,J,G
-  22
+   1,L,K,G
+  17,D
+   2
    8,L,X
    8,L,J,G
    7,L
+   4
    7,R,J
   10,R,Z
    1,J
    1,L,K
   15,L,D
    1,L,J
-   8,L,D
-  13,R,D
+  11,L
+   5,R
+   7,R,D
    1,G
    1,R,J
    5,R,D
@@ -65,20 +70,18 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
 
 #lvl_TheAd_02
   12,J,G
-  10,R,K,G
-   6,U,X
+   2,R,K,G
+   6,R
    1,R,J
-  18,R,D
-  12,R,J
-   5,R,X
-   6,J,G
-  13,D,X
-   9,R,C
+   9,R
+   6,R,U,X
+  13,D,C
+   9,R,X
   12,J,G
   12,K,G
    6,R,D,X
-  10,J,G
-   1,K,G
+   4,J
+   4,K,G
    7,R
    5,R,X
 
@@ -112,15 +115,15 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
    3,L,J
    9,R,X
 
-  60
+  63
 
 #lvl_TheAd_04 (0)
-   3
    1,J,G
   21,D
    6,L,D,X
 
  120
+
    9,L,X
 
   60
@@ -131,11 +134,12 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
   40
 
 #lvl_TheAd_04_berry
-  12,L,D
+   6,L
+   5
+   1,L
    1,R,J
-   6,R
-   1,J
-   7,L,J
+   5,R
+   8,J
    5,R,Z
    1,R,J
    7,R
@@ -158,12 +162,10 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
   77
    2,J
    5,L,D,X
-   1,R,J
-   9,R
-   5,L,J,Z
-   7,L
    1,L,J
-   2,L
+   3,L
+   2,R
+   4,L
   15,D,X
    5,R,U,C
 
@@ -183,7 +185,7 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
   15,D,C
 
 #Spinner cycle (deload cycle)
-   3
+   0
 
   10,L,Z
    1,R,J
@@ -206,9 +208,11 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
   20,R
   23,R,J
    5,R,D,X
-  53
-   4,J
- 125,G
+   5
+   1,J
+  12,K,G
+  12,J,G
+ 124,G
    7,R,D,X
    1,R,J
    7,R
@@ -226,7 +230,6 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
    9,R,X
    8,J,G
   12,K,G
-#This could probably be optimised to regain stamina
    7,L,K,G
   21,R,D,G
    1,R,D
@@ -267,5 +270,5 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
 
  135
 
-ChapterTime: 0:43.741(2573)
+ChapterTime: 0:42.381(2493)
 
