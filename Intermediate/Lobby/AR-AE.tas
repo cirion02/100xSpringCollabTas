@@ -9,10 +9,15 @@ console load SpringCollab2020/0-Lobbies/2-Intermediate 2240 920
    4
   10,R,D,X
    1,L,J
-  19,L,D
-   6,L,Z
+   4,L
+   6,L,D,X
+   1,J
+   3,L,K,G
    7,L,J,G
-   8,L,K,G
-  17,L
+   8,L
+   7,L,J
+   5,L,X
+   2,L,J
+   9,L
    1,X
-#0:01.258(74)
+#0:01.122(66)
