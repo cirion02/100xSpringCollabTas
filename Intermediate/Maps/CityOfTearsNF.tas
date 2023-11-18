@@ -173,10 +173,12 @@ console load SpringCollab2020/2-Intermediate/Donker19
   40
 
 #lvl_7
+***S
   13,R,J,G
    6,R,U,X
-   1,L,J
-  27,L,D
+***S
+   2,L,J
+  21,L,D
 #This collect frame-ties collecting at the end
   14,R,D,X
    8,L,J
@@ -208,7 +210,8 @@ console load SpringCollab2020/2-Intermediate/Donker19
 #lvl_8
    1,L,J
   29,L
-#Time Here: 0:23.290(1370)
+
+#Time Here: 0:23.205(1365)
 
    1,S
    1,U,J
