@@ -25,7 +25,6 @@ console load SpringCollab2020/2-Intermediate/Donker19
    1,L,J
    3,R
    4,L
-***S
   13,L,J
   15,U,X
   20,R
@@ -37,7 +36,6 @@ console load SpringCollab2020/2-Intermediate/Donker19
    1,L,J,G
    4,L,K,G
    2,R,K
-***S
   15,U,X
   17,D
    5
@@ -55,7 +53,6 @@ console load SpringCollab2020/2-Intermediate/Donker19
 
 
 #lvl_4
-***s
    2,R,J
   13,R,D
    5,R,D,X
@@ -92,7 +89,6 @@ console load SpringCollab2020/2-Intermediate/Donker19
    1,R,K,G
    6,R
    2,G
-***S
   10,L
   10
    5,R,J,Z
@@ -102,18 +98,15 @@ console load SpringCollab2020/2-Intermediate/Donker19
 
 #lvl_3
    5,R,X
-***S
    9,J,G
    7,R
   13,R,J,X
   24,R
    1,L,J,G
   13,R,K
-***S
    5,U,X
-  72,O
 
-***s
+  72,O
 
 # 17 Frames slower
 
@@ -173,10 +166,8 @@ console load SpringCollab2020/2-Intermediate/Donker19
   40
 
 #lvl_7
-***S
   13,R,J,G
    6,R,U,X
-***S
    2,L,J
   21,L,D
 #This collect frame-ties collecting at the end
@@ -196,10 +187,10 @@ console load SpringCollab2020/2-Intermediate/Donker19
    5,R,K
    9,R
   12,R,J
-  18,L,K
+  15,L,K
    5,L,X
    9,L,J,G
-   9,L,K,G
+  10,L,K,G
   11,L,J,G
    7,L
    5,R,J
@@ -211,7 +202,7 @@ console load SpringCollab2020/2-Intermediate/Donker19
    1,L,J
   29,L
 
-#Time Here: 0:23.205(1365)
+#Time Here: 0:23.171(1363)
 
    1,S
    1,U,J
