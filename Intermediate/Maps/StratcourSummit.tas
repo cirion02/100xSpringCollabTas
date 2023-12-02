@@ -131,6 +131,7 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
   40
 
 #lvl_dad4
+***S
   10,R
   22,R,D
   36,D
@@ -139,10 +140,18 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
   10,D
    6,L,D
   15,D
-  15,R,U,X
-  15,U,C
-  10,D
-  35,L,D
+  10,R,U,X
+***S
+   1,R,J,G
+   1,R
+   1
+   1,R
+   1
+   5,U,C
+   1,J
+   1,R,K,G
+  17,R,D
+  34,L,D
    6,R,Z
    1,L,J
    6,L
@@ -206,4 +215,4 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
    1,L,D,X
  135
 
-ChapterTime: 0:33.388(1964)
+ChapterTime: 0:33.354(1962)
