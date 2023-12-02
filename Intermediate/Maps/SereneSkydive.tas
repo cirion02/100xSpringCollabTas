@@ -2,9 +2,9 @@ console load SpringCollab2020/2-Intermediate/Thegur90
    1
 
 #Start
- 190
-***S
 #lvl_1
+ 190
+
   10,R
   40,D
    5,R,Z
@@ -25,24 +25,25 @@ console load SpringCollab2020/2-Intermediate/Thegur90
 
 #lvl_4 (0)
    1
-***S
    1
    8,R,U,X
 
   40
 
+#lvl_3 (1)
   31,D
   32,L,D
 
   40
 
+#lvl_4 (1)
   25,L,D
   18,D
    8,D,X
 
   40
-***S
-#lvl_5 (1)
+
+#lvl_5
    7
    5,R,J,X
   40,U
@@ -69,7 +70,3 @@ EndRepeat
  135
 
 ChapterTime: 0:12.988(764)
-
-# 190+135=     325f intro/outro
-# 9*40=        360f transitions
-# 861-325-360= 176f gameplay
