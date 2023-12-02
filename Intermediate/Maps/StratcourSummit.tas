@@ -131,7 +131,6 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
   40
 
 #lvl_dad4
-***S
   10,R
   22,R,D
   36,D
@@ -141,7 +140,6 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
    6,L,D
   15,D
   10,R,U,X
-***S
    1,R,J,G
    1,R
    1
@@ -185,7 +183,6 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
   12,R,J,G
   12,L,K
   13,J,G
-***S
    5,R,D,X
    1,R,J
    9,L
@@ -207,12 +204,18 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
 
 #lvl_outro2
   10
-***S
    6,R,J,Z
    8,R
    9,L,J
    4,X
    1,L,D,X
- 135
+#post heart introcar
+  12
+   1,R,J
+  32,R
+   5,R,D,X
+  30,R,J
+   1,R,D,J
+  57,R
 
 ChapterTime: 0:30.243(1779)
