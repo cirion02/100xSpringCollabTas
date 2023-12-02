@@ -3,7 +3,7 @@ console load SpringCollab2020/2-Intermediate/Thegur90
 
 #Start
  190
-
+***S
 #lvl_1
   10,R
   40,D
@@ -24,36 +24,24 @@ console load SpringCollab2020/2-Intermediate/Thegur90
   40
 
 #lvl_4 (0)
-   4
-  40
-
-#lvl_5 (0)
-  15,R,U,Z
-   5,L,U,X
+   1
+***S
+   1
+   8,R,U,X
 
   40
 
-#lvl_4 (1)
-  11
-  15,R,U,X
-   5,R,U,C
+  31,D
+  32,L,D
 
   40
 
-#lvl_3 (1)
-   4,L
-   6
-  34,L,D
-
-#lvl_4 (2)
-  40
-
-  23,L,D
-  20,D
+  25,L,D
+  18,D
    8,D,X
 
   40
-
+***S
 #lvl_5 (1)
    7
    5,R,J,X
@@ -63,8 +51,8 @@ Repeat, 5
    1,U,J
 EndRepeat
   10,U,X
-  22,L,D
-  31,D
+  24,L,D
+  29,D
    8,L,D
   10,R,D,X
    1,R
@@ -80,7 +68,7 @@ EndRepeat
    5,R,U,X
  135
 
-ChapterTime: 0:14.637(861)
+ChapterTime: 0:12.988(764)
 
 # 190+135=     325f intro/outro
 # 9*40=        360f transitions
