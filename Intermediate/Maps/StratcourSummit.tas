@@ -20,14 +20,15 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
   15,D
    5,R,X
    1,J,G
-  65,G
-   4,U,G
-   5,R,D
-   9,D
-  11,L,J
-   5,L
-  24,L,J
-  11,L,D
+  17,D
+  18,L,D
+   2,L,J,G
+   9,L
+   2,L,J
+   4,L,D
+  13,D
+  12,R,D
+  19,L,J
    6,R,U,X
    1,J,G
   20,R,D
@@ -59,7 +60,7 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
    6,L,J
 
 #Spinner cycle
-   2
+   1
 
    6,L,D,X
    1,J
@@ -205,4 +206,4 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
    1,L,D,X
  135
 
-ChapterTime: 0:34.102(2006)
+ChapterTime: 0:33.388(1964)
