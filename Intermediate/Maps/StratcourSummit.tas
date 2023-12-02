@@ -185,34 +185,34 @@ console load SpringCollab2020/2-Intermediate/iamdadbod
   12,R,J,G
   12,L,K
   13,J,G
+***S
    5,R,D,X
    1,R,J
    9,L
-  10,R,D,X
-   1,J
+   5,R,D,X
+   1,L,K
+  12,R,J
    4,K,G
+   7
+   5,R,D,J
    5,R,X
 
   40
 
 #lvl_outro1
-  12,J,G
-   9,K,G
-   5,R,Z
-   1,R,J
-   4,R
-   1,S
-   1,D,J
+  10,D
+   5,D,X
+
+  40
 
 #lvl_outro2
- 224
-   7,J
-   6,R,Z
-   2,L,J
-   8,L
-   9,R,J
+  10
+***S
+   6,R,J,Z
+   8,R
+   9,L,J
    4,X
    1,L,D,X
  135
 
-ChapterTime: 0:33.354(1962)
+ChapterTime: 0:30.243(1779)
