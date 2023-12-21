@@ -20,16 +20,16 @@ console load SpringCollab2020/2-Intermediate/Skeleton
    1,L,J
   30,L,D
    6,L
-   5,L,Z
+   5,L,X
 
   43
 
 #lvl_skeleton_00_berry
-  14
-   6,R,U,X
-  10,L,J
-  12,L
-   3,L,J
+   4,L,J
+  12,L,K
+  12,R,J
+  12,L,K
+   4,J
    5,L,Z
    1,L,J
   12,L,D
@@ -56,14 +56,15 @@ console load SpringCollab2020/2-Intermediate/Skeleton
    1,L,D
    8,L,J
    1,R,K,G
-  12,L,K
-   2,K
-  15,D,X
-   5,R
-   2,R,J
-  41,R,D
-   5,L,D,X
-   6,L,J
+  10,L,K
+   2,L
+   2
+   5,R,D,X
+   1,R,J
+  38,R,D
+  11,L,D
+   5,L,J,Z
+   7,L
   11,L,X
    1,R,J
    3,R
@@ -75,17 +76,19 @@ console load SpringCollab2020/2-Intermediate/Skeleton
    1
 
 #lvl_skeleton_01 (1)
-  40
+  43
 
-  12
+   9
 
    5,L,U,X
-  12,J,G
-   3,L,K,G
-  15,L,D
-   5,L,J
-  12,R,K
-   6,R,J
+
+  14,J,G
+  10,L,D
+   2,L,J
+   1,K,G
+   2,R,K
+  13,R,K
+   9,R,J
    5,R,D,X
    6,R,J
    8,K,G
@@ -123,7 +126,7 @@ console load SpringCollab2020/2-Intermediate/Skeleton
   26,R
 
 #spinner visibility cycle
-   8
+   2
 
    6,L,D,X
    1,R,J
@@ -179,8 +182,8 @@ console load SpringCollab2020/2-Intermediate/Skeleton
    8,R,U,X
   21,R,J,G
   14,L,K,G
-  14,L,J,G
-  12,L,K,G
+  15,L,J,G
+  11,L,K,G
   12,L
    5,R,X
    1,L,J
@@ -189,7 +192,7 @@ console load SpringCollab2020/2-Intermediate/Skeleton
   15,D,X
 
 #spinner cycle
-   1
+   2
 
    3,R
   28,D
@@ -223,7 +226,6 @@ console load SpringCollab2020/2-Intermediate/Skeleton
 
   40
 #lvl_skeleton_04
-
   10
   15,D,X
   10,R,C
@@ -259,15 +261,10 @@ console load SpringCollab2020/2-Intermediate/Skeleton
    5,U,X
    1,J
   10,L,J
-   5,L
-  13,R
+  12,L
+   8
    5,R,J,Z
-   8,R
-  15,L,D,X
-   5,L,D,C
-   2,R,J
-  15,R
-  21,R,D
+  29,R,D
    6,R,U,Z
    3,R,J,G
    5,K,G
@@ -295,15 +292,21 @@ console load SpringCollab2020/2-Intermediate/Skeleton
    1,R
    2,L
    6,R,D,X
-  12,J,G
-  11,K,G
-   2,R,J,G
-  23,R,D
-   2,R
-   2,R,D
+   1,J,G
+   1,L,J
    1,J
-  30,R
-  23,R,D
+  12,R,K,G
+   1,K,G
+   2,L,K
+   1,R,J,G
+   1,R,K,G
+  23,R
+   2,R
+   1,D,J
+   2,R
+  14,R,J
+  25,R
+  16,R,D
    5,R,D,X
    7,R,J
    6,R
@@ -313,6 +316,10 @@ console load SpringCollab2020/2-Intermediate/Skeleton
 
 #lvl_skeleton_06_berry
    1
+
+#spinner cycle
+   2
+
    1,J,G
   29,R
   12,R,J
@@ -323,35 +330,13 @@ console load SpringCollab2020/2-Intermediate/Skeleton
    5
    5,R,Z
 
-#commence abuse
-#possible time save to collect somewhere else to pause less
-
-Repeat, 2
-   1,S,N
-  10,O
-   2
-EndRepeat
-
-   1,S,N
-  10,O
-   1
-   1,L,J
-
-Repeat, 2
-   1,S,N
-  10,O
-   2,L,J
-EndRepeat
-   1,S,N
-  10,O
+StunPause, Input
+   5
+   5,L,J
+SkipInput, 3, 1
    5,R,D,X
-
-Repeat, 12
-   1,S,N
-  10,O
-   2
-EndRepeat
-
+  24
+EndStunPause
    2
 
   72,O
@@ -376,6 +361,6 @@ EndRepeat
    5,L,D,X
  135
 
-ChapterTime: 1:18.268(4604)
+ChapterTime: 1:17.554(4562)
 
 
