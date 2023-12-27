@@ -92,26 +92,24 @@ console load SpringCollab2020/2-Intermediate/GG19
    6,R,Z
    9,J
    5,R,D,X
+***s
   16,R,J
    5,U,X
-  17,R,J
+  12,R,J
+  10,R
    5,R,D,X
    1,R,J
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-  25,R,D
+
+  22,R,D
 
   40
 
 #lvl_Gabe_outro
-***S
-   4,R
-   5,R,U,X
-   2
+   3,R
+   7,R,U,X
    1,J,G
   22,D
    5,D,X
  135
 
-ChapterTime: 0:16.235(955)
+ChapterTime: 0:16.201(953)
