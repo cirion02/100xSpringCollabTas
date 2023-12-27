@@ -16,23 +16,22 @@ console load SpringCollab2020/2-Intermediate/GG19
    8,R,X
   36,G
   14,J,G
+***S
    5,R,D,X
-  34,R,J
-   6,R,K
-  21,R
-   5,R,X
-  10,R,J,G
-   2,R,K,G
-  14,R,D
-   3,R
-  17
-   4,R,J
-  34,R,D
-   5,R,X
+***S
+   1
    9,R,J
+  15,U,X
+   2,D
+  29,R,D
+   1,R,J
+  16,R
+  12,R,J
   35,R,D
-   1,J
-  44,D
+   6,G
+  17,R,D
+  16,D
+
   40
 
 #lvl_Gabe_1B
@@ -135,4 +134,4 @@ console load SpringCollab2020/2-Intermediate/GG19
    5,L,U,X
  135
 
-ChapterTime: 0:22.797(1341)
+ChapterTime: 0:21.505(1265)
