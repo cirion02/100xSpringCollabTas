@@ -189,8 +189,7 @@ console load SpringCollab2020/2-Intermediate/Noax
   15,L,K
    1,L,J
    4,L,K
-   5,L,U,X
-  22
+  27,L,U,X
    4,L,J
    7,L,D
   17,R,D
@@ -222,25 +221,21 @@ console load SpringCollab2020/2-Intermediate/Noax
   17,R
    5,U,X
   21
-   6,L,U,X
+   6,L,U,Z
    1,R,J
-  22,R,K
-   1,G
-   1,J
-   7,R,J
-   9,R
-  10,R,J
-   1,L,K
-  50,L,J
-   2,L,K
-  15,R,X
-   5,L,U,C
-  
+  19,R,K
+   4,R
+   1,L,J
+  46,L,K
+   4,L,D
+   2,L,J
+  15,L,U,X
+
   40
   
 #lvl_Noax_05
    1
-  72,O
+  69,O
   
    4,R,Z
    1,R,J
@@ -257,4 +252,4 @@ console load SpringCollab2020/2-Intermediate/Noax
    
  135
  
-ChapterTime: 0:40.290(2370)
+ChapterTime: 0:39.746(2338)
