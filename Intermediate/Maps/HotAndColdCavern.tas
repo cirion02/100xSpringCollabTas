@@ -83,47 +83,35 @@ console load SpringCollab2020/2-Intermediate/GG19
   40
 
 #lvl_Gabe_3
+***S
    5,J,G
    6,K,G
    6,R,U,X
    1,J,G
-  25,D
-   5,R,X
-   1,J
-  40,L,D
-   4,L,Z
-   1,L,J
-   7,L
-  10,L,J
-   3,R
-   5,R,X
-  10,L,J
-   5,R,X
-   1,J,G
-  66,R,G
+  17,D
+   6,R,Z
+   9,J
    5,R,D,X
-  10,R,J
-  11,R
-  23,L
-   5
-   6,J
-  14,R,J
-   6,R,X
-   1,J
-  29,D
-   5,R,U,X
+  16,R,J
+   5,U,X
+  17,R,J
+   5,R,D,X
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  25,R,D
+
   40
 
 #lvl_Gabe_outro
-   5
-   5,J
-   5,U,X
-   1,K
-  16,R,D
-   4,R,Z
-   1,R,J
-  20,L,D
-   5,L,U,X
+***S
+   4,R
+   5,R,U,X
+   2
+   1,J,G
+  22,D
+   5,D,X
  135
 
-ChapterTime: 0:19.482(1146)
+ChapterTime: 0:16.235(955)
