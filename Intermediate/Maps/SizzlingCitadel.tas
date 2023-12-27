@@ -236,17 +236,13 @@ console load SpringCollab2020/2-Intermediate/Noax
 #lvl_Noax_05
    1
   69,O
-
-   4,R,Z
-   1,R,J
-   7,R
-   1,R,J
-   3,K,G
+***S
+  10,R,X
+   4,K
   12,J,G
    1,L,J
   12,K,G
-   9,L,J,G
-   1,L
+  10,J,G
    5,L,X
    1,L,J
   13,R,J
@@ -254,4 +250,4 @@ console load SpringCollab2020/2-Intermediate/Noax
    
  135
  
-ChapterTime: 0:39.661(2333)
+ChapterTime: 0:39.627(2331)
