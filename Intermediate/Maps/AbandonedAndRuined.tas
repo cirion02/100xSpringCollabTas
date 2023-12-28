@@ -68,10 +68,9 @@ console load SpringCollab2020/2-Intermediate/aleph_null
 #lvl_aleph_right
   10,R,J
   15,R,U,X
-  15,L
-   3
-   5,L,U,X
-  44,R,D
+  18,L
+  15,L,U,X
+  34,R,D
    5,L,Z
 
   43
