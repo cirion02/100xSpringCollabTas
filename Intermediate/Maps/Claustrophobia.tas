@@ -460,23 +460,28 @@ EndRepeat
    1,R,J
    7,R
    2,R,J
-  14,L,D,X
+
+
+***s
+   6,L,D,X
    1,J
-   5,L,U,C
+   8,R
+   6,U,C
    1,J
-   9,L,J
-   4,R,D
-   4,D
-   5,K
-   7,D
-   3,L
-  23,D
-   5,R,X
+   1,L,K,G
+   1,R,D
+   6,D
+   1,R,D
+  11,D
+   1,L
+   1
+   2,L
+  19,L,D
+   5,R,Z
    1,L,J
-  20,L,D
+  26,L,D
    1,L,J
-  14,L
-   1,L,J
+   9,L
    5,U,X
    1,R,J
   10,R
@@ -1233,4 +1238,4 @@ EndRepeat
    5,R,D,X
    1,J
   14,D
-ChapterTime: 2:40.769(9457)
+ChapterTime: 2:40.582(9446)
