@@ -455,11 +455,11 @@ EndRepeat
    9,R,J
 
 #lvl_room_2 (Pink)
-   5,R,D,X
-   1,L,J
-   7,L
-   2,L,D
-   3,L,J
+***S
+   6,L,D,X
+   1,R,J
+   7,R
+   2,R,J
   14,L,D,X
    1,J
    5,L,U,C
@@ -1233,4 +1233,4 @@ EndRepeat
    5,R,D,X
    1,J
   14,D
-ChapterTime: 2:40.803(9459)
+ChapterTime: 2:40.769(9457)
