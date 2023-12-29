@@ -299,12 +299,14 @@ EndRepeat
    9,R,J,G
 
 #lvl_room_1 (Green)
+***S
    4,R,G
    1,R,J,G
   19,R,G
    4,L,G
-  23,D,G
-   1
+  15,D,G
+   6,L,D,G
+   1,L
    6,R,U,X
    1,G
   21,L,D
@@ -1259,4 +1261,4 @@ EndRepeat
    5,R,D,X
    1,J
   14,D
-ChapterTime: 2:42.673(9569)
+ChapterTime: 2:42.639(9567)
