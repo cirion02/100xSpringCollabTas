@@ -638,6 +638,7 @@ EndRepeat
    1
    5,D,X
   13,G
+***S
    5,U,X,G
   11
    5,R
@@ -653,28 +654,28 @@ EndRepeat
    5,U,X,G
   26,D,G
   12,L,D,G
+***S
    1,L,J,G
   14,L,D,G
   14,D,G
   13,L,D,G
-   0,L,J,G
    8,L,G
    4,K,G
-   5,U,X
-  11,R
+  15,U,X
+   1,R
   15,D,X
    1,R,D,J
   14,R,D
-   3,R,J
-   5,U,X
+***S
+  23,L,J,G
+  12,U,G
+   6,R,Z
+   1,L,J
+  16,L,U
+   5,R,D,X
    1,R,J
-  14,R,D
-  34,D
-   5,R,U,J
-   5,R,Z
-   1,R,D,J,G
-  14,R,D
-   2,D
+   1,K
+  11,L,D
    5,L,D,X
    1,R,J
    8,R,D
@@ -1239,4 +1240,4 @@ EndRepeat
    5,R,D,X
    1,J
   14,D
-ChapterTime: 2:39.443(9379)
+ChapterTime: 2:39.307(9371)
