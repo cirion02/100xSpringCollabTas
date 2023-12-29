@@ -339,6 +339,7 @@ EndRepeat
   40
 
 #lvl_room_2 (0)
+***S
    1,G
    1,D
    1
@@ -364,6 +365,7 @@ EndRepeat
    1,R,J
   10,R,D
    4,R
+***S
 
    8,R,J,Z
 
@@ -393,6 +395,7 @@ Repeat, 4
    1,L,J,G
   14,L,G
 EndRepeat
+***S
    1,L,G
   13,L,J
    6
@@ -418,7 +421,9 @@ EndRepeat
    5,R,D,X
    1,L,J
   23,L
-  45
+  41
+***S
+   4
    1,L,D,J
    1,L,D,K
    1,L,D,J
@@ -436,6 +441,7 @@ EndRepeat
   21,R,G
    1,R,J,G
   14,R,G
+***s
    7,R,J,G
   22,R,G
    1,R,J,G
@@ -449,11 +455,14 @@ EndRepeat
    9,R,J
 
 #lvl_room_2 (Pink)
+***S
    6,L,D,X
    1,R,J
    7,R
    2,R,J
 
+
+***s
    6,L,D,X
    1,J
    8,R
@@ -476,6 +485,7 @@ EndRepeat
    5,U,X
    1,R,J
   10,R
+***S
    7,R,J,Z
    9,R
    1,R,D,J
@@ -494,6 +504,7 @@ EndRepeat
   21,L,G
    1,L,J,G
   14,L,G
+***S
    1,L,J,G
    2,L,G
 
@@ -507,6 +518,7 @@ EndRepeat
    1,L,G
   19,R,D,G
   18,L,D,G
+***S
   12,D,G
    1,R,D,G
    3,D,G
@@ -529,6 +541,7 @@ EndRepeat
   23,R,G
 
 #lvl_room_4 (Yellow) (0)
+***S
    8,L,G
    1,L
   19
@@ -552,6 +565,7 @@ EndRepeat
   13,L,G
 
 #lvl_room_4 (Green)
+***S
   12,L,G
    6,L,J,G
    1,D
@@ -601,6 +615,7 @@ EndRepeat
   10,L,J
 
 #lvl_room_4 (Pink)
+***S
    1,L,D
    2,D,G
    5,D
@@ -610,6 +625,7 @@ EndRepeat
    3,R,K
   22,R,D,G
   10,L,D,G
+***S
    8,L,J,G
    8,R,J,G
    1,R
@@ -617,10 +633,12 @@ EndRepeat
    3,L,J
   15,U,X
   11,L,J
+***S
   17,L
    1
    5,D,X
   13,G
+***S
    5,U,X,G
   11
    5,R
@@ -636,6 +654,7 @@ EndRepeat
    5,U,X,G
   26,D,G
   12,L,D,G
+***S
    1,L,J,G
   14,L,D,G
   14,D,G
@@ -647,6 +666,7 @@ EndRepeat
   15,D,X
    1,R,D,J
   14,R,D
+***S
   23,L,J,G
   12,U,G
    6,R,Z
@@ -721,6 +741,7 @@ EndRepeat
    1,R
 
 #lvl_room_2 (Yellow)
+***S
    1,R
    1,R,D
    1,R,J
@@ -766,6 +787,7 @@ EndRepeat
    7,R,G
   15,R,J,G
    2,R,K,G
+***S
    1,L,K
    5,L,D,X
    1,J
@@ -776,6 +798,7 @@ EndRepeat
    7,L,D,X
 
 #lvl_room_3 (Yellow)
+***S
   12,L,D
    6,L,J,Z
    8,L
@@ -803,6 +826,7 @@ EndRepeat
    1,J
    4,K
    5,R,U,X
+***S
    1
    1,R,G
   19,D
@@ -822,6 +846,7 @@ EndRepeat
   10,R,K
 
 #lvl_room_3 (Red)
+***S
    4,D
    5,L,D
    1,L,D,J
@@ -842,6 +867,7 @@ EndRepeat
    2,J
   12,R,K
   12,J
+***S
   23,R,D,X
    1,J
    4,L,K
@@ -854,55 +880,47 @@ EndRepeat
 
 
 #lvl_room_3 (Pink)
-  13,D
-  13,R,J,Z
-  24,R,G
-  12,L,G
-   1,L,J,G
-   7,L,G
-   1,L,J,G
-  18,L,G
-   1,L,J,G
+***S
+  13,R,D
+  12,R,J,Z
+  24,R
+   5,L,J,Z
    5,L,G
-   1,D
-   5,D,X
-Repeat, 9
-   1,L,D
-   1
-   1,R,D
-   1
-EndRepeat
-   5,L,J,Z,G
+  16,L,G
+  10,D
+  16,R,J
+  15,D,X
+   5,L,J,Z
   21,L,G
    1,L,J,G
   14,L,G
   12,L,J,G
-   2,K,G
-  25,L,K,G
+***S
+#This climb sucks fix it
+   1,D
    1,J,G
-  26,L,J,G
-   3,R,K,G
-   1
+  11,J
+  21,J,G
+   1,D
+   1,J,G
+  11,J
+  21,J,G
+   1,R
    5,R,D,X
    1,R,J
-   7,R
-   1,R,J
-   8,R
+  18,R
+***S
   15,U,X
-  19,L
-   4,L,J,G
-   4,L
-   4,D
-  11,J
-   2,L
-   6
+  26,L
+  18,L,J
   15,D,X
   15,U,C
   13,L,D
 Repeat, 15
+   1,L
    1,D
-   1
 EndRepeat
+   1
    5,L,Z
    5
    8,R,J
@@ -1219,4 +1237,4 @@ EndRepeat
    5,R,D,X
    1,J
   14,D
-ChapterTime: 2:38.644(9332)
+ChapterTime: 2:38.372(9316)
