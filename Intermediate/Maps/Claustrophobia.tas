@@ -518,13 +518,17 @@ EndRepeat
    1,L,G
   19,R,D,G
   18,L,D,G
-  21,D,G
+***S
+  12,D,G
+   1,R,D,G
+   3,D,G
+   5,R,D,G
 
   40
 
 #lvl_room_4
    7,R,D,G
-  14,R,J,G
+   9,R,J,G
 
   11,R,D,G
    1,R
@@ -534,7 +538,7 @@ EndRepeat
    7,R
    1,R,J
    2,R
-  24,R,G
+  23,R,G
 
 #lvl_room_4 (Yellow) (0)
    8,L,G
@@ -1238,4 +1242,4 @@ EndRepeat
    5,R,D,X
    1,J
   14,D
-ChapterTime: 2:40.038(9414)
+ChapterTime: 2:39.936(9408)
