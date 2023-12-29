@@ -53,7 +53,6 @@ EndRepeat
 #shout out to kivov for finding this
    2,L,J,G
    1,D,G
-# <crackhead strat>
    7,D
    5,L,D,X
    2,R,J
@@ -66,6 +65,30 @@ EndRepeat
   27,L,J
    1,L
   13,R
+
+#This saves time but cycles
+#   5,R,X
+#   1,J,G
+#  13,D
+#   5,L,X
+#  10,L,J,G
+#   4,L,K,G
+#   8,R,J
+#   7,R,D
+#  19
+#  10,R,X
+#   1,L,K
+#  14,L
+#   5,L,J
+#   5,U,X
+
+
+#  10,R,D
+#   1,R,J
+#  14,R,D
+#   1,R,J
+#   5,U,Z
+
   10,R,D,X
    1,J
    4,K
@@ -75,34 +98,6 @@ EndRepeat
    8,R,J
    7,R,D
   28
-# </crackhead strat>
-
-# <take the block time=74f>
-#  47,D
-#   1,R,J
-#  14,R
-#   1,R,J
-#  16,R,D
-#  27,R,J
-#   5,U,X
-#  23,L,D
-#   7,R,K
-#   5,R
-#   1,K
-#   2,L
-#  12,R
-#   9,R,D
-#   5,R,X
-#   1,J,G
-#  13,D
-#   5,L,X
-#  10,L,J,G
-#   4,L,K,G
-#   8,R,J
-#   7,R,D
-#  18
-# </take the block>
-
   11,R,X
    1,L,K
   14,L
@@ -114,6 +109,7 @@ EndRepeat
    1,R,J
   15,R,D
    5,U,Z
+
 
 #lvl_room_1 (Yellow) (0)
    5,L
