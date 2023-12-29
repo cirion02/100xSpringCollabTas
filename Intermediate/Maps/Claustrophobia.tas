@@ -179,7 +179,6 @@ Repeat, 6
    1,L,J
   14,L
 EndRepeat
-***s
    1,L,J
   14,L,D
    8,D
@@ -202,7 +201,6 @@ EndRepeat
   15,R
    1,R,J
   13,R
-***S
    2,R,J
    9,R
    5,R,D,X
@@ -237,7 +235,6 @@ EndRepeat
   15,L,D
    5,L,J,Z
   18,R,D
-***S
    6,R,U,X
    1,K,G
    7,R,D
@@ -275,7 +272,6 @@ EndRepeat
   15,R,J
 
 #lvl_room_1 (Yellow) (1)
-***S
   12,L,D,X
    3,R,J
    5,U,X
@@ -299,7 +295,6 @@ EndRepeat
    9,R,J,G
 
 #lvl_room_1 (Green)
-***S
    4,R,G
    1,R,J,G
   19,R,G
@@ -324,7 +319,6 @@ EndRepeat
   24,D,G
    1,J,G
   16,L,J,G
-***S
    7,R,G
    5,R
    5,R,J,Z
@@ -345,18 +339,6 @@ EndRepeat
   40
 
 #lvl_room_2 (0)
-
-#Saves time but cycles
-#   1,R,G
-#   1,R,G
-#   5,R,G
-#   1,J,G
-#   1,R,G
-#   1,L
-#  15,R
-#   5,R,D,Z
-#   1,R,J
-
 ***S
    1,G
    1,D
@@ -383,8 +365,14 @@ EndRepeat
    1,R,J
   10,R,D
    4,R
-   5,R,J,Z
-  15,R,D
+***S
+
+   8,R,J,Z
+
+
+
+
+  11,R
    9,R,J
 
 
@@ -1248,4 +1236,4 @@ EndRepeat
    5,R,D,X
    1,J
   14,D
-ChapterTime: 2:41.347(9491)
+ChapterTime: 2:41.330(9490)
