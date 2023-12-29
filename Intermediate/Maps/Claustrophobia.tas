@@ -254,24 +254,27 @@ EndRepeat
    1,L,J
    4,L,D
    1,L
+***S
 
-
-   5,L,X
+  10,L,D,X
+   1,J
 
 #lvl_room_1 (Blue) (1)
-  15,D
-   5,L,J,Z
-   7,R
-   1,L,J
-  17,R,G
-  11,R
-   3,R,D
-   5,R,J,X
-  14,R
-  28,R,J,G
+   4
+   5,L,D,X
+   3,L,J
+   6,L
+   6
+   5,R,J,Z
+  15,R,G
+   6,G
+  10,L,J,G
+   4,R,J,G
 
 
-   2
+   1,R,D,G
+   1,R
+   6,R,D
   13,R,J,X
 
 #lvl_room_1 (Yellow) (1)
@@ -1266,4 +1269,4 @@ EndRepeat
    5,R,D,X
    1,J
   14,D
-ChapterTime: 2:43.659(9627)
+ChapterTime: 2:43.149(9597)
