@@ -324,30 +324,23 @@ EndRepeat
   24,D,G
    1,J,G
   16,L,J,G
-
-
-   1,L,G
-   6,L,D,G
-   2,L,G
-   4,L
+***S
+   7,R,G
+   5,R
+   5,R,J,Z
+   7,R
+   1,R,J
+  28,R,G
+   1,R,J,G
+   5,R,G
+   1,R
+   5,L,D,X
+   1,R,J
+  13,R
    5,L,J,Z
-   7,L
-   1,L,J
-  24,L,G
-   4,L
-   1,L,J
-  10,L,J
-
-#lvl_room_1 (Blue) (2)
-   2,L,K,G
-   7
-   5,R,U,X,G
-  14,R,G
-
-  40
-
-#lvl_hub (1)
-   1,G
+  10,R
+   5,R,D,X
+  13,R,G
 
   40
 
@@ -364,28 +357,22 @@ EndRepeat
 #   5,R,D,Z
 #   1,R,J
 
-
-   1,L,G
+***S
+   1,G
+   1,D
+   1
 
 #lvl_room_2 (Green) (0)
-  13,D,G
-  10,J,G
-
-
-   1
-  11,R
-
-#lvl_room_2 (Green) (1)
-  12,R,D
-   9,R,J,Z
+   4,X
+   1,R,D,X
+   4,R,J
   22,R,D
-  25,L,D
-   5,L,X
+  22,L,D
+   6,L,Z
    1,R,J
-   9,R
-  15,U,X
-   3
-   5,R,D,X
+   8,R
+  18,U,X
+   5,R,D,C
    2,R,J
   23,L
    8,L,X
@@ -535,7 +522,7 @@ EndRepeat
   40
 
 
-#lvl_hub (2)
+#lvl_hub (1)
   10,L,G
    1,R,J,G
    1,G
@@ -740,7 +727,7 @@ EndRepeat
 
   40
 
-#lvl_hub (3)
+#lvl_hub (2)
    1,R,J
   42,R
 
@@ -786,7 +773,7 @@ EndRepeat
 
   40
 
-#lvl_hub (4)
+#lvl_hub (3)
    1,R,J
    8,L
   10,L,D,X
@@ -964,7 +951,7 @@ EndRepeat
 
   40
 
-#lvl_hub (5)
+#lvl_hub (4)
   12
    9,J,G
    5,R,Z
@@ -1261,4 +1248,4 @@ EndRepeat
    5,R,D,X
    1,J
   14,D
-ChapterTime: 2:42.639(9567)
+ChapterTime: 2:41.347(9491)
