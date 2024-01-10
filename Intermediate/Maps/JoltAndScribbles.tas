@@ -71,14 +71,11 @@ console load SpringCollab2020/2-Intermediate/Clover
 #lvl_a-03a
    7
    3,L,D
-   5,D,X
-   1,L,J,G
-  14,L
-   9,L,J,X
-   1,R,J
-   5,R
-
+  12,D,X
+   3,J,G
+   5,L,X
+  11,L,J
    5,L,U,X
  135
 
-ChapterTime: 0:10.642(626)
+ChapterTime: 0:10.574(622)
