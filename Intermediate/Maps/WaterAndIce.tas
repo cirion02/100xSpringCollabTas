@@ -257,14 +257,11 @@ EndRepeat
   12,J,G
   10,K,G
   12,J
-   5,L,Z
-   1,L,J
-   7,L
-   1,L,J
-   4,L
-   6,R
+  10,L,X
+   1,R,J
+   5,J
    5,U,X
-   2,L,J
+   1,L,J
    1,R,K,G
   14,R,J,G
    7,R,U,X
@@ -400,4 +397,4 @@ EndRepeat
 
  135
 
-ChapterTime: 0:49.215(2895)
+ChapterTime: 0:49.062(2886)
