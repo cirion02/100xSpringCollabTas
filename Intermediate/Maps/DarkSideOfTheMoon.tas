@@ -16,7 +16,8 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
   40
 
 #lvl_Evilleafy_01
-  10
+   2
+   9,J,G
    5,U,X
 
   40
@@ -30,7 +31,9 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
   40
   
 #lvl_Evilleafy_03
-  18,D
+   1
+   1,J,G
+  14,D
    5,L,Z
   21,L,J
   15,L,D,X
@@ -116,4 +119,4 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
    1,L,D,X
  135
 
-ChapterTime: 0:16.796(988)
+ChapterTime: 0:16.779(987)
