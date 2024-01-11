@@ -33,6 +33,7 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
    5,L,U,X
 
   40
+
 #lvl_1c (0)
    1
    1,J,G
@@ -65,9 +66,11 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
    1,S
    1,D,J
   69,O
-   6,R,U,X
-   1,J,G
-  20,D
+
+   3,L
+   5,U,X
+   1,R,J
+  10,R
    5,R,U,C
 
   40
@@ -155,4 +158,4 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
    5,R,D,X
  135
 
-ChapterTime: 0:25.177(1481)
+ChapterTime: 0:25.041(1473)
