@@ -110,21 +110,15 @@ console load SpringCollab2020/2-Intermediate/Bonicle
    6,L
    4,L,J
   15,D,X
-   5,L,J,Z
-  14,L
-   1,L,J
-   2,L
-
-  40
-
-#lvl_bonicle_02b (2)
-   5,R,X
+   2,J
 
   40
 
 #lvl_bonicle_02
+   2,J
+   5,R,X
   11,L,J
-  28,R,J
+  26,R,J
    6,R,X
 
   40
@@ -133,10 +127,11 @@ console load SpringCollab2020/2-Intermediate/Bonicle
    1
   40
 
+
 #lvl_bonicle_04 (0)
   12,J,G
   12,K,G
-   7,J,G
+   8,J,G
    5,L,U,Z
    1,J
   25,R,D
@@ -197,4 +192,4 @@ console load SpringCollab2020/2-Intermediate/Bonicle
    1,L,D,X
  135
 
-ChapterTime: 0:30.039(1767)
+ChapterTime: 0:29.087(1711)
