@@ -55,7 +55,7 @@ console load SpringCollab2020/2-Intermediate/Hallow
    5,R,X
 
   40
-
+***s
 #lvl_Hallow_03
   10,L
   36
@@ -98,7 +98,8 @@ console load SpringCollab2020/2-Intermediate/Hallow
    5,R,X
    1,J
    7,R,D
-  30,L,D
+***
+  29,L,D
   15,R,Z
   12,D
    1,G
@@ -110,9 +111,10 @@ console load SpringCollab2020/2-Intermediate/Hallow
   40,R
 
   40
-
+***s
 #lvl_Hallow_04
-   8,R
+   1,R,J
+   5,R
    5,U,Z
    2,J
   25,R,J
@@ -246,4 +248,4 @@ console load SpringCollab2020/2-Intermediate/Hallow
 
  135
 
-ChapterTime: 0:49.538(2914)
+ChapterTime: 0:49.487(2911)
