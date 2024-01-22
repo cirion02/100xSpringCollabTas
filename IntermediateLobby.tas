@@ -90,7 +90,7 @@ Read,Menuing/ExitLevel
 
 Read,Intermediate/Lobby/AR-AE.tas,Start
 Read,Menuing/EnterLevel
-Read,Intermediate/Maps/AnchientEngine.tas,Start
+Read,Intermediate/Maps/AncientEngine.tas,Start
 Read,Menuing/ExitLevel
 
 Read,Intermediate/Lobby/AE-JS.tas,Start
