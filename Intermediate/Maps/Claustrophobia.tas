@@ -10,7 +10,7 @@ console load SpringCollab2020/2-Intermediate/Oppen_Heimer
 #lvl_hub (0)
    1,R,J
    4,R
-  28,R,G
+  27,R,G
    8,J,G
    2,L,J,G
    1,J,G
@@ -278,7 +278,7 @@ EndRepeat
    1,R,J
    6,R,D
    1,R,J
-   3,R,D
+   2,R,D
    6,U,X
    1,J
   18,D
@@ -298,7 +298,7 @@ EndRepeat
    4,R,G
    1,R,J,G
   19,R,G
-   4,L,G
+   3,L,G
   15,D,G
    6,L,D,G
    1,L
@@ -306,7 +306,7 @@ EndRepeat
    1,G
   21,L,D
    6,L,J,X
-   8,L
+   7,L
   38
   14,J
   15,R,X
@@ -346,7 +346,7 @@ EndRepeat
 #lvl_room_2 (Green) (0)
    4,X
    1,R,D,X
-   4,R,J
+   3,R,J
   22,R,D
   22,L,D
    6,L,Z
@@ -362,7 +362,7 @@ EndRepeat
    1
    5,L,U,X
    1,R,J
-  10,R,D
+   9,R,D
    4,R
 
    8,R,J,Z
@@ -550,11 +550,11 @@ EndRepeat
    5,L,U,X
 
 
-  13,L,G
+  12,L,G
 
 #lvl_room_4 (Green)
   12,L,G
-   6,L,J,G
+   5,L,J,G
    1,D
    6,L,D,X
    1,J
@@ -866,7 +866,6 @@ EndRepeat
   15,D,X
    5,L,J,Z
   21,L,G
-   1,L,J,G
   14,L,G
   12,L,J,G
 #This climb sucks fix it
@@ -885,8 +884,8 @@ EndRepeat
   15,U,X
   26,L
   18,L,J
-  15,D,X
-  15,U,C
+  14,D,X
+  14,U,C
   13,L,D
 Repeat, 15
    1,L
@@ -1130,4 +1129,4 @@ EndRepeat
    1,R,D
    1,J
    1
-ChapterTime: 2:33.170(9010)
+ChapterTime: 2:32.983(8999)
