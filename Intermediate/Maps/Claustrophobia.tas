@@ -865,18 +865,16 @@ EndRepeat
   16,R,J
   15,D,X
    5,L,J,Z
+***S
   21,L,G
-  14,L,G
-  12,L,J,G
+   5,L,G
+  17,L,J,G
 #This climb sucks fix it
    1,D
    1,J,G
   11,J
-  21,J,G
-   1,D
-   1,J,G
-  11,J
-  21,J,G
+  15,J,G
+  15,K,G
    1,R
    5,R,D,X
    1,R,J
@@ -884,10 +882,10 @@ EndRepeat
   15,U,X
   26,L
   18,L,J
-  14,D,X
-  14,U,C
-  13,L,D
-Repeat, 15
+  15,D,X
+  15,U,C
+  11,L,D
+Repeat, 16
    1,L
    1,D
 EndRepeat
@@ -1129,4 +1127,4 @@ EndRepeat
    1,R,D
    1,J
    1
-ChapterTime: 2:32.983(8999)
+ChapterTime: 2:32.524(8972)
