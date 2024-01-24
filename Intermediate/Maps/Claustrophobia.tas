@@ -865,11 +865,8 @@ EndRepeat
   16,R,J
   15,D,X
    5,L,J,Z
-***S
-  21,L,G
-   5,L,G
+  26,L,G
   17,L,J,G
-#This climb sucks fix it
    1,D
    1,J,G
   11,J
