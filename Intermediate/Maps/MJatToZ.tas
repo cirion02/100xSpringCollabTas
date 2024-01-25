@@ -231,10 +231,9 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
    8,J,G
   12,K,G
    7,L,K,G
-  21,R,D,G
-   1,R,D
-  11,R,J
-   6,L,K
+  27,R,D,G
+   4,R,D
+   4,J
   19,R,X,G
    6,R,J,G
    8,R,G
@@ -270,5 +269,5 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
 
  135
 
-ChapterTime: 0:42.381(2493)
+ChapterTime: 0:42.313(2489)
 
