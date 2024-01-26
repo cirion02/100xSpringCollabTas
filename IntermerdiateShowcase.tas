@@ -3,14 +3,12 @@ unsafe
 Read, Menuing\StartFile
 
 Read, Other\prologue,Start
-
- 165
-   1,J
-  25
+ 180
+  11
    1,R
-  50
+  11
    1,J
-  43
+  21
    1,J
   47
 
