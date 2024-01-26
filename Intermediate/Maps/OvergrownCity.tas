@@ -13,6 +13,9 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
    2,R,J
   28,L,J
 
+Set, CelesteTAS.CenterCamera, true
+console display_message cc 1 250 true Center Cam
+
    5,R,D,X
    1,L,J
    7,L
@@ -23,6 +26,9 @@ console load SpringCollab2020/2-Intermediate/Lichtbaulb
   12,L,D,X
    3,R,J
    6,R,D,X
+
+Set, CelesteTAS.CenterCamera, false
+console hide_message cc
 
   40
 

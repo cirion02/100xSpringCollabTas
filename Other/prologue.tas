@@ -5,6 +5,9 @@ console load SpringCollab2020/0-Lobbies/0-Prologue
    
 #Start
   69
+
+console display_message a 1 350 true This tas will have celesteTas's \n center cam enabled for some sections \n where madeline would be fully offscreen
+
    5,R,X
   40
    1,S
@@ -22,6 +25,9 @@ console load SpringCollab2020/0-Lobbies/0-Prologue
    7,R
    5,R,U,X
   50
+
+console hide_message a
+
    8,L
    5,D,X
    1,S

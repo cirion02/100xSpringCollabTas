@@ -160,6 +160,10 @@ console load SpringCollab2020/2-Intermediate/Noax
    5,U,X
    1,J
   15,L,J
+
+Set, CelesteTAS.CenterCamera, true
+console display_message cc 1 250 true Center Cam
+
   20,R,X
    4,R,J
   12,L,K
@@ -192,6 +196,10 @@ console load SpringCollab2020/2-Intermediate/Noax
   27,L,U,X
    4,L,J
    7,L,D
+
+Set, CelesteTAS.CenterCamera, false
+console hide_message cc
+
   17,R,D
    5,U,X
    2,R,J

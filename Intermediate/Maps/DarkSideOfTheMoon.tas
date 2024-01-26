@@ -6,6 +6,10 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
 
 #Start
 #lvl_Evilleafy_00
+
+console display_message cc 1 250 true Center Cam
+Set, CelesteTAS.CenterCamera, true
+
   36
 
    5,R
@@ -118,5 +122,9 @@ console load SpringCollab2020/2-Intermediate/Evilleafy
    4,X
    1,L,D,X
  135
+
+Set, CelesteTAS.CenterCamera, false
+
+console hide_message cc
 
 ChapterTime: 0:16.762(986)
