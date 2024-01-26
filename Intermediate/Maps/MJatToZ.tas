@@ -119,9 +119,12 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
   63
 
 #lvl_TheAd_04 (0)
-   1,J,G
-  21,D
-   6,L,D,X
+   9
+   5,R,D,X
+   1,L,J
+   7,L
+   2,L,J
+   5,L,X
 
  120
 
@@ -186,7 +189,7 @@ console load SpringCollab2020/2-Intermediate/TheAdvertisement
   15,D,C
 
 #Spinner cycle (deload cycle)
-   0
+   2
 
   10,L,Z
    1,R,J
