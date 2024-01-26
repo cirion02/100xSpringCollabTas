@@ -355,8 +355,8 @@ EndRepeat
   18,U,X
    5,R,D,C
    2,R,J
-  23,L
-   8,L,X
+  21,L
+   9,L,X
    1,J
   50,R,D
    1
@@ -403,23 +403,22 @@ EndRepeat
    1
   17
   13,J
-  25,R,J,G
+  14,L,J
    1,L
   15,D,X
-   1,L,J
-  27,L,J,G
-   5,R,K,G
-  25,K,G
-  14,G
+   8,J,G
+   6,L,J,G
+   3,R,K,G
+  17,L,K,G
+  21,G
    1,L,J,G
-  15,L,K,G
+  11,L,K,G
    1,L
-  10
+  18,L,D
    5,R,D,X
    1,L,J
   23,L
-  41
-   4
+  39
    1,L,D,J
    1,L,D,K
    1,L,D,J
@@ -1166,4 +1165,4 @@ EndRepeat
    1,R,D
    1,J
    1
-ChapterTime: 2:32.524(8972)
+ChapterTime: 2:32.405(8965)
