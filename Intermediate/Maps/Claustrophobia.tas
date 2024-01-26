@@ -436,13 +436,14 @@ EndRepeat
    1,D
    8,J
    5,R,X
-  23,R,D,G
+  15,L,D,G
+   8,R,D,G
    1,R,J,G
-  11,R,G
-
+   9,R,G
    1,L,G
    1,L
-   6,L,D
+   5,L,D
+   1,D
    5,L,J,Z
    7,R
    9,R,J
@@ -1164,4 +1165,4 @@ EndRepeat
    1,R,D
    1,J
    1
-ChapterTime: 2:32.133(8949)
+ChapterTime: 2:32.099(8947)
