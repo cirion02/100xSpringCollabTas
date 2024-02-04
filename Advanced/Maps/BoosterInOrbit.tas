@@ -1,0 +1,60 @@
+# Created by Dragon512
+
+console load SpringCollab2020/3-Advanced/Thegur90
+   1
+
+#Start
+  36
+#lvl_intro
+  19,R,J
+   6,R,X
+  40
+#lvl_1
+  12,R,J,G
+  12,R,K,G
+   1,J
+  11,R,J
+  12,R,K,G
+  12,R,J,G
+  10,K
+   5,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   1,R
+  40
+#lvl_2
+  18,R
+   6,U,X
+   1,J
+  12,L,J
+  10,L
+  15,L,J
+   5,R,Z
+  40
+#lvl_5
+   3
+   7,J
+   5,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   2,R
+  40
+#lvl_outro
+  12,R
+  35,R,J
+  15,U,X
+  24,R,U
+  15,U,X
+  29,D
+  14,R,D
+  17,L,X
+   3,J
+  17
+Repeat,51
+   1,D
+   1
+EndRepeat
+
+ChapterTime: 0:10.370(610)
