@@ -1,0 +1,163 @@
+#Made by Cirion02
+
+console load SpringCollab2020/3-Advanced/orbittwz
+   1
+
+#Start
+  54
+
+   7,R,U,X
+   1,J,G
+  21,D
+   6,R,D,X
+
+  40
+
+#lvl_02 (0)
+   7
+   2,L,J
+  15,U,X
+   5,R,U,C
+
+  40
+
+#lvl_04
+  14,D
+   5,L,D,X
+   1,J
+   8,L,K,G
+   8,L,J,G
+   6,L,K,G
+   1,L
+   1
+   2,J
+  11,R,J
+  10,L,K,G
+   5,R,D,X
+   1,L,J
+  21,R,D
+
+  40
+
+#lvl_02 (1)
+  20,R,D
+   5,R,Z
+   1,J,G
+   7,D
+   5,L,D
+  26,D
+   6,R,U,X
+   1,J,G
+   8,D
+   5,R,Z
+
+  40
+
+#lvl_03
+   1,J,G
+   7,D
+  20,L,D
+   7,R,U,Z
+
+  40
+
+#lvl_05
+   1
+   1,L,J
+   1,L,K
+  19,L
+  13,L,J
+  15,U,X
+   5,L,D,C
+   1,L,J
+   5,L,K,G
+   7,R,J
+   5,R,K
+  12,R,J
+   4,K,G
+
+  40
+
+#lvl_06
+   8,J,G
+  10,L,K
+  10,L,X
+   1,R,J
+   4,R
+   5,R,X
+   1,L,J
+  16,L
+   6,U,X
+
+  40
+
+#lvl_07 (0)
+  11
+  15,U,X
+  33,D
+   5,L,D,X
+   1
+   1,J
+   5,R
+  24,R,D
+   6,R
+  19,D
+   5,L,Z
+   2,L,J
+   3,L
+
+  40
+
+#lvl_08
+  13,L
+   5,L,U,X
+   2,J
+  12,R,K,G
+  12,L,J
+   6,R,X
+  12,L,J
+  15,L,U,X
+  12,D
+   6,R,D,X
+   1,R,J
+   8,R,K,G
+   1,R,J,G
+  14,R
+   1,R,J
+   3,R
+
+  40
+
+#lvl_07 (1)
+  11,R
+  11,R,J
+   2,R,J
+   6,L,K,G
+   1,K
+   1,L,J,G
+  13,L,K,G
+   5,U,Z
+   7,R,J
+  19,R,D
+  12,R,Z
+   4,R,J
+   6,R,K
+  52,R
+   1,R,D
+  40,D
+   7,R,Z
+   7,J,G
+   6,K,G
+  15,R,U,X
+  18,R,D
+
+  40
+
+#lvl_09
+  12,R
+   5,R,D,X
+  15,R,J
+   5,R,U,X
+ 135
+
+ChapterTime: 0:23.630(1390)
