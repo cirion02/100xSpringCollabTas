@@ -46,9 +46,9 @@ console load SpringCollab2020/3-Advanced/_sleepie
    6,L,D
    8,R,D
   15,R,Z
-  18,R,D
-  18,D
-   4,L
+  24,D
+   2,R,D
+   5,L
    5,R,Z
 
   40
@@ -61,7 +61,6 @@ console load SpringCollab2020/3-Advanced/_sleepie
    1,R,J
    7,D
   12,L,D
-
   11,R,D
    1,R,J
   10,R
@@ -98,4 +97,4 @@ console load SpringCollab2020/3-Advanced/_sleepie
    5,U,X
  135
 
-ChapterTime: 0:13.923(819)
+ChapterTime: 0:13.770(810)
