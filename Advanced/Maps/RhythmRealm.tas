@@ -1,0 +1,106 @@
+console load SpringCollab2020/3-Advanced/Ezel
+   1
+
+#Start
+ 190
+
+#lvl_Ezel_00
+  12,J
+   5,R,X
+   1,R,K
+  21,R
+   6,R,U,X
+   1,J,G
+   4,R
+   6
+   1,G
+   1,R,K,G
+  10,R,D
+   2,J
+  15,R,D,X
+Repeat,6
+  15,D,C
+  15,D,X
+EndRepeat
+  15,D,C
+   9,J
+   6,R,U,X
+   1,L,J
+  10,L
+   2,J
+   5,R,D,X
+  27
+   6,R,U,X
+   1,L,J
+  15,L,D
+
+
+   7,R
+   7,R,J
+  15,D,X
+# Lightning cycle
+   3
+   2,J
+   5,Z
+
+
+  40
+
+#lvl_Ezel_01
+   2
+  41,L,J
+   5,U,Z
+  15,R
+   5,R,D,X
+   3,R,J
+   7,R
+  17,R,J
+  12,R
+   9,R,Z
+
+  40
+
+#lvl_Ezel_02
+   6
+   5,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+  14,R
+  26,R,J
+  15,D,X
+   5,L,J,Z
+  15,L
+   1,L,J
+   6,L
+   2,L,J
+   7,J
+  20
+  12,D
+   5,R,D,X
+   1,R,J
+   7,L
+   5,L,J
+   5,L,D,X
+   1,L,J
+   4,L
+
+  40
+
+#lvl_Ezel_02b
+   8,L
+   3,L,J
+   3,J
+  21
+   5,U,Z
+  19,L,J
+  14,K,G
+   9,J,G
+   7,L
+   5,L,U,X
+   1,R,J
+  14,R
+   5,R,X
+   7,L,J
+   5,L,K
+  12,L,K,G
