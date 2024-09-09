@@ -1,3 +1,5 @@
+# Drafted by Cirion02 and LeafyLuna
+
 console load SpringCollab2020/3-Advanced/Ezel
    1
 
@@ -102,27 +104,22 @@ EndRepeat
   14,R
    5,R,X
    7,L,J
-***S
   13,L,K
 
   77
-***S
    5,R,J,Z
    7,R
    9,R,J
    5,R,X
 
   40
-
 #lvl_Ezel_03
    1
-***S
   64,G
    5,J,G
    1
    6,R,Z
    3,R,J,G
-***S
    2,R,J
    1,R
 
@@ -136,3 +133,94 @@ EndRepeat
   40
 
 #lvl_Ezel_04b
+   1
+   1,R,J,G
+   1,R,K,G
+   7,R
+   4,R,Z
+   8,R,J
+   5,R
+   4,R,J
+   6,R
+   3,R,J
+   8,R
+   7,D
+   5
+   5,R,Z
+   1,J,G
+   7,R
+   1,L
+   9,L,J
+   9,L
+   6,L,J
+   1,L,K,G
+   9,L,J,G
+  14,L
+   2
+   1,L,K,G
+  25,L,J,G
+  23,L
+   5,L,D
+   4,L
+   5,L,U,X
+   1,R,J
+   6,R,D
+   1,J
+  12,D
+   4,R,D
+   9,D
+  15,U,X
+  19,R
+  10,R,J
+   6,R,Z
+   1,J
+   2,L,K
+  12,L
+   7,R
+   1,L
+   3,R,D
+   1,L,D
+   1,R,D
+   1,R
+   1,D
+Repeat, 5
+   1,D
+   1,R,D
+EndRepeat
+   4,L,D
+   2,D
+  15,U,X
+   7,L
+  14,D
+  18,J
+   1,R,J
+   5,K,G
+   7,R,U,Z
+   3,L,J
+  96
+   1,L,J
+   1,L
+   6,L,D,X
+
+  40
+
+#lvl_Ezel_04
+   9
+  15,D,X
+   7,R
+  15,U,X
+  26,R,D
+   6,L,U,X
+   1,R,J
+  16,R,D
+   5,R,U,X
+
+  43
+
+#lvl_Ezel_05
+  11,J
+  10,L,D,X
+   1,L,J
+   8,K
+   7,L,D,X
+  70,L,J
