@@ -70,7 +70,7 @@ Read,Menuing/ExitLevel
 
 Read,Advanced/Lobby/CN-RR.tas,Start
 Read,Menuing/EnterLevel
-Read,Other/levelPlaceholder,Start
+Read,Advanced/Maps/RhythmRealm,Start
 Read,Menuing/ExitLevel
 
 #bruh
