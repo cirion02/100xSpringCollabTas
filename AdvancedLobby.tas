@@ -50,7 +50,7 @@ Read,Menuing/ExitLevel
 
 Read,Advanced/Lobby/nyo-FS.tas,Start
 Read,Menuing/EnterLevel
-Read,Other/levelPlaceholder,Start
+Read,Advanced/Maps/FerociousSactuary,Start
 Read,Menuing/ExitLevel
 
 Read,Advanced/Lobby/FS-Str.tas,Start
@@ -72,9 +72,6 @@ Read,Advanced/Lobby/CN-RR.tas,Start
 Read,Menuing/EnterLevel
 Read,Advanced/Maps/RhythmRealm,Start
 Read,Menuing/ExitLevel
-
-#bruh
-   2
 
 Read,Advanced/Lobby/RR-CC.tas,Start
 Read,Menuing/EnterLevel
