@@ -63,17 +63,7 @@ Read,Menuing/EnterLevel
 Read,Advanced/Maps/MuralSkies,Start
 Read,Menuing/ExitLevel
 
-Read,Advanced/Lobby/MS-CN.tas,Start
-Read,Menuing/EnterLevel
-Read,Other/levelPlaceholder,Start
-Read,Menuing/ExitLevel
-
-Read,Advanced/Lobby/CN-RR.tas,Start
-Read,Menuing/EnterLevel
-Read,Advanced/Maps/RhythmRealm,Start
-Read,Menuing/ExitLevel
-
-Read,Advanced/Lobby/RR-CC.tas,Start
+Read,Advanced/Lobby/MS-CC.tas,Start
 Read,Menuing/EnterLevel
 Read,Advanced/Maps/CrumblingCastle,Start
 Read,Menuing/ExitLevel
@@ -96,4 +86,14 @@ Read,Menuing/ExitLevel
 Read,Advanced/Lobby/SG-LC.tas,Start
 Read,Menuing/EnterLevel
 Read,Advanced/Maps/LucidCaverns,Start
+Read,Menuing/ExitLevel
+
+Read,Advanced/Lobby/LC-CN,Start
+Read,Menuing/EnterLevel
+Read,Advanced/Maps/CrimsonNight,Start
+Read,Menuing/ExitLevel
+
+Read,Advanced/Lobby/CN-RR,Start
+Read,Menuing/EnterLevel
+Read,Advanced/Maps/RhythmRealm,Start
 Read,Menuing/ExitLevel
