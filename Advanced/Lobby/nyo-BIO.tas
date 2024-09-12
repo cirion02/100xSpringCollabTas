@@ -1,7 +1,7 @@
 # SpringCollab2020
 # https://gamebanana.com/mods/1273559
 
-RecordCount: 14
+RecordCount: 36
 
 console load SpringCollab2020/0-Lobbies/3-Advanced 1840 144
 
@@ -11,24 +11,23 @@ console load SpringCollab2020/0-Lobbies/3-Advanced 1840 144
   36
    4,L,Z
    2,L,J
-  15,L
-   4,L,D
+  14,L
+   5,R,D,X
+   1,R,J
+   7,L,D
+   1,L,J
+  14,R,J
+   2,K
+   7,L,D,X
+   1,L,J
+   1,R,J
+   6,R,D
+   3,L,D
    5,L,D,X
    1,L,J
+  15,L,D
+   4,L,Z
+   1,L,J
    7,R,D
-  11,L,D
-   7,L,D,X
-   3,R,J
-   1,R
-   1,R,J
-   8,R
-   4,R,Z
-   5,R,J
-   7,R
-   1,R,J
-  33,R,D
-   4,R,Z
-   1,R,J
-  12,L
    1,X
-#0:02.074(122)
+#0:01.479(87)
