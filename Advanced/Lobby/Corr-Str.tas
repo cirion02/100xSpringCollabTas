@@ -1,11 +1,9 @@
-console load SpringCollab2020/0-Lobbies/3-Advanced 1840 144
+console load SpringCollab2020/0-Lobbies/3-Advanced 1672 168
    1
 
 #Start
   36
-   4,L,Z
    2,L,J
-  14,L
    5,R,D,X
    1,R,J
    7,L,D
@@ -29,4 +27,4 @@ console load SpringCollab2020/0-Lobbies/3-Advanced 1840 144
    5,R,K
   15,D,X
    1,N
-#0:03.876(228)
+#0:03.621(213)
