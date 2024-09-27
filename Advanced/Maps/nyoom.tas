@@ -84,38 +84,17 @@ console load SpringCollab2020/3-Advanced/NeoKat
   36,L,D,G
 
   77
-
-   8,D
-  12,J
-   5,R,Z
+***S
+   8,R,D
+   4,R,J
+   1,R,K,G
+   9,K
+   5,R,U,Z
 
   40
 
 #lvl_4 (1)
-   5,R,J
-   5,R,K,G
-
-#+13f
-#11,J
-#5,X,R
-#40
-#1,G,J
-#3
-#1,G,J,R
-#7,R
-#7,J,R
-
-#+3f
-#7,J
-#5,X,R
-#40
-#18,J,R
-
-   5,U,X
-   2,J
-  13,L,J
-  29,L
- 110,G
+  13,J
    5,R,X
    9
    1,J,G
@@ -133,4 +112,4 @@ console load SpringCollab2020/3-Advanced/NeoKat
    5,L,U,X
  135
 
-ChapterTime: 0:17.272(1016)
+ChapterTime: 0:14.807(871)
