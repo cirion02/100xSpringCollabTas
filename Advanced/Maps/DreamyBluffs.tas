@@ -96,7 +96,6 @@ console load SpringCollab2020/3-Advanced/taco360
    3,J
    5,U,Z
    1,J
-***S
   12,R,K,G
   15,R
   12,R,J
@@ -105,7 +104,6 @@ console load SpringCollab2020/3-Advanced/taco360
   40
 
 #lvl_taco360_berry
-***S
    1
    1,L,J
    8
@@ -123,11 +121,11 @@ console load SpringCollab2020/3-Advanced/taco360
    1,R,J
   22,R
    2
-***S
   12,R,J
   52,R,D
    5,R,U,X
-  38,D
+   1,J,G
+  25,D
    7,K,G
    4,R,K
   14,R
@@ -142,16 +140,25 @@ console load SpringCollab2020/3-Advanced/taco360
    1,J
   13,D
    5,L,D
+
+
+
+
   13,D
   27,L,U
-   9,F,20
-   7,F,30
-  15,F,90
-  20,F,135
-  21,F,90
-  63,F,87.5
+#0:15.980(940)
+
+  11,F,15
+  14,F,66.337
+   1,F,71.299
+  38,F,113.087
+   1,F,113.078
+  25,F,88.711
+  30,F,90.049
+
+   8,R
    5,U,X
-  32,R,D
+  33,R,D
   95
   18,L,D
    
@@ -306,4 +313,4 @@ console load SpringCollab2020/3-Advanced/taco360
  135
  
 
-FileTime: 1:00.996(3588)
+FileTime: 1:00.690(3570)
