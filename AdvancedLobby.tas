@@ -3,37 +3,27 @@ console load SpringCollab2020/0-Lobbies/3-Advanced
 
 #Start
 
-Read,Advanced/Lobby/Start-Sat.tas,Start
-Read,Menuing/EnterLevel
-Read,Advanced/Maps/Satellite,Start
-Read,Menuing/ExitLevel
-
-Read,Advanced/Lobby/Sat-DC.tas,Start
-Read,Menuing/EnterLevel
-Read,Advanced/Maps/TheDarkCore,Start
-Read,Menuing/ExitLevel
-
-Read,Advanced/Lobby/DC-TC.tas,Start
-Read,Menuing/EnterLevel
-Read,Advanced/Maps/TheClimb,Start
-Read,Menuing/ExitLevel
-
-Read,Advanced/Lobby/TC-DB.tas,Start
+Read,Advanced/Lobby/Start-DB, Start
 Read,Menuing/EnterLevel
 Read,Advanced/Maps/DreamyBluffs,Start
 Read,Menuing/ExitLevel
 
-Read,Advanced/Lobby/DB-ACP.tas,Start
+Read,Advanced/Lobby/DB-TC.tas,Start
 Read,Menuing/EnterLevel
-Read,Advanced/Maps/AboveCelestesPeak,Start
+Read,Advanced/Maps/TheClimb,Start
 Read,Menuing/ExitLevel
 
-Read,Advanced/Lobby/ACP-BIO.tas,Start
+Read,Advanced/Lobby/TC-DC.tas,Start
 Read,Menuing/EnterLevel
-Read,Advanced/Maps/BoosterInOrbit,Start
+Read,Advanced/Maps/TheDarkCore,Start
 Read,Menuing/ExitLevel
 
-Read,Advanced/Lobby/BIO-TS.tas,Start
+Read,Advanced/Lobby/DC-Sat.tas,Start
+Read,Menuing/EnterLevel
+Read,Advanced/Maps/Satellite,Start
+Read,Menuing/ExitLevel
+
+Read,Advanced/Lobby/Sat-TS.tas,Start
 Read,Menuing/EnterLevel
 Read,Advanced/Maps/ToxicSewers,Start
 Read,Menuing/ExitLevel
@@ -48,7 +38,17 @@ Read,Menuing/EnterLevel
 Read,Advanced/Maps/nyoom,Start
 Read,Menuing/ExitLevel
 
-Read,Advanced/Lobby/nyo-FS.tas,Start
+Read,Advanced/Lobby/nyo-ACP.tas,Start
+Read,Menuing/EnterLevel
+Read,Advanced/Maps/AboveCelestesPeak,Start
+Read,Menuing/ExitLevel
+
+Read,Advanced/Lobby/ACP-BIO.tas,Start
+Read,Menuing/EnterLevel
+Read,Advanced/Maps/BoosterInOrbit,Start
+Read,Menuing/ExitLevel
+
+Read,Advanced/Lobby/BIO-FS.tas,Start
 Read,Menuing/EnterLevel
 Read,Advanced/Maps/FerociousSactuary,Start
 Read,Menuing/ExitLevel
