@@ -306,10 +306,17 @@ console load SpringCollab2020/3-Advanced/taco360
   40
 
 #lvl_taco360_06
-  53,L,D
-  10,L,J
+  36,L,D
+   5,D,X
+   1,L,J,G
+   4,L
+   5,L,J
+   1
+   1
+   1,L,K,G
+  10,L,J,G
    5,R,U,X
  135
  
 
-FileTime: 0:52.989(3117)
+FileTime: 0:52.955(3115)
