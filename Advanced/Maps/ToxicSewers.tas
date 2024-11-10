@@ -19,7 +19,6 @@ console load SpringCollab2020/3-Advanced/Rufus
    8,J
   18,R,X
    4,R,J
-***S
   12,R,Z
    4,R,J
    6,R,K
@@ -34,7 +33,6 @@ console load SpringCollab2020/3-Advanced/Rufus
    1,J
   15,D
   17,L,D
-***S
   12,J
    5,K,G
    1,R,J
@@ -45,6 +43,7 @@ console load SpringCollab2020/3-Advanced/Rufus
    6,R,Z
 
   40
+
 #lvl_Rufus_02
    1
    5,R,J,G
