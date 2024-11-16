@@ -67,6 +67,10 @@ console load SpringCollab2020/3-Advanced/RealVet
   17,R
   15,U,X
   25,D
+
+# spinner cycle
+   2
+
    5,R,D,X
    1,L,J
   10,R
@@ -75,8 +79,6 @@ console load SpringCollab2020/3-Advanced/RealVet
    6,R,J
    8,L
    3,R
-
-
   12,R,J
    1,K,G
    5,R,K
@@ -89,19 +91,10 @@ console load SpringCollab2020/3-Advanced/RealVet
    1,R,J,G
    1,R,K,G
    9,R
-# This manip suck and is bad please help.
-   2,R,J
-   1,R
-   1,R,J
-   9
-   2,R
-   4
-   5,J
+   3,R,J
+   5,R,K
   16
-   1,R
-   5,J
-   2,R
-  15
+   1
    3,R,J
 
   40
@@ -323,4 +316,4 @@ console load SpringCollab2020/3-Advanced/RealVet
    5,L,D,X
  135
 
-ChapterTime: 0:40.460(2380)
+ChapterTime: 0:39.848(2344)
