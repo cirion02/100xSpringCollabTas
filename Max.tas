@@ -1,9 +1,19 @@
 unsafe
 
-Read, Menuing\StartFile
+Read, Menuing/StartFile
 
-Read, Other\prologue,Start
+Read, Other/prologue, Start 
 
-Read, Menuing\LoadBeginnerLobby
+Read, Menuing/LoadBeginnerLobby
 
-Read, BeginnerLobby,Start
+Read, BeginnerLobby, Start
+
+Read, Menuing/LoadLobbyFromHeartside
+
+Read, IntermediateLobby, Start
+
+Read, Menuing/RtmFromLobby
+
+Read, Menuing/LoadLobbyFromHeartside, SkipExit
+
+Read, AdvancedLobby, Start

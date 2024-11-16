@@ -3,7 +3,7 @@ console load SpringCollab2020/0-Lobbies/3-Advanced
 
 #Start
 
-Read,Advanced/Lobby/Start-DB, Start
+Read,Advanced/Lobby/Start-DB,Start
 Read,Menuing/EnterLevel
 Read,Advanced/Maps/DreamyBluffs,Start
 Read,Menuing/ExitLevel
