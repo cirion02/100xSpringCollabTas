@@ -63,7 +63,7 @@ console load SpringCollab2020/3-Advanced/RealVet
   28,D
    6,L,D
 #Spinner deload
-  10
+   6
    8,R,J
    6,R,U,X
    3,J,G
@@ -74,7 +74,7 @@ console load SpringCollab2020/3-Advanced/RealVet
   25,D
 
 # spinner cycle
-   0
+   1
 
    5,R,D,X
    1,L,J
