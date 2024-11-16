@@ -12,6 +12,7 @@ console load SpringCollab2020/3-Advanced/RealVet
 
   40
 
+#lvl_Room1 (0)
   10,R,J
    5,U,X
    3,R,J
@@ -33,6 +34,7 @@ console load SpringCollab2020/3-Advanced/RealVet
 
   40
 
+#lvl_Strawberry1
    4,L,J
    7,L,U,X
    1,J
@@ -48,6 +50,7 @@ console load SpringCollab2020/3-Advanced/RealVet
 
   40
 
+#lvl_Room1 (1)
    1,L,J
   11,L,D
    5,R,D,X
@@ -100,8 +103,10 @@ console load SpringCollab2020/3-Advanced/RealVet
    2,R
   15
    3,R,J
+
   40
 
+#lvl_Room2
   13,R,J
    6,J,G
    2,K,G
@@ -135,6 +140,7 @@ console load SpringCollab2020/3-Advanced/RealVet
 
   40
 
+#lvl_Room3 (0)
    1,J
    9,R,J
    2,R,D
@@ -161,6 +167,7 @@ console load SpringCollab2020/3-Advanced/RealVet
 
   40
 
+#lvl_Strawberry2
    1,J
   10
    5,U,X
@@ -178,6 +185,7 @@ console load SpringCollab2020/3-Advanced/RealVet
 
   40
 
+#lvl_Room3 (1)
    3,R
   15,D,X
   24,R
@@ -199,6 +207,7 @@ console load SpringCollab2020/3-Advanced/RealVet
 
   40
 
+#lvl_Room4
    1,R
   12,R,J
    6,R,U,X
@@ -226,6 +235,7 @@ console load SpringCollab2020/3-Advanced/RealVet
 
   40
 
+#lvl_Room5 (0)
    9,R
    7,R,U,C
    6,L,J
@@ -239,6 +249,7 @@ console load SpringCollab2020/3-Advanced/RealVet
 
   40
 
+#lvl_Strawberry3
    1,J
   18,D
   10,L,D
@@ -271,6 +282,7 @@ console load SpringCollab2020/3-Advanced/RealVet
 
   40
 
+#lvl_Room5 (1)
    5,R
   14,R,J
   32,R,D
@@ -304,6 +316,7 @@ console load SpringCollab2020/3-Advanced/RealVet
 
   40
 
+#lvl_EndRoom
    1
    1,R,J
   22,R
@@ -311,36 +324,3 @@ console load SpringCollab2020/3-Advanced/RealVet
  135
 
 ChapterTime: 0:40.460(2380)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
