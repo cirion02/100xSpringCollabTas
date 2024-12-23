@@ -8,7 +8,7 @@ console load SpringCollab2020/3-Advanced/Percussive
  190
 
 # spinner cycle
-   1
+   2
 
   87,L,X
 
@@ -27,9 +27,8 @@ console load SpringCollab2020/3-Advanced/Percussive
   40
 
 #lvl_Percussive_2
-  17,R
-   1,R,J
-   2,R
+   4,R
+  15,R,D,C
   18,D,X
   10,R,C
    4,L,J
@@ -55,8 +54,9 @@ EndStunPause
   10,R,D,X
    7,L,J
   15,D,X
+
 #spinner cycle
-   2
+   0
 
    5,R,U,C
 
@@ -65,7 +65,7 @@ EndStunPause
 #lvl_Percussive_3
    2,J
    1,L,K,G
-  12,L,J,G
+  11,L,J,G
   14,R,U,X
   10,L,K
 #spinner cycle
@@ -98,4 +98,4 @@ EndStunPause
 
  135
 
-ChapterTime: 0:14.943(879)
+ChapterTime: 0:14.841(873)
