@@ -96,7 +96,7 @@ console load SpringCollab2020/1-Beginner/Rue
   69,O
    1,R,J
   12,R
-   
+
    2
    1,R
   38,R,J
@@ -124,7 +124,7 @@ console load SpringCollab2020/1-Beginner/Rue
    7,R
   11,R,J
   11,R,K,G
-   
+
   40
 
 #lvl_Rue_01_Berry_01
@@ -143,11 +143,11 @@ console load SpringCollab2020/1-Beginner/Rue
   16,R,K
    6,R,J,G
   15,R
-  
+
   15,U,X
    6,D
   42,R,D
-  
+
    3,R,J
   24,R,D
   15,D
@@ -240,22 +240,22 @@ console load SpringCollab2020/1-Beginner/Rue
   29,F,160
   29,R,D
    5,R,U,X
-   
+
    1
-   
+
   40
 
 #lvl_Rue_04
    2
    1,J,G
   23,D
-  
+
    5,L,Z
    2,L,J,G
   10,L
    9,L,J
   56,L
-  
+
    4,R
   21,R,D
    1,R,J
@@ -263,7 +263,7 @@ console load SpringCollab2020/1-Beginner/Rue
    1,R,J
   14,R
    2,R,J
-  
+
   30,R
   20,R,D,J
    1,R,K,G
@@ -272,33 +272,33 @@ console load SpringCollab2020/1-Beginner/Rue
    9,L,D
   46,R,D
    5,R,Z
-  
+
   40
 
 #lvl_Rue_05
    1,S
    1,D,J
   69,O
-   
+
   16,R
   34,R,J
-  28,U,R
+  28,R,U
   42,F,27
    5,L,X
    1,R,J
   83
-  
-  #Cycles weh, plz help fix
-  6
-  
+
+#Cycles weh, plz help fix
+   6
+
   13
    1,R
    1,R,J
   47,R
-  
+
   26
    1,R,U
-   
+
   31,F,82.16
    1,F,87.217
   10,F,89.339
@@ -461,16 +461,16 @@ console load SpringCollab2020/1-Beginner/Rue
   14,R
    1,R,J
    9,R
-  
+
   40
-  
+
 #lvl_Rue_Outro
    1,R
    1,S
    1,D,J
   34
    5,R
-   
+
    1,R,J
   24,R
    2,R,J
@@ -502,7 +502,7 @@ console load SpringCollab2020/1-Beginner/Rue
    2,K,G
    5,L,K
    5,R,U,X
-   
+
  135
 
 #1:15.956(4468)

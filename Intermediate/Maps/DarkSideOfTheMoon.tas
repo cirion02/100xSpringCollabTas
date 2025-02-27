@@ -16,7 +16,7 @@ Set, CelesteTAS.CenterCamera, true
   18,R,J
    8,K,G
    5,R,X
-  
+
   40
 
 #lvl_Evilleafy_01
@@ -25,13 +25,13 @@ Set, CelesteTAS.CenterCamera, true
    5,U,X
 
   40
-  
+
 #lvl_Evilleafy_02
    5,R
    4
    2,L
    6,R,U,X
-   
+
   40
 
 #lvl_Evilleafy_03
@@ -42,7 +42,7 @@ Set, CelesteTAS.CenterCamera, true
   21,L,J
   15,L,D,X
    6,U,C
-   
+
   40
 
 
@@ -64,7 +64,7 @@ Set, CelesteTAS.CenterCamera, true
 
   40
 
-#lvl_Evilleafy_04 
+#lvl_Evilleafy_04
    3
    1,K
    7,J,G
@@ -86,7 +86,7 @@ Set, CelesteTAS.CenterCamera, true
    5,R,J,Z
    7,R
    4,R,J
-   
+
   40
 
 #lvl_Evilleafy_05

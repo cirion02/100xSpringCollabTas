@@ -7,7 +7,7 @@ console load SpringCollab2020/1-Beginner/iamdadbod
 #Start
 #lvl_totk_intro
   88
-  
+
    5,L,J
    2,L
    6,L,J
@@ -27,9 +27,9 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    8,R
   10,R,J
    5,R,X
-   
+
   40
-  
+
 #lvl_totk1
    1,J
    5,R,J
@@ -50,53 +50,53 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    7,R
    1,R,J
    7,R
-   
+
   40
-   
+
 #lvl_totk2
    7,L
-   
+
 #this is for fun bino storage it's actually a spinner cycle
    1,X
-   
+
    9,L,J
    5,R,Z
    1,K
    6,L,K
    1,J
-   1,G,K,L
-  13,G,J,L
-   8,G,K,L
-   4,J,R
+   1,L,K,G
+  13,L,J,G
+   8,L,K,G
+   4,R,J
   24,R,D
    7,D
-   6,X,R	
-   1,J,L
-  16,K,L
+   6,R,X
+   1,L,J
+  16,L,K
    2,J,G
-   1,K,R
-  11,J,R
-  23,D,R
-  
-  #3rd frame is for spinner cycle 
+   1,R,K
+  11,R,J
+  23,R,D
+
+#3rd frame is for spinner cycle
    3,J
-   
-  10,X,D,R
+
+  10,R,D,X
    4,L
-   1,J,R
-  12,K,L
-   5,X,U,R
+   1,R,J
+  12,L,K
+   5,R,U,X
 
   40
-   
+
 #lvl_totk3 (0)
-  
-  1,S
-  1,D,J
- 69,O
-  5,Z,J,R
- 
- 40
+
+   1,S
+   1,D,J
+  69,O
+   5,R,J,Z
+
+  40
 
 #lvl_totk_berry_1
    7,R
@@ -106,17 +106,17 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    1,R,K
    5,R,J
   19,R
-   
+
    6,L,J,Z
   15,L,D
-   
+
    7,D
-   5,X,D
-   1,J,L
-  42,D,L
-   2,J,L
+   5,D,X
+   1,L,J
+  42,L,D
+   2,L,J
    5,L,U,X
-  
+
 #+3f
 #  22,D
 #  35,L,D
@@ -129,9 +129,9 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    5,L,X
   51,L,G
    1,K
-   1,J,R
+   1,R,J
   22,R,K
-  
+
    5,U,X
   10
    5,R,X
@@ -142,17 +142,17 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    5,U,X
    6,R,J
    4,R
-   5,Z,R
-   1,J,R
+   5,R,Z
+   1,R,J
    7,R
-  14,J,R
+  14,R,J
    5,U,X
   31,D
    2,J
    5,R,X
 
   40
-  
+
 #lvl_totk4
   12,R,J,G
   10,K,G
@@ -166,7 +166,7 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    7,R
   15,L,J
    5,R,D,X
-  
+
   40
 
 #lvl_totk5
@@ -175,9 +175,9 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    3,R,K,G
   17,R
    5,R,U,Z
-  
+
   40
-   
+
 #lvl_totk_exit
   11,J
    5,L,U,Z
@@ -192,5 +192,5 @@ console load SpringCollab2020/1-Beginner/iamdadbod
    8,L,D
    5,R,Z
  135
- 
+
 #0:26.639(1567)

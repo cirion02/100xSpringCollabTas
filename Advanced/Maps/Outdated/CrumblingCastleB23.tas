@@ -2,129 +2,128 @@ console load SpringCollab2020/3-Advanced/Tortoise
    1
 
 #Start
-190
+ 190
 
-2,J,R
-8,R
-14,J,R
-5,X,R
-38,D,R
-1
-5,X,R
-85
+   2,R,J
+   8,R
+  14,R,J
+   5,R,X
+  38,R,D
+   1
+   5,R,X
+  85
 #82 frame delay for dumb cycle bullshit
-1,G
-63
-5,Z,R,U
-32,R,D
+   1,G
+  63
+   5,R,U,Z
+  32,R,D
 
-62
+  62
 
-5,X,U,R
+   5,R,U,X
 
-44
+  44
 
-15
-5,X,U
-26,R,D
-5,X,U,R
+  15
+   5,U,X
+  26,R,D
+   5,R,U,X
 
-332
+ 332
 
-10,X,L,J
-4,J,L
+  10,L,J,X
+   4,L,J
 #Reverge
-5,X,L
-15
-11,J
-6,X,D,L
-1
-1,C,R
-47
-5,X,R
-1,S
-1,D,J
+   5,L,X
+  15
+  11,J
+   6,L,D,X
+   1
+   1,R,C
+  47
+   5,R,X
+   1,S
+   1,D,J
 
-224
+ 224
 
-5,Z,R,J
-7,R
-5,R,J
-5,Z,U,R
+   5,R,J,Z
+   7,R
+   5,R,J
+   5,R,U,Z
 
-43
+  43
 
-1,S
-1,D,J
-72,O
+   1,S
+   1,D,J
+  72,O
 
-5,X,L,U
-43
-1,S
-1,D,J
-72,O
-10,R
-1,G
-63
-5,X,R,U
-13,R,D
-5,X,R,U
-1,J,L
-10,D,L
-2,J
-5,Z,R,D
-1,J,L
-7,L
-2,J,L
-5,X,L,D
-43
-3,J,L,G
-2,K,L,G
-2,J,L,G
-2,K,L,G
-2,J,L,G
-16,J,L
-4
-5,X,U
-10
-5,X,L
-22,R,D
-25,D
-96
-1,J,R
-30,R,D
-5,Z,R
-22,R,D
-8,D
-14,L,D
-5,Z,R
-70
+   5,L,U,X
+  43
+   1,S
+   1,D,J
+  72,O
+  10,R
+   1,G
+  63
+   5,R,U,X
+  13,R,D
+   5,R,U,X
+   1,L,J
+  10,L,D
+   2,J
+   5,R,D,Z
+   1,L,J
+   7,L
+   2,L,J
+   5,L,D,X
+  43
+   3,L,J,G
+   2,L,K,G
+   2,L,J,G
+   2,L,K,G
+   2,L,J,G
+  16,L,J
+   4
+   5,U,X
+  10
+   5,L,X
+  22,R,D
+  25,D
+  96
+   1,R,J
+  30,R,D
+   5,R,Z
+  22,R,D
+   8,D
+  14,L,D
+   5,R,Z
+  70
 ***
-14
-1,J,L
-12,L
-8
-1,L
-50
+  14
+   1,L,J
+  12,L
+   8
+   1,L
+  50
 
 #REWORK TO DO OTHER BERRY FIRST
 
-800
+ 800
 
 
-3,J,R
-16,R
-74
-5,X,D
-10
-5,X,R
-84,R,D
-4,D,J,R
-6,Z,R
-1,J,L,D
-15,L,D
-2,J
-2
-5,X,L
-5,C,U,L
-
+   3,R,J
+  16,R
+  74
+   5,D,X
+  10
+   5,R,X
+  84,R,D
+   4,R,D,J
+   6,R,Z
+   1,L,D,J
+  15,L,D
+   2,J
+   2
+   5,L,X
+   5,L,U,C

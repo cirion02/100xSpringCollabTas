@@ -2,7 +2,7 @@
 #optimised by Jules
 console load SpringCollab2020/1-Beginner/CANADIAN
    1
-	
+
 #Start
 #lvl_01
  190
@@ -30,7 +30,7 @@ console load SpringCollab2020/1-Beginner/CANADIAN
    6,R,X
 
   40
-  
+
 #lvl_03
    9
   14,R,U,X
@@ -51,7 +51,7 @@ console load SpringCollab2020/1-Beginner/CANADIAN
    5,R,U,X
 
   40
-  
+
 #lvl_05 (0)
   25,R,D
   17,D
@@ -74,7 +74,7 @@ console load SpringCollab2020/1-Beginner/CANADIAN
    6,R,D,Z
 
   40
-   
+
 #lvl_05 (1)
    1,J,G
   20,D
@@ -98,7 +98,7 @@ console load SpringCollab2020/1-Beginner/CANADIAN
    5,R,X
 
   40
-  
+
 #lvl_07
    1
    2,R,J

@@ -156,7 +156,7 @@ console load SpringCollab2020/3-Advanced/taco360
   33,R,D
   95
   18,L,D
-   
+
    1,Q
    1,J
   30
@@ -177,7 +177,7 @@ console load SpringCollab2020/3-Advanced/taco360
    1,R,K,G
   10
    5,U,X
-  
+
   40
 
 #lvl_taco360_03
@@ -331,6 +331,6 @@ AnalogMode, Ignore
   10,L,J,G
    5,R,U,X
  135
- 
+
 
 FileTime: 0:52.853(3109)

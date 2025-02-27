@@ -19,26 +19,26 @@ console load SpringCollab2020/1-Beginner/Skeleton
    9,L,J
    9,L
    4,R
-   3,J,R
+   3,R,J
    5,R,D,X
-   
-  # 4,R
-  # 5,U,X
-  # 1,J
-  #23,L,D
-  # 7,L,J
-  # 5,R,D,X
-   
+
+# 4,R
+# 5,U,X
+# 1,J
+#23,L,D
+# 7,L,J
+# 5,R,D,X
+
   40
- 
+
 
 #lvl_skeleton2_01
 
-  # 3,R,K
-  #21,R,J,G
-  #13,R,D
-  #16,D
-  
+# 3,R,K
+#21,R,J,G
+#13,R,D
+#16,D
+
    1,J
   35,D
    7,R,Z
@@ -80,22 +80,22 @@ EndRepeat
    5,L,D,X
    1,L,J
 
-  #+2f
-  # 7,L
-  # 6,J,L
-  #10,L
-  #10,K,G,L
-  # 5,X,R
+#+2f
+# 7,L
+# 6,J,L
+#10,L
+#10,K,G,L
+# 5,X,R
 
-  #+2f
-  #10,L
-  # 5,L,J
-  # 8,L
-  # 1,J,G,L
-  # 6,K,G,L
-  # 3,J,R
-  # 5,R,X   
-   
+#+2f
+#10,L
+# 5,L,J
+# 8,L
+# 1,J,G,L
+# 6,K,G,L
+# 3,J,R
+# 5,R,X
+
    7,L
   22,L,J
    2,R,K
@@ -149,7 +149,7 @@ EndRepeat
    5,R,U,Z
 
   40
-  
+
 #lvl_skeleton2_03 (1)
   11
    5,R,U,X
@@ -264,7 +264,7 @@ EndRepeat
    5,L,D,X
    5
    1,J
-   4,G,K
+   4,K,G
    5,L,U,X
    1
    1,J
@@ -286,7 +286,7 @@ EndRepeat
    1,L,D,J
    5,L
    3,D
-  21,D,L
+  21,L,D
 
   40
 
@@ -314,5 +314,5 @@ EndRepeat
    5,L,J
    5,L,U,X
  134
- 
+
 #0:42.126(2478)

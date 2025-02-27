@@ -6,7 +6,7 @@ console load SpringCollab2020/2-Intermediate/Noax
 #Start
 #lvl_Noax_00
  190
- 
+
    8,J
    6,L,U,X
    1,J,G
@@ -50,9 +50,9 @@ console load SpringCollab2020/2-Intermediate/Noax
    3,K,G
    6,R,J,G
    5,R,D,X
-  
+
   40
-  
+
 #lvl_Noax_01 (1)
    1,R,J
    7,R
@@ -77,9 +77,9 @@ console load SpringCollab2020/2-Intermediate/Noax
    1,J,G
   27,R,X
    5,R,D,C
-   
+
   40
- 
+
 #lvl_Noax_02 (0)
   10
   28,U,X
@@ -89,15 +89,15 @@ console load SpringCollab2020/2-Intermediate/Noax
    5,L,D,C
    1,J
    2,K,G
-   
+
   40
-   
+
 #lvl_Noax_S02
    7,J,G
    5,U,X
-   
+
   40
-  
+
 #lvl_Noax_02 (1)
    1,J,G
   19,D
@@ -109,9 +109,9 @@ console load SpringCollab2020/2-Intermediate/Noax
    3,R,K
   20,U,X
    5,U,C
-  
+
   40
-  
+
 #lvl_Noax_03
 
 #spinner cycle
@@ -149,9 +149,9 @@ console load SpringCollab2020/2-Intermediate/Noax
   11,R
    1,R,J
    9,R
-   
+
   40
-  
+
 #lvl_Noax_04
    8,R
    5,U,X
@@ -223,7 +223,7 @@ console hide_message cc
 
 #spinner cycle
    1
-   
+
    5,U,X
   10
   17,R
@@ -240,7 +240,7 @@ console hide_message cc
   15,L,U,X
 
   40
-  
+
 #lvl_Noax_05
    1
   69,O
@@ -255,7 +255,7 @@ console hide_message cc
    1,L,J
   13,R,J
    5,U,X
-   
+
  135
- 
+
 ChapterTime: 0:39.627(2331)
