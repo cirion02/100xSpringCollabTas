@@ -1,4 +1,5 @@
-#Made by Jules
+# Made by Jules
+# Optimized by Cirion02
 
 console load SpringCollab2020/3-Advanced/Galaksyz
    1
@@ -11,23 +12,22 @@ console load SpringCollab2020/3-Advanced/Galaksyz
   40
 
 #lvl_Galaksyz_01 (0)
-***S
    2
-   1,L,J
-  10,L
-   6
-   5,R,U,Z
+   1,J
+  28,D
+   5
+   5,R,U,X
 
   40
 
 #lvl_Galaksyz_01b (0)
-   1,S
-   1,D,J
-  69,O
-
-   1,R,J
-  20,R,D
-  13,D
+  14,L
+   5,R,D,X
+   4,L,J
+   9,L
+   1,X
+  11,L,D
+  14,D
 
   40
 
@@ -72,7 +72,7 @@ console load SpringCollab2020/3-Advanced/Galaksyz
    6,J,G
    8,R,K
 #changing this 6R to within 5-8 work but may be needed for hitbox cycles
-   6,R
+   5,R
    5,R,X
   19,R,G
    6,L,X
@@ -174,4 +174,4 @@ console load SpringCollab2020/3-Advanced/Galaksyz
    5,L,U,X
  135
 
-ChapterTime: 0:27.302(1606)
+ChapterTime: 0:26.724(1572)
