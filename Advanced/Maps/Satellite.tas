@@ -1,4 +1,5 @@
 #Created by Cirion02
+#Optimised by Jules
 
 console load SpringCollab2020/3-Advanced/BeefyUncle
    1
@@ -50,11 +51,9 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
    5,L,J,Z
   14,L,D
 
-
-
   40
 
-#lvl_beefy_03 (1)
+#lvl_beefy_03
    1,L,D
    1,L,J
   14,L
@@ -85,11 +84,19 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
 
 #lvl_beefy_05
    1
+
    5,L,J
    5,L
   30,R
    5,L,U,X
-  43,R,D
+
+   1
+# Spinner Cycle
+   1
+# Spinner Cycle
+
+   1,K
+  27,R,D
    5,L,D,X
    1,L,J
   18,L,D
@@ -129,4 +136,4 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
    5,L,X
  135
 
-ChapterTime: 0:19.261(1133)
+ChapterTime: 0:19.040(1120)
