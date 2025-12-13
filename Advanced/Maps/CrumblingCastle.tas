@@ -5,19 +5,25 @@ console load SpringCollab2020/3-Advanced/Tortoise
 
 #Start
  190
-
+***S
 #lvl_ATortoise_Intro
    2,R,J
    8,R
   14,R,J
    5,R,X
   38,R,D
+   1,J
    1
-   5,R,X
-  85
-#82 frame delay for dumb cycle bullshit
-   1,G
+   5,R,D,X
+   1,J
+   5,G
   63
+***S
+   1,R,D,J
+   4,R
+   1,R,D,J
+   6,R
+   2,R,J
    5,R,U,Z
   31,R,D
 
@@ -264,4 +270,4 @@ console load SpringCollab2020/3-Advanced/Tortoise
 
  135
 
-ChapterTime: 0:53.363(3139)
+ChapterTime: 0:52.258(3074)
