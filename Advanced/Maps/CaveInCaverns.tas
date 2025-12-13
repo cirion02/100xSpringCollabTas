@@ -36,22 +36,28 @@ console load SpringCollab2020/3-Advanced/Spoopy
    1,S
    1,D,J
   69,O
+***S
+  10,R,J,Z
+  14,R
+   1,R,J
+  12,R
+   6,R,D,X
 
-   5,R,Z
-  10
-   1,J,G
-   3,R,J
-   5,J
-   1,R,J
-   1,L,J
-   1,R,J
-  10,R,K,G
-  13,R,D
-   1,L,J
-   5,D,X
-  10
-   2,R,J
-   5,R,D,X
+#    5,R,Z
+#   10
+#    1,J,G
+#    3,R,J
+#    5,J
+#    1,R,J
+#    1,L,J
+#    1,R,J
+#   10,R,K,G
+#   13,R,D
+#    1,L,J
+#    5,D,X
+#   10
+#    2,R,J
+#    5,R,D,X
    1,L,J
    9,L,D
    5,D,X
@@ -331,4 +337,4 @@ console load SpringCollab2020/3-Advanced/Spoopy
 
  135
 
-ChapterTime: 0:45.373(2669)
+ChapterTime: 0:44.914(2642)
