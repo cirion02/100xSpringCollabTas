@@ -68,11 +68,10 @@ console load SpringCollab2020/3-Advanced/Spoopy
   40
 #lvl_spoopy_02 (1)
    2
-
+***S
 # spinner cycle
-   1
+   2
 
-   1,J
   22,D
    5,L,D,X
    1,L,J
@@ -120,40 +119,33 @@ console load SpringCollab2020/3-Advanced/Spoopy
    7,R,K
    1,J,G
    3,R,J
-   5,J
+***S
+   4,J
    1,R,J
-   1,L,J
+   5,L,K
+   5,U,X
+  17,L,D
+
+  10,R,D
+# waiting for block to move
+   9
    1,R,J
-  13,R,K,G
+  10,R
+   5,L,D,X
    1,R,J
-   7,R,K
-   7,L,K
-   1,J,G
-   3,L,J
-   5,J
-   1,L,J
-   1,R,J
-   1,L,J
-  14,L,K,G
-  13,J,G
-   6,R,K
-   5,L,X
-   2
-   1,R,J
-  23,R,D
-   5,R,J,Z
-   7,R
-   1,R,J
-   7,R
-   5,D,X
-  10
-  10,L
-   1,L,J
+   5,L
+   1,J
+   6
+  26,L
+
+***S
    5,R,U,X
    2
-   1,J,G
-   7,D
-  10,R
+   2,J,G
+   7
+   2,R
+   8,R,J
+   2,R
    5,R,Z
 
   40
@@ -189,6 +181,10 @@ console load SpringCollab2020/3-Advanced/Spoopy
    5,R,Z
    1,R,J
  112
+
+# spinner cycle
+   1
+
    9,L
    5,R,J,Z
    7,L
@@ -214,6 +210,7 @@ console load SpringCollab2020/3-Advanced/Spoopy
   16,R
    1,R,J
   21,R
+# spinner cycle is here
    5,R,U,X
    1,L,J
    1,L,K
@@ -315,4 +312,4 @@ console load SpringCollab2020/3-Advanced/Spoopy
 
  135
 
-ChapterTime: 0:43.826(2578)
+ChapterTime: 0:43.061(2533)
