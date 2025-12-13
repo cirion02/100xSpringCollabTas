@@ -14,7 +14,6 @@ console load SpringCollab2020/3-Advanced/Cookie
   40
 
 #lvl_CookieC_1
-***S
    9,R,J,G
    7,R,U,X
    1,J
@@ -114,7 +113,6 @@ console load SpringCollab2020/3-Advanced/Cookie
    1,K,G
    3,R,K
    4,L,U,X
-***S
 StunPause
    1,L,U
 SkipInput, 3
@@ -217,7 +215,6 @@ EndStunPause
   40
 
 #lvl_CookieC_5
-***S
   11,R
   22,R,Z
    6,R,U,X
@@ -227,14 +224,12 @@ EndStunPause
   14,R,D
   75,R,J,G
    5,U,Z
-***S
   63,R,J
    5,R,K,G
   10,R
   11,R,J,G
   10,R,D,X
   13,L,J
-***S
    6,R,U,X
    1,R,J,G
 # this stall is for spinners
