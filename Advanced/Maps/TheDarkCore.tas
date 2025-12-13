@@ -1,19 +1,17 @@
 #Created by Cirion02
 # Spike Climb by Bred
-
+# Optimised by Jules
 console load SpringCollab2020/3-Advanced/RealVet
    1
 
 #Start
  190
-
    5,L,J,Z
    7,L
    3,R,J
    5,R,D,X
 
   40
-
 #lvl_Room1 (0)
   10,R,J
    6,U,X
@@ -42,7 +40,8 @@ console load SpringCollab2020/3-Advanced/RealVet
    7,L,U,X
    1,J
    6,R,D
-  17,L,D
+  15,L,D
+   1,L,J
   12,L,D,X
    3,J
    6,R,D,X
@@ -53,7 +52,6 @@ console load SpringCollab2020/3-Advanced/RealVet
    6,R,U,X
 
   40
-
 #lvl_Room1 (1)
    1,L,J
   11,L,D
@@ -62,7 +60,7 @@ console load SpringCollab2020/3-Advanced/RealVet
   28,D
    6,L,D
 #Spinner deload
-   6
+   7
    8,R,J
    6,R,U,X
    3,J,G
@@ -72,13 +70,13 @@ console load SpringCollab2020/3-Advanced/RealVet
   15,U,X
   25,D
 
-# spinner cycle
-   1
+# spinner cycle # Purpose??
+   0
 
    5,R,D,X
    1,L,J
-  10,R
-   6,R,J
+   7,R
+   7,R,J
    5,U,Z
    6,R,J
    8,L
@@ -189,16 +187,18 @@ console load SpringCollab2020/3-Advanced/RealVet
 #lvl_Room3 (1)
    3,R
   15,D,X
-  24,R
+   2,R,J
+  20,R,D
+#  24,R
    5,R,X
    1,R,J,G
    5,R
    8,L
   13,D
    5,R,U,X
-   1,J
+   1,J,G
   30,L,D
-  13,D
+  14,D
    5,R,D,X
    1,R,J
    9,R
@@ -237,7 +237,7 @@ console load SpringCollab2020/3-Advanced/RealVet
    9,R
 
 #spinner cycle
-   1
+   0
 
    7,R,U,C
    6,L,J
@@ -245,6 +245,7 @@ console load SpringCollab2020/3-Advanced/RealVet
    5,U,X
   10,L,J
    5,L,Z
+
   12,J,G
    8,L,K,G
    6,L,D,X
@@ -323,4 +324,4 @@ console load SpringCollab2020/3-Advanced/RealVet
    5,L,D,X
  135
 
-ChapterTime: 0:37.468(2204)
+ChapterTime: 0:37.383(2199)
