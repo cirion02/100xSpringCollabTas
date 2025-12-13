@@ -1,22 +1,26 @@
 #Created by Cirion02
 
-RecordCount: 518
-
 console load SpringCollab2020/3-Advanced/Dozing
    1
 
 #Start
  190
+
+#lvl_Dozing_01
    9,J
    6,R,Z
 
   40
+
+#lvl_Dozing_02
    1
 
   12,J
    5,R,Z
 
   40
+
+#lvl_Dozing_03
    1
    1,L,J
   16,L,D
@@ -41,6 +45,7 @@ console load SpringCollab2020/3-Advanced/Dozing
 
   40
 
+#lvl_Dozing_04
    3
    1,L,J
   31,L,D
@@ -105,6 +110,7 @@ console load SpringCollab2020/3-Advanced/Dozing
 
   40
 
+#lvl_Dozing_05
    1
   72,O
   13,R,J,Z
@@ -142,6 +148,7 @@ EndStunPause
 
   40
 
+#lvl_Dozing_06
   69
    5,L
    3,L,J
@@ -151,6 +158,7 @@ EndStunPause
 
   40
 
+#lvl_Dozing_07
    1
   72,O
 
