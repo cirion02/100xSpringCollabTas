@@ -19,7 +19,6 @@ console load SpringCollab2020/3-Advanced/Dozing
    5,R,Z
 
   40
-
 #lvl_Dozing_03
    1
    1,L,J
@@ -28,13 +27,11 @@ console load SpringCollab2020/3-Advanced/Dozing
    2,J
   18,R,X
    4,R,J
-   9,R,K
-  18,R,Z
+   6,R,K
+  19,R,Z
    4,R,J
   33,R
    6,R,U,X
-
-
 
    1,J
    9,R,J
@@ -115,11 +112,11 @@ console load SpringCollab2020/3-Advanced/Dozing
   72,O
   13,R,J,Z
   37
-  27,U,X
+  26,U,Z
    9,D
-  30,R,D
+  31,R,D
    5,U,X
-  13,R
+  12,R
   37
   12,L,U,Z
    4,L,J
@@ -127,10 +124,11 @@ console load SpringCollab2020/3-Advanced/Dozing
    3,L
   15,L,C
   16,R,D
-  81,R
-  19,R,J,Z
-  18,R
-  40,U,X
+  76,R
+   1,R,J
+  21,R,K,Z
+  16,R
+  41,U,X
 StunPause, Input
    3
 SkipInput,3
@@ -173,4 +171,4 @@ EndStunPause
    5,R,U,X
  135,L,J
 
-ChapterTime: 0:28.985(1705)
+ChapterTime: 0:28.883(1699)
