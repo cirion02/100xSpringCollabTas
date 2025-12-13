@@ -8,28 +8,36 @@ console load SpringCollab2020/3-Advanced/Spoopy
 ***S
 
 #lvl_spoopy_01
-   2,J
-  15,R,D,X
-  15,U,C
-   5,R,Z
-   1,R,J
-   2,R
-   2,R,J
-   5,R
-   4,X
-   1,R,D,X
-   4,R,J
-   2,R
-   2,R,J
-  10,R
-   5,R,Z
+   8,R,U,X
+
+# Retry strats is faster by 5 frames, if you can safe 5f here it's faster
+#   2,J
+#   15,R,D,X
+#   15,U,C
+#    5,R,Z
+#    1,R,J
+#    2,R
+#    2,R,J
+#    5,R
+#    4,X
+#    1,R,D,X
+#    4,R,J
+#    2,R
+#    2,R,J
+#   10,R
+#    5,R,Z
+
 
   40
 
 #lvl_spoopy_02 (0)
+# cantpause moment
+   4
+   1,S
+   1,D,J
+  69,O
 
-  25,D
-   5,R,D,Z
+   5,R,Z
   10
    1,J,G
    3,R,J
@@ -323,4 +331,4 @@ console load SpringCollab2020/3-Advanced/Spoopy
 
  135
 
-ChapterTime: 0:45.458(2674)
+ChapterTime: 0:45.373(2669)
