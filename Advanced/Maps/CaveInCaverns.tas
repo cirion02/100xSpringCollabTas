@@ -42,28 +42,14 @@ console load SpringCollab2020/3-Advanced/Spoopy
    1,R,J
   12,R
    6,R,D,X
-
-#    5,R,Z
-#   10
-#    1,J,G
-#    3,R,J
-#    5,J
-#    1,R,J
-#    1,L,J
-#    1,R,J
-#   10,R,K,G
-#   13,R,D
-#    1,L,J
-#    5,D,X
-#   10
-#    2,R,J
-#    5,R,D,X
+***S
+   8
    1,L,J
-   9,L,D
    5,D,X
   10
-   5,R,U,Z
-  30,D
+   5,R,U,X
+   1,J,G
+  16,D
    5,R,Z
   40
 
@@ -95,6 +81,11 @@ console load SpringCollab2020/3-Advanced/Spoopy
   40
 #lvl_spoopy_02 (1)
    1
+***
+
+# spinner cycle
+   1
+
    1,J
   22,D
    5,L,D,X
@@ -111,6 +102,7 @@ console load SpringCollab2020/3-Advanced/Spoopy
 #lvl_spoopy_04 (0)
    1
    1,L,J
+# spinner cycle is here
   27,R,D
    5,L,Z
    1,L,J,G
@@ -337,4 +329,4 @@ console load SpringCollab2020/3-Advanced/Spoopy
 
  135
 
-ChapterTime: 0:44.914(2642)
+ChapterTime: 0:44.693(2629)
