@@ -234,10 +234,10 @@ EndStunPause
   11,R,J,G
   10,R,D,X
   13,L,J
-   6,R,U,Z
-#0:25.857(1521)
-
+***S
+   6,R,U,X
    1,R,J,G
+# this stall is for spinners
   16,G
    1
    5,R,J
@@ -245,10 +245,9 @@ EndStunPause
    1,R,J
    1,K
    1,J
-  19,L,J
-   7,R,U,X
-   1,L,J
-  37,L,D
+  27,R,J
+   5,R,X
+  10,J,G
    6,R,U,X
    1,L,J
   32,L,D
@@ -307,4 +306,4 @@ EndStunPause
    1,L,J
   85,L
 
-ChapterTime: 0:36.703(2159)
+ChapterTime: 0:36.431(2143)
