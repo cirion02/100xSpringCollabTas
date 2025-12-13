@@ -43,10 +43,8 @@ console load SpringCollab2020/3-Advanced/Galaksyz
   40
 
 #lvl_Galaksyz_01b (1)
-***S
   11,L,D
    5,R,D,X
-
    1,L,J
    7,L
    2,L,J
@@ -61,7 +59,6 @@ console load SpringCollab2020/3-Advanced/Galaksyz
   22,D
    5,L,X
   37,L
-
    4,F,200
    2,F,250
   12,F,270
@@ -113,7 +110,6 @@ console load SpringCollab2020/3-Advanced/Galaksyz
    7
    1,J
    2,K
-***S
    5,D,X
    1,J
   16,D
@@ -140,7 +136,6 @@ console load SpringCollab2020/3-Advanced/Galaksyz
    9,R,X
    3,J,G
    9,L,K
-***S
    5,L,Z
   16,R,J
    5,R,X
@@ -149,7 +144,6 @@ console load SpringCollab2020/3-Advanced/Galaksyz
   40
 
 #lvl_Galaksyz_05
-***S
    1
   12,R,J
   10,R,X
