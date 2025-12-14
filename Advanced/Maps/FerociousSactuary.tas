@@ -128,34 +128,31 @@ EndRepeat
 ***S
   22,D
    3,R,D
-   1,R
    1,R,D
    1,R,D
-   1,R
+   1,R,D
+   1,R,D
    5,R,Z
    1,R,J
-   7,R
-   1,R,J
-   1,R
+   9,R
+   5,L,J,Z
+   7,L
+   7,L,J
+   5,R,D,X
 
   40
 
 #lvl_iamdadbod_5
-  14,R
-   5,R,X
-   6,R,J
-   3,R,D
-  19,L,D
-   7,R,X
-   1,L,J
-   8,L,K
+   1
+   1,R,J
+   9,L,K
    6,R,X
    1,J
   21,D
    7,R,U,X
 
 #Spinner Cycle
-   2
+   0
 #
 
    1,J
@@ -226,4 +223,4 @@ EndStunPause
   13,L,D,X
   50,R,J
   75,R,X
-ChapterTime: 0:34.544(2032)
+ChapterTime: 0:34.034(2002)
