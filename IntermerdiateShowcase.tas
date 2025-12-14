@@ -1,8 +1,8 @@
 unsafe
 
-Read, Menuing\StartFile
+Read, Menuing/StartFile
 
-Read, Other\prologue,Start
+Read, Other/prologue,Start
  180
   11
    1,R
