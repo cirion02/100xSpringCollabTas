@@ -35,14 +35,20 @@ console load SpringCollab2020/3-Advanced/iamdadbod
    8,L,J
   14,L
   15,R,U,X
-  15,L,U,C
-  10,R,D
-   1
-  48,D
-   1
-   2,R,D
+   5,L,U,C
+   1,J,G
+   5,D
+   3,R,D
+   3,D
+   1,R,D
    2,D
+   1,R,D
+   1,R,D
+  11,D
+Repeat, 9
+   3,D
    1
+EndRepeat
    6,R,Z
    1,J
   24,R,J
@@ -82,7 +88,7 @@ console load SpringCollab2020/3-Advanced/iamdadbod
    6,R,U,C
 
 # spinner cycle
-   1
+   0
 
    1,L,J
   55,D
@@ -229,4 +235,4 @@ EndStunPause
   13,L,D,X
   50,R,J
   75,R,X
-ChapterTime: 0:39.440(2320)
+ChapterTime: 0:39.236(2308)
