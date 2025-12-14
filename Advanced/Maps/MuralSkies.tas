@@ -19,24 +19,22 @@ console load SpringCollab2020/3-Advanced/LinjKarma
 
 #lvl_1
   15,R,U,X
-   9,D
-   5,L,D,X
-   2,R,J
+  15,D,C
+   1,R,J
 
   40
 
 #lvl_3
-  10,R,J
-  41,R,X
+   1,R,J
+  42,R,X
   15,R,U,C
-   9,D
-   5,L,D,X
-   2,R,J
+  15,D,X
+   1,R,J
 
   40
 
 #lvl_4
-   8,R,J
+   1,R,J
   15,R,U,X
    5,R,D,C
 
@@ -100,4 +98,4 @@ console load SpringCollab2020/3-Advanced/LinjKarma
 
  147
 
-ChapterTime: 0:18.360(1080)
+ChapterTime: 0:18.105(1065)
