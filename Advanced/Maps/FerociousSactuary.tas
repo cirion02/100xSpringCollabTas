@@ -22,7 +22,6 @@ console load SpringCollab2020/3-Advanced/iamdadbod
   40
 
 #lvl_iamdadbod_1
-***S
    1,L,K
    1,L,J
   11,L
@@ -30,7 +29,6 @@ console load SpringCollab2020/3-Advanced/iamdadbod
   45
   15,D
   20,R,X
-***S
    5,L,Z
    8,L,J
   14,L
@@ -64,9 +62,8 @@ EndRepeat
   12,J
    5,R,Z
 
-
   40
-***S
+
 #lvl_iamdadbod_2
   10,R,J
    7,R,U,X
@@ -83,11 +80,8 @@ EndRepeat
   40
 
 #lvl_iamdadbod_3
-***S
    2,L,J
   15,U,X
-
-
    8,R,C
    1,J
   12,L,D
@@ -106,7 +100,6 @@ EndRepeat
   40
 
 #lvl_iamdadbod_4
-***S
    1,R
   12,L,J
    5,R,X
@@ -125,7 +118,6 @@ EndRepeat
    4,L
    6,R,U,X
    1,J,G
-***S
   22,D
    7,R,D
    5,R,Z
@@ -146,10 +138,6 @@ EndRepeat
    1,J
   21,D
    7,R,U,X
-***S
-
-# spinner cycle
-
    1,J,G
   27,R,D
    2,D
@@ -163,7 +151,6 @@ EndRepeat
    2,R,J,G
    8,R
    8,J
-***S
    5,L,D,X
    4,R,J
    9,R
