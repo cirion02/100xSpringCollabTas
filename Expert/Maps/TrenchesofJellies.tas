@@ -1,7 +1,10 @@
+# Created by Random_Name7190
+# Optimised by Dragon512
+
 # SpringCollab2020
 # https://gamebanana.com/mods/150813
 
-RecordCount: 1198
+RecordCount: 1357
 
 console load SpringCollab2020/4-Expert/Mun
    1
@@ -83,23 +86,26 @@ console load SpringCollab2020/4-Expert/Mun
    5,U,X
    1,J
   10,R,D
-  11,D
-  14,R,D
-   5,R,J,G
-  19,R
-  11,L,D
+  12,D
+  13,R,D
+   3,R,J,G
+  16,R
+  14,D
+   3,R,D
   45,R,U,G
-   9,D
-  50,U,J,G
-  13,R,G
-  31,L,U,J,G
+   7,D
+   5,J,G
+  25,U,G
+  12,R,G
+  32,L,U,J,G
+   1,L,D,J,G
    1,L,D
-   8,L,G
+   6,L,G
   35,R,J,G
   23,R,J
    5,U,X
    1,R,J
-  28,R,D
+  29,R,D
    1,L,G
   20,D
    1
@@ -107,18 +113,20 @@ console load SpringCollab2020/4-Expert/Mun
    5,R,U,X
    1
    1,J
-   8
-   4,L,D
-  18,R,D
-  37,R,J,G
-  12,R,K,G
+   7
+   3,L
+# Tried to manip dcb here, couldn't get it to work but feel free to try
+  19,R,D
+   8,R,J,G
+  22,R
+   7,R,J,G
   21,R
-  52,L,U,G
-   9
+  51,L,U,G
+   8
   15,R,X
    2,R,J,G
-  15,R,D
-   6,D
+  15,R
+   6
   47,R,J
    5,U,X
    1,J
@@ -128,6 +136,7 @@ console load SpringCollab2020/4-Expert/Mun
    9,R
    5,R,J,Z
    3,R
+
   40
 
 #lvl_3 (0)
@@ -340,7 +349,6 @@ EndRepeat
   21,D,G
    1,L
   16,D
-
    5,R,U,X
   16,G
    1,L,J
@@ -374,4 +382,4 @@ EndRepeat
  138
 
 
-ChapterTime: 1:14.953(4409)
+ChapterTime: 1:14.341(4373)
