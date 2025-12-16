@@ -1,4 +1,5 @@
-#created by Jules
+# created by Jules
+# optimized by Cirion02
 
 console load SpringCollab2020/3-Advanced/Bissy
 
@@ -44,4 +45,4 @@ ChapterTime: 0:05.610(330)
 # Outro = 123f
 # Screentransition = 160f
 # Waiting for DashCD = 22f
-# Actuall gameplay = 20f
+# Actual gameplay = 20f
