@@ -1,4 +1,5 @@
-#created by Jules
+# created by Jules
+# optimized by Cirion02
 
 console load SpringCollab2020/3-Advanced/Bissy
 
@@ -25,16 +26,23 @@ console load SpringCollab2020/3-Advanced/Bissy
 
 #lvl_Bissy_03
    2,R,U
-   2,R
-   4,R,D
-   2
+   1,R
+   7,R,D
 
   40
 
+# There's probably 1-3f here by not needing to hyper, I can't get the lineup to work, tinkering with everything from the 11,L has effects.
+
 #lvl_Bissy_04
-   5,R,U
-   6,R,D
-  13,U,X
+   1,R,D
+   1,R,J
+   2,R
+   5,R,X
  135
 
-ChapterTime: 0:05.695(335)
+ChapterTime: 0:05.610(330)
+
+# Outro = 123f
+# Screentransition = 160f
+# Waiting for DashCD = 22f
+# Actual gameplay = 20f
