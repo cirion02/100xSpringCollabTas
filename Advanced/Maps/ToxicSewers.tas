@@ -1,5 +1,5 @@
 #Created by Cirion
-#Optimised by Jules
+#Optimised by Jules and Random_Name7190
 
 console load SpringCollab2020/3-Advanced/Rufus
    1
@@ -60,10 +60,11 @@ console load SpringCollab2020/3-Advanced/Rufus
    9,L,K
   29,L
   15,U,X
-  21,R,D
-   5,R,X
+  12,R,D
+   9,D
+   5,R,U,X
 
-# +3f
+# +3f (actually more now prob not worth holding)
 #   4,L,J
 #   8,L,K
 #  23,L,D
@@ -78,8 +79,6 @@ console load SpringCollab2020/3-Advanced/Rufus
 
 #lvl_Rufus_03 (0)
   10
-   7,R,U,X
-   8,L
    6,L,U,X
    1,J,G
   27,D
@@ -159,4 +158,4 @@ console load SpringCollab2020/3-Advanced/Rufus
    5,L,U,X
  135
 
-ChapterTime: 0:22.593(1329)
+ChapterTime: 0:22.389(1317)
