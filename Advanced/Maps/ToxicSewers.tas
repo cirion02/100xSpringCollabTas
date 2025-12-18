@@ -44,8 +44,8 @@ console load SpringCollab2020/3-Advanced/Rufus
 
 #lvl_Rufus_02
    1
-   5,R,J,G
-  19,R
+   9,R,J,G
+  16,R,C
   12,R,X
    4,R,J
    2,R,K
@@ -158,4 +158,4 @@ console load SpringCollab2020/3-Advanced/Rufus
    5,L,U,X
  135
 
-ChapterTime: 0:22.389(1317)
+ChapterTime: 0:22.355(1315)
