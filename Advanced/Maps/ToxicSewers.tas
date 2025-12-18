@@ -143,19 +143,17 @@ console load SpringCollab2020/3-Advanced/Rufus
    1,L,J
   15,R
   10,R,X
-   1,J,G
-  10,D
-   2,L,D
-   4,D
-  15,L,D
-   5,R,X
+   5,J,G
+   3,L,K
+   6,R,D,X
   40
 
 #lvl_Outro
-  10,L,J
+   1,L,J
+   9,R
    5,U,X
-  43,L,D
+  43,R,D
    5,L,U,X
  135
 
-ChapterTime: 0:22.355(1315)
+ChapterTime: 0:21.964(1292)
