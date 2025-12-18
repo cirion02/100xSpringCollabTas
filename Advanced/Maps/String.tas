@@ -52,8 +52,9 @@ EndStunPause
    4,L,J
    9,L,K
   10,R,D,X
-   7,L,J
-  15,D,X
+   5,L,J
+  14,L,D,X
+   1,J
 
 #spinner cycle
    0
@@ -65,11 +66,13 @@ EndStunPause
 #lvl_Percussive_3
    2,J
    1,L,K,G
-  11,L,J,G
-  11,R,U,X
+   6,L,J,G
+   1
+  10,R,U,Z
    4,L,K
-
-  17,L,J
+   1,L,J
+  10,J
+   7,R,J
   11,R,U,X
    4,R,J
    3
@@ -89,4 +92,4 @@ EndStunPause
 
  135
 
-ChapterTime: 0:14.042(826)
+ChapterTime: 0:13.940(820)
