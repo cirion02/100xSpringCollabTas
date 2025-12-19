@@ -1,6 +1,6 @@
 #Created by Cirion02
 # Spike Climb by Bred
-# Optimised by Jules
+# Optimised by Jules and Random_Name7190
 console load SpringCollab2020/3-Advanced/RealVet
    1
 
@@ -113,11 +113,14 @@ console load SpringCollab2020/3-Advanced/RealVet
    2,R
    1,R,J
   31,R,D
+***S
    6,L,U,Z
-   2,J,G
-   1,K,G
-  15,R,K
-  13,R
+   2,K,G
+   1,R,K
+   1,L,K
+   1,J,G
+   7,R,J
+  17,R
    6,L,U,Z
    6,J
   12,K
@@ -228,7 +231,7 @@ console load SpringCollab2020/3-Advanced/RealVet
 #lvl_Room5 (0)
    9,R
 #spinner cycle
-   0
+   1
 
    7,R,U,C
    6,L,J
@@ -315,4 +318,4 @@ console load SpringCollab2020/3-Advanced/RealVet
    5,L,D,X
  135
 
-ChapterTime: 0:36.720(2160)
+ChapterTime: 0:36.703(2159)
