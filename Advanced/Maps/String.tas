@@ -28,20 +28,20 @@ console load SpringCollab2020/3-Advanced/Percussive
    4,R
 
 # spinner cycle
-   2
+   1
 
   15,R,D,C
   18,D,X
   10,R,C
    4,L,J
    5,L,K
-   6,R,U,Z
+   4,R,U,Z
 StunPause
+   2,R,U,Z
    1,J
    9,R,G
-   2,L,J
 EndStunPause
-  14,L,J
+  16,L,J
   14,R,D,X
    9,R,D
    6,R
@@ -59,7 +59,7 @@ EndStunPause
    1,J
 
 #spinner cycle
-   0
+   1
 
    5,R,U,C
 
