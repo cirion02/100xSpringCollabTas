@@ -1,5 +1,5 @@
 # Made by Jules
-# Optimized by Cirion02
+# Optimized by Cirion02 and Random_Name7190
 
 console load SpringCollab2020/3-Advanced/Galaksyz
    1
@@ -45,46 +45,39 @@ console load SpringCollab2020/3-Advanced/Galaksyz
 
 #lvl_Galaksyz_01b (1)
   11,L,D
-   5,R,D,X
+  13,R,D,X
+   3,J
+   6,L,X
+   1,J,G
+   1,L
+   1
+  10,L
+  13,L,J
+   6,R,X
+   1,J
+  25,R,D
+   3,J
+   6,L,Z
    1,L,J
    7,L
-   2,L,J
-   1,L
-   6,L,Z
-  21,L,J
-   6,L,U,X
-   1,K
-  26,D
-  14,R,D
+   1,L,J
+   5,U,X
+   3,L,J
+   6,L
    5,R,X
-  22,D
-   5,L,X
-  37,L
-   4,F,200
-   2,F,250
-  12,F,270
-  28,F,0
+  25
+  13,F,269
+  15,F,263
+   2,F,275
+  19,F,300
+  20,F,50
+  28,F,270
+   5,L,D,X
+  33
+  22,R
+   4,R,J
    5,D,X
    1,J
-  21,L,D
-   1,L,J
-   1,L,K
-   1,L,J
-   7,L,K
-   6,J,G
-   8,R,K
-#changing this 6R to within 5-8 work but may be needed for hitbox cycles
-   5,R
-   5,R,X
-  19,R,G
-   6,L,X
-   1,J
-   8,R,D
-   6,L,U,X
-   1,J
-  32,L,D
-  18,D
-   8,L,D
   96
    5,R,Z
    1,L,J
@@ -156,4 +149,4 @@ console load SpringCollab2020/3-Advanced/Galaksyz
    5,L,U,X
  135
 
-ChapterTime: 0:22.729(1337)
+ChapterTime: 0:21.828(1284)
