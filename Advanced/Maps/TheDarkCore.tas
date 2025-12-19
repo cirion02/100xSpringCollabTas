@@ -71,7 +71,6 @@ console load SpringCollab2020/3-Advanced/RealVet
    1,L,J
 # wait for gate
    6
-***S
   10,R
    7,R,J
   10,U,Z
@@ -79,11 +78,16 @@ console load SpringCollab2020/3-Advanced/RealVet
    1,R
    8,R,J
   11,R,K,G
-  13,L,J
+   1,J
+   1,L,J
+   8,G
+   1,K
    1,R,K
-   4,R,J
-   5,R,K,G
-  14,R
+   5,R,J
+   1,R,K,G
+  12,R
+   1,R,J
+   5,R
    3,R,J
 
   40
@@ -222,9 +226,8 @@ console load SpringCollab2020/3-Advanced/RealVet
 
 #lvl_Room5 (0)
    9,R
-
 #spinner cycle
-   1
+   0
 
    7,R,U,C
    6,L,J
@@ -311,4 +314,4 @@ console load SpringCollab2020/3-Advanced/RealVet
    5,L,D,X
  135
 
-ChapterTime: 0:36.856(2168)
+ChapterTime: 0:36.822(2166)
