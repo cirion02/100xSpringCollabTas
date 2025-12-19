@@ -41,10 +41,12 @@ StunPause
    1,J
    9,R,G
 EndStunPause
-  16,L,J
+   3,J
+   6,R,J
+   4,K
   14,R,D,X
-   9,R,D
-   6,R
+   7,R,D
+   8,R
   11,R,D
   22,R,Z
    4,R,J
@@ -94,4 +96,4 @@ EndStunPause
 
  135
 
-ChapterTime: 0:13.838(814)
+ChapterTime: 0:13.787(811)
