@@ -52,7 +52,7 @@ console load SpringCollab2020/3-Advanced/RealVet
    6,R,U,X
 
   40
-***S
+
 #lvl_Room1 (1)
    1,L,J
   11,L,D
@@ -61,7 +61,6 @@ console load SpringCollab2020/3-Advanced/RealVet
   25,D
    2,L,D
    7,D
-
   12,R,J
   12,K,G
   13,J,G
@@ -71,37 +70,27 @@ console load SpringCollab2020/3-Advanced/RealVet
    5,R,D,X
    1,L,J
 # wait for gate
-  12
-
-   7,R
+   6
+***S
+  10,R
    7,R,J
-   5,U,Z
-   6,R,J
-   8,L
-   3,R
-  12,R,J
-   1,K,G
-   5,R,K
-   1,L,K
-   1,R,J,G
-   1,R,K,G
-   1,K
-   1,L,K
-   6,R,K
-   1,R,J,G
-   1,R,K,G
-   9,R
+  10,U,Z
    3,R,J
-   5,R,K
-  16
-   1
+   1,R
+   8,R,J
+  11,R,K,G
+  13,L,J
+   1,R,K
+   4,R,J
+   5,R,K,G
+  14,R
    3,R,J
 
   40
 
 #lvl_Room2
-  13,R,J
-   6,J,G
+  10,R,J
+   9,J,G
    2,K,G
   31,G
    2,D,G
@@ -235,7 +224,7 @@ console load SpringCollab2020/3-Advanced/RealVet
    9,R
 
 #spinner cycle
-   0
+   1
 
    7,R,U,C
    6,L,J
@@ -322,4 +311,4 @@ console load SpringCollab2020/3-Advanced/RealVet
    5,L,D,X
  135
 
-ChapterTime: 0:37.179(2187)
+ChapterTime: 0:36.856(2168)
