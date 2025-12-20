@@ -208,12 +208,10 @@ EndRepeat
    5,U,X
   10,L
    5,R,D,C
-  19,L,J
+  25,L,J
    5,U,X
-   5,L,J,G
-   4,J
-   1,R,K
-   8,R
+   1,J
+   9,R
    6,L,U,X
    1,J
    1,K
@@ -233,4 +231,4 @@ EndRepeat
    5,R,X
  135
 
-ChapterTime: 0:26.214(1542)
+ChapterTime: 0:26.180(1540)
