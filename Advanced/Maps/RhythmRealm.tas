@@ -22,8 +22,9 @@ Repeat,6
   15,D,X
 EndRepeat
   15,D,C
-  10
-   9,J
+  10,L,D,X
+   1,K
+   8,J
    6,R,U,X
    1,L,J
   10,L
@@ -31,31 +32,31 @@ EndRepeat
    5,R,D,X
   27
 
-
-
-   6,R,U,X
-   1,L,J
-  15,L,D
-   7,R
-   7,R,J
-  15,D,X
+***S
+# 6f slower but with another dash so potentially better for cassettes if lighting cycle isn't bad
+#    6,R,U,X
+#    1,L,J
+#   15,L,D
+#    7,R
+#    7,R,J
+#   15,D,X
 # Lightning cycle
-   6
-   2,J
-   5,Z
+#    0
+#    2,J
+#    5,Z
 
 # 6f faster but one less dash used so bad for cassette cycle
 # lightning cycle
-#   12
-#    5,R,U,X
-#    1,L,J,G
-#   17,L,D
-#    6,D
-#    2
-#    2,R,D
-#    1,D
-#   10,R,D
-#    5,Z
+   0
+   5,R,U,X
+   1,L,J,G
+  17,L,D
+   6,D
+   2
+   2,R,D
+   1,D
+  10,R,D
+   5,Z
 
   40
 
@@ -69,13 +70,13 @@ EndRepeat
    7,R
    5,R,J
   15,D,X
-  12,J
-   7,R,Z
+  20,J
+  10,R,Z
 
   40
 
 #lvl_Ezel_02
-   8
+   5
    5,R,D,X
    1,R,J
    8,R
@@ -106,7 +107,7 @@ EndRepeat
    8,L
    3,L,J
    3,J
-  17
+  19
    5,U,Z
   19,L,J
   14,K,G
@@ -340,4 +341,4 @@ EndRepeat
   84,L
    1
 
-ChapterTime: 0:45.713(2689)
+ChapterTime: 0:45.628(2684)
