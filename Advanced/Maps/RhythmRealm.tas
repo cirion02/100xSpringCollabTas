@@ -32,7 +32,6 @@ EndRepeat
    5,R,D,X
   27
 
-***S
 # 6f slower but with another dash so potentially better for cassettes if lighting cycle isn't bad
 #    6,R,U,X
 #    1,L,J
@@ -70,8 +69,12 @@ EndRepeat
    7,R
    5,R,J
   15,D,X
-  20,J
-  10,R,Z
+   5,L,J,Z
+   8,L,J
+   4,L
+   5,R,J
+   5,R,Z
+   5,R,J,G
 
   40
 
@@ -107,7 +110,7 @@ EndRepeat
    8,L
    3,L,J
    3,J
-  19
+  17
    5,U,Z
   19,L,J
   14,K,G
@@ -341,4 +344,4 @@ EndRepeat
   84,L
    1
 
-ChapterTime: 0:45.628(2684)
+ChapterTime: 0:45.577(2681)
