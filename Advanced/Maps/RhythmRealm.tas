@@ -13,7 +13,6 @@ console load SpringCollab2020/3-Advanced/Ezel
   15,R,D
    6,R,U,X
    1,R,J,G
-***S
    2,L
   13,R
    2,J
@@ -31,11 +30,12 @@ EndRepeat
    2,J
    5,R,D,X
   27
+
+
+
    6,R,U,X
    1,L,J
   15,L,D
-
-
    7,R
    7,R,J
   15,D,X
@@ -44,6 +44,18 @@ EndRepeat
    2,J
    5,Z
 
+# 6f faster but one less dash used so bad for cassette cycle
+# lightning cycle
+#   12
+#    5,R,U,X
+#    1,L,J,G
+#   17,L,D
+#    6,D
+#    2
+#    2,R,D
+#    1,D
+#   10,R,D
+#    5,Z
 
   40
 
