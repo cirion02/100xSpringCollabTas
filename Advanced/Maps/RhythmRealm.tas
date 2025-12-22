@@ -189,25 +189,21 @@ EndRepeat
    4,R,D
    9,D
   15,U,X
-  19,R
-  10,R,J
-   6,R,Z
-   1,J
+***S
+  18,R,D
+   8,R,J
+   5,R,Z
+   1,R,J,G
    2,L,K
-  12,L
-   7,R
-   1,L
-   3,R,D
-   1,L,D
-   1,R,D
-   1,R
+  15,L
+  10,R
    1,D
 Repeat, 5
    1,D
    1,R,D
 EndRepeat
    4,L,D
-   2,D
+   3,D
   15,U,X
    7,L
   14,D
@@ -229,7 +225,7 @@ EndRepeat
    1,R,J
   15,D,X
 # cassette cycle
-   7
+  11
    6,U,X
    1,R,J
   19,R,D
