@@ -95,7 +95,7 @@ EndRepeat
    2,L,J
    7,J
   20
-  12,D
+  15,D
    5,R,D,X
    1,R,J
    7,L
@@ -107,10 +107,11 @@ EndRepeat
   40
 
 #lvl_Ezel_02b
-   8,L
+   9,L
+   1,L,J
+   5,L,K,Z
    3,L,J
-   3,J
-  18
+  10,L
    5,U,Z
   19,L,J
   14,K,G
@@ -344,4 +345,4 @@ EndRepeat
   84,L
    1
 
-ChapterTime: 0:45.577(2681)
+ChapterTime: 0:45.509(2677)
