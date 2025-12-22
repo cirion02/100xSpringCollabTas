@@ -239,7 +239,10 @@ EndRepeat
 
 #lvl_Ezel_05 (0)
   11,J
-  10,L,D,X
+  15,L,D,X
+# cassette cycle
+   6
+  10,L,D,C
    1,L,J
    5,K
    5,L,X
@@ -257,35 +260,26 @@ EndRepeat
    5,L,Z
    1,R,J
   16,L
-   4,R,D
-   5,R,G
-   1,D
-   2,L,D
-Repeat, 5
-   1,D
-   1,L,D
-EndRepeat
-   7,D
-  23,L,D
-   8
+  20,D
+  26,L,D
+   5
    8,R,X
    9,R,J,G
   20,R
   11,R,J
    5,U,X
   34,R,D
-   9,G
-  33,R
-   4,R,J
-   9,R
-   1,R,J
-  26,L,D
-  10,R,D
-   8,R
-   5,R,J,G
+   1,G
+  32,R
+***S
+   7,R,J
+  31,L,D
+  22,R,D
+   2,R,J,G
    3,R
    3,L,J
-  31,L,D
+  28,L,D
+   2
    1,S
    1,D,J
   34
@@ -301,10 +295,9 @@ EndRepeat
 #lvl_Ezel_05 (1)
    2
    8,L,J
-  13,R,Z
+  12,R,Z
    5,L,J
    7,R,Z
-***S
    1,R,J,G
    1,R,K,G
    1,R
@@ -332,4 +325,4 @@ EndRepeat
   84,L
    1
 
-ChapterTime: 0:43.707(2571)
+ChapterTime: 0:43.656(2568)
