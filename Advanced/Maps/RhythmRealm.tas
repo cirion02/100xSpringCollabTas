@@ -189,7 +189,6 @@ EndRepeat
    4,R,D
    9,D
   15,U,X
-***S
   18,R,D
    8,R,J
    5,R,Z
@@ -221,11 +220,11 @@ EndRepeat
   40
 
 #lvl_Ezel_04
-  10,L,J,G
-   1,R,J
+   4,L,J,G
+   5,L,K,G
   15,D,X
 # cassette cycle
-  11
+  13
    6,U,X
    1,R,J
   19,R,D
