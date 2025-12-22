@@ -8,9 +8,9 @@ console load SpringCollab2020/3-Advanced/Ezel
 
 #lvl_Ezel_00
   12,J
-   5,R,X
+   5,R,Z
    1,R,K
-  21,R
+  15,R,D
    6,R,U,X
    1,J,G
    4,R
@@ -25,6 +25,7 @@ Repeat,6
   15,D,X
 EndRepeat
   15,D,C
+   3
    9,J
    6,R,U,X
    1,L,J
@@ -41,7 +42,7 @@ EndRepeat
    7,R,J
   15,D,X
 # Lightning cycle
-   3
+   6
    2,J
    5,Z
 
