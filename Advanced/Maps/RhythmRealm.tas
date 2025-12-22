@@ -94,8 +94,8 @@ EndRepeat
    6,L
    2,L,J
    7,J
-  20
-  15,D
+# wait for spinner cycle here to avoid low tempo
+  35
    5,R,D,X
    1,R,J
    7,L
@@ -131,6 +131,7 @@ EndRepeat
    5,R,X
 
   40
+
 #lvl_Ezel_03
    1
   64,G
@@ -176,10 +177,10 @@ EndRepeat
   14,L
    2
    1,L,K,G
-  25,L,J,G
-  23,L
-   5,L,D
-   4,L
+  27,L,J,G
+  12,L
+  11,L,D
+   5,L
    5,L,U,X
    1,R,J
    6,R,D
@@ -227,7 +228,8 @@ EndRepeat
   10,L,J,G
    1,R,J
   15,D,X
-   5
+# cassette cycle
+   7
    6,U,X
    1,R,J
   19,R,D
