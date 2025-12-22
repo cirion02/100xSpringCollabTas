@@ -82,11 +82,11 @@ EndRepeat
    5
    5,R,D,X
    1,R,J
-   8,R
+  14,R
    1,R,J
    5,R,D,K,X
    7,R
-  29,R,J
+  22,R,J
   15,D,X
    5,L,J,Z
   15,L
@@ -110,7 +110,7 @@ EndRepeat
    8,L
    3,L,J
    3,J
-  17
+  18
    5,U,Z
   19,L,J
   14,K,G
