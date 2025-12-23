@@ -83,12 +83,12 @@ EndRepeat
    5
    5,R,D,X
    1,R,J
-  14,R
-   1,R,J
-   5,R,D,K,X
    7,R
-  22,R,J
+   8,R,J
+  10,R,D,X
+   9,L,J
   15,D,X
+  15,D,C
    5,L,J,Z
   15,L
    1,L,J
@@ -332,4 +332,4 @@ EndRepeat
   84,L
    1
 
-ChapterTime: 0:43.503(2559)
+ChapterTime: 0:43.452(2556)
