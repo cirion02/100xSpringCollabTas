@@ -268,16 +268,20 @@ EndRepeat
   20,R
   11,R,J
    5,U,X
-  34,R,D
-   1,G
-  32,R
 ***S
-   7,R,J
-  31,L,D
-  22,R,D
-   2,R,J,G
+  32,R,D
+   2
+   1,G
+   2
+  30,R
+   6,R,J
+   7,R
+  26,L,D
+  15,R,D
+   5,R
+   3,R,J,G
    3,R
-   3,L,J
+   2,L
   28,L,D
    2
    1,S
@@ -295,7 +299,7 @@ EndRepeat
 #lvl_Ezel_05 (1)
    2
    8,L,J
-  12,R,Z
+  13,R,Z
    5,L,J
    7,R,Z
    1,R,J,G
