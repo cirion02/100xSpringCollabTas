@@ -8,20 +8,15 @@ console load SpringCollab2020/3-Advanced/Thegur90
   36
 
 #lvl_intro
-  19,R,J
-   6,R,X
+***S
+  15,R,U,X
+  17,R,D
   40
 
 #lvl_1
-   6,R,J,G
-   1,L,K
-   5,L,J
-***S
-   5,U,X
-  10,L,J
-   7,L
-  15,R,U,X
-   5,R,D,C
+   6,R,X
+  15,R,U,C
+   5,R,D,X
    1,R,J
    1,R
   40
@@ -41,7 +36,6 @@ console load SpringCollab2020/3-Advanced/Thegur90
    6,U,X
    1,R,J
   16,R,D
-***S
    5,R,J,Z
    3,L
   40
@@ -62,4 +56,4 @@ Repeat,51
    1
 EndRepeat
 
-ChapterTime: 0:08.959(527)
+ChapterTime: 0:08.602(506)
