@@ -41,18 +41,19 @@ console load SpringCollab2020/3-Advanced/Thegur90
    6,U,X
    1,R,J
   16,R,D
+***S
    5,R,J,Z
-   3,R
+   3,L
   40
 
 #lvl_outro
-   5,R
-  42,R,J
-  15,U,X
-  24,R,D
+   7,L
+   6,R,U,X
+  15,U,C
+  24,L,D
   15,U,X
   27,D
-  14,R,D
+  14,L,D
   17,L,X
    3,J
   17
@@ -61,4 +62,4 @@ Repeat,51
    1
 EndRepeat
 
-ChapterTime: 0:09.588(564)
+ChapterTime: 0:08.959(527)
