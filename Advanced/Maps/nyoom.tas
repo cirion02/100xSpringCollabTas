@@ -1,4 +1,5 @@
-#made by Cirion02
+# Created by Cirion02
+# Optimized by Random_Name7190
 
 console load SpringCollab2020/3-Advanced/NeoKat
    1
@@ -106,10 +107,10 @@ console load SpringCollab2020/3-Advanced/NeoKat
   40
 
 #lvl_5
-   1,R,D
+   2,R,D
    5,R,Z
-   1
-  10,L,J
+   1,L,J
+   9,R,J
    5,L,U,X
  135
 
