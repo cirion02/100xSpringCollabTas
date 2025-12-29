@@ -99,18 +99,18 @@ console load SpringCollab2020/3-Advanced/NeoKat
    5,R,X
    9
    1,J,G
-  25,D
-   5,R,U,X
-  27,R,D
+  23,D
+   5,R,U,Z
+  30,R,D
 
   40
 
 #lvl_5
-   4,R,D
+   1,R,D
    5,R,Z
    1
   10,L,J
    5,L,U,X
  135
 
-ChapterTime: 0:14.348(844)
+ChapterTime: 0:14.314(842)
