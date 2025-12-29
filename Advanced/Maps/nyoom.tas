@@ -8,8 +8,7 @@ console load SpringCollab2020/3-Advanced/NeoKat
   76
 
 # spinner cycle
-   0
-
+   2
    5,R,X
    1,J,G
    5,R,D
@@ -25,11 +24,13 @@ console load SpringCollab2020/3-Advanced/NeoKat
   11,R
    5,R,D,X
    1,L,J
-   5,L
-   3
-  12,L,J
-  22,L
-   3
+   4,L
+   2
+   2,L
+  11,L,J
+  16,L
+   1,L,J
+   7,L
    6,U,X
 
   40
