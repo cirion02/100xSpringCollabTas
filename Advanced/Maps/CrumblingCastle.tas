@@ -127,11 +127,10 @@ console load SpringCollab2020/3-Advanced/Tortoise
 #lvl_BTortoise_B1 (1)
    1,L
    1,R,J
-  11,L,J
-  10,K,G
-  12,J,G
-   5,L,Z
-   2,L,J
+   7,L,J
+   6,L,U,X
+   1,R,J
+   3,R,K
   15,U,X
    5,L,C
   22,R,D
@@ -272,4 +271,4 @@ console load SpringCollab2020/3-Advanced/Tortoise
 
  135
 
-ChapterTime: 0:48.399(2847)
+ChapterTime: 0:48.008(2824)
