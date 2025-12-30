@@ -78,12 +78,12 @@ console load SpringCollab2020/3-Advanced/Tortoise
 
 
 #lvl_Tortoise_2 (1)
-  11
-   5,D,X
-  10,R
-   5,R,J,Z
-  16,R,D
-   9,L,D
+  11,R
+   5,L,D,X
+   1,R,J
+  10,R,D
+  15,L,D
+   7
    5,D,X
   47,D
 
@@ -272,4 +272,4 @@ console load SpringCollab2020/3-Advanced/Tortoise
 
  135
 
-ChapterTime: 0:48.484(2852)
+ChapterTime: 0:48.416(2848)
