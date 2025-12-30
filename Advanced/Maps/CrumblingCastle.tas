@@ -27,9 +27,10 @@ console load SpringCollab2020/3-Advanced/Tortoise
    2,R,J
    1,K
    5,R,U,Z
-  31,R,D
+  25,D
+   3,R,D
 
-  63
+  64
 
 #lvl_ATortoise_1 (0)
    6,R,U,X
@@ -271,4 +272,4 @@ console load SpringCollab2020/3-Advanced/Tortoise
 
  135
 
-ChapterTime: 0:48.739(2867)
+ChapterTime: 0:48.705(2865)
