@@ -25,13 +25,12 @@ console load SpringCollab2020/3-Advanced/NeoKat
   11,R
    5,R,D,X
    1,L,J
-   4,L
-   2
+   2,R
    2,L
-   1,L,J
-   3,R,J
-   5,L,J
-  31,L,D
+   2,R
+   2,L
+   8,L,J
+  31,L
    6,U,X
 
   40
@@ -105,4 +104,4 @@ console load SpringCollab2020/3-Advanced/NeoKat
    5,L,U,X
  135
 
-ChapterTime: 0:14.127(831)
+ChapterTime: 0:14.110(830)
