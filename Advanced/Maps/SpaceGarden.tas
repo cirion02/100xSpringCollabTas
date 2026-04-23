@@ -150,20 +150,18 @@ EndStunPause
    7,R,U,X
 
   40
+***S
 
 #lvl_Dozing_07
    1
   72,O
 
-   5,L,J,Z
-   7,L
-   4,L,J
-   9,K,G
-   5,U,X
-  11,R,J
-  11,R
+***S
+   6,L,U,Z
+  10,R,J
+   9,R
   16,R,J,Z
    5,R,U,X
  135,L,J
 
-ChapterTime: 0:27.336(1608)
+ChapterTime: 0:26.928(1584)
