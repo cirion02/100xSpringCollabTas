@@ -42,7 +42,7 @@ console load SpringCollab2020/3-Advanced/Bissy
 
 ChapterTime: 0:05.610(330)
 
-# Outro = 123f
-# Screentransition = 160f
+# Post-heart = 123f
+# Screentransitions = 160f
 # Waiting for DashCD = 22f
 # Actual gameplay = 20f
