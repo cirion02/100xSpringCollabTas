@@ -85,15 +85,20 @@ console load SpringCollab2020/3-Advanced/Dozing
   40
 
 #lvl_Dozing_05
-
+***S
   11,R,J
   37
+
+# spinner cycle
+   2
+
   26,U,Z
    9,D
-  31,R,D
+  34,R,J
    5,U,X
   12,R
-  37
+  26
+***S
   12,L,U,Z
    4,L,J
    1,L,K
@@ -147,4 +152,4 @@ EndStunPause
    5,R,U,X
  135,L,J
 
-ChapterTime: 0:27.914(1642)
+ChapterTime: 0:27.812(1636)
