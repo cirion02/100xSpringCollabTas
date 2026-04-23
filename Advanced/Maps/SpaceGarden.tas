@@ -103,20 +103,27 @@ console load SpringCollab2020/3-Advanced/Dozing
    8,L,J,Z
   10,L
 
-#   12,L,U,Z
-#    4,L,J
-#    1,L,K
-#    3,L
-#   15,L,C
-#   16,R,D
-  76,R
-   1,R,J
+  40
+***S
+   5,R,X
+   1,R,J,G
+   3,L,J,G
+   1,R,K,G
+   1,R,J,G
+  14,R
   21,R,K,Z
-  16,R
-  41,U,X
+  14,R
+  43,U,X
+
+
+#   78,R
+#    1,R,J
+#   21,R,K,Z
+#   16,R
+#   41,U,X
 StunPause, Input
    3
-SkipInput,3
+SkipInput,3,1
    5,L,U,X
   18,R,D
 EndStunPause
@@ -156,4 +163,4 @@ EndStunPause
    5,R,U,X
  135,L,J
 
-ChapterTime: 0:27.659(1627)
+ChapterTime: 0:27.404(1612)
