@@ -90,7 +90,7 @@ console load SpringCollab2020/3-Advanced/Dozing
   37
 
 # spinner cycle
-   2
+   1
 
   26,U,Z
    9,D
@@ -99,12 +99,16 @@ console load SpringCollab2020/3-Advanced/Dozing
   12,R
   26
 ***S
-  12,L,U,Z
-   4,L,J
-   1,L,K
-   3,L
+  24,L,X
   15,L,C
-  16,R,D
+  10,R
+
+#   12,L,U,Z
+#    4,L,J
+#    1,L,K
+#    3,L
+#   15,L,C
+#   16,R,D
   76,R
    1,R,J
   21,R,K,Z
@@ -152,4 +156,4 @@ EndStunPause
    5,R,U,X
  135,L,J
 
-ChapterTime: 0:27.812(1636)
+ChapterTime: 0:27.761(1633)
