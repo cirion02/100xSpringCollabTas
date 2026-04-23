@@ -22,15 +22,12 @@ console load SpringCollab2020/3-Advanced/Dozing
   40
 
 #lvl_Dozing_03
-***S
    1
    1,L,J
   16,L,D
   15,D,X
    2,J
   18,R,X
-***S
-
 
 ## Frameties
    4,R,J
@@ -60,9 +57,8 @@ console load SpringCollab2020/3-Advanced/Dozing
 ##
 
   40
-***S
+
 #lvl_Dozing_04
-***S
    3
    1,L,J
   31,L,D
@@ -85,7 +81,6 @@ console load SpringCollab2020/3-Advanced/Dozing
   40
 
 #lvl_Dozing_05
-***S
   11,R,J
   37
 
@@ -98,13 +93,10 @@ console load SpringCollab2020/3-Advanced/Dozing
    5,U,X
   12,R
   26
-***S
   24,L,X
    8,L,J,Z
   10,L
-
   40
-***S
    5,R,X
    1,R,J,G
    3,L,J,G
@@ -114,13 +106,6 @@ console load SpringCollab2020/3-Advanced/Dozing
   21,R,K,Z
   14,R
   43,U,X
-
-
-#   78,R
-#    1,R,J
-#   21,R,K,Z
-#   16,R
-#   41,U,X
 StunPause, Input
    3
 SkipInput,3,1
@@ -128,7 +113,6 @@ SkipInput,3,1
   18,R,D
 EndStunPause
   28,R,D
-***S
   37
   18,U,Z
   12,R,D
@@ -150,13 +134,11 @@ EndStunPause
    7,R,U,X
 
   40
-***S
 
 #lvl_Dozing_07
    1
   72,O
 
-***S
    6,L,U,Z
   10,R,J
    9,R
