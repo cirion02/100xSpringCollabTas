@@ -128,11 +128,14 @@ SkipInput,3,1
   18,R,D
 EndStunPause
   28,R,D
+***S
   37
   18,U,Z
-  38,R,D
-   8,R
-  37,R,J
+  12,R,D
+   5,D,X
+   1,R,J
+  29,R
+  36,R,J
    5,U,X
   92
 
@@ -163,4 +166,4 @@ EndStunPause
    5,R,U,X
  135,L,J
 
-ChapterTime: 0:27.387(1611)
+ChapterTime: 0:27.336(1608)
