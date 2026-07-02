@@ -11,6 +11,7 @@ console load SpringCollab2020/3-Advanced/orbittwz
    1,J,G
   21,D
    6,R,D,X
+
   40
 
 #lvl_02 (0)
@@ -18,10 +19,10 @@ console load SpringCollab2020/3-Advanced/orbittwz
    2,L,J
   15,U,X
    5,R,U,C
+
   40
 
 #lvl_04
-***S
   11,D
    6,L,X
    1,L,J,G
@@ -37,10 +38,10 @@ console load SpringCollab2020/3-Advanced/orbittwz
    1,L,J
   10,L,D
   11,R,D
+
   40
 
 #lvl_02 (1)
-***S
    5,R,D,X
    1,J
    9,K,G
@@ -48,10 +49,10 @@ console load SpringCollab2020/3-Advanced/orbittwz
    8,J
   34,D
    6,R,U,X
-
    1,J,G
    8,D
    5,R,Z
+
   40
 
 #lvl_03
@@ -59,17 +60,16 @@ console load SpringCollab2020/3-Advanced/orbittwz
    7,D
   20,L,D
    7,R,U,Z
+
   40
 
 #lvl_05
-***S
    1
    1,L,J
    1,L,K
   19,L
   13,L,J
   15,U,X
-***S
    5,L,C
    3,R,J
    3,R
@@ -89,6 +89,7 @@ console load SpringCollab2020/3-Advanced/orbittwz
    1,L,J
   16,L
    6,U,X
+
   40
 
 #lvl_07 (0)
@@ -107,6 +108,7 @@ console load SpringCollab2020/3-Advanced/orbittwz
    5,L,Z
    2,L,J
    3,L
+
   40
 
 #lvl_08
@@ -130,11 +132,10 @@ console load SpringCollab2020/3-Advanced/orbittwz
   11,R
    1,R,K
    5,R
+
   40
 
 #lvl_07 (1)
-***S
-
    9,R
   12,R,K
    1,K
@@ -154,7 +155,6 @@ console load SpringCollab2020/3-Advanced/orbittwz
   10,L,J
    9,R,Z
    1,L,J
-***S
   22,L
    4,L,D
    6,R,Z
@@ -162,6 +162,7 @@ console load SpringCollab2020/3-Advanced/orbittwz
    2,K,G
   15,R,U,X
   18,R,D
+
   40
 
 #lvl_09
@@ -169,6 +170,7 @@ console load SpringCollab2020/3-Advanced/orbittwz
    5,R,D,X
   15,R,J
    5,R,U,X
+
  135
 
 ChapterTime: 0:21.675(1275)
