@@ -81,25 +81,23 @@ console load SpringCollab2020/3-Advanced/RealVet
   10,U,Z
    3,R,J
    1,R
-   8,R,J
-  11,R,K,G
-   1,J
-   1,L,J
-   8,G
-   1,K
-   1,R,K
-   5,R,J
-   1,R,K,G
-  12,R
+  10,R,J
+   2,R
+   4,R,K
+   6,U,X
    1,R,J
-   5,R
+   1,R
+   1,R,J
+   8,R
+   1,J
+  14,R
    3,R,J
 
   40
 
 #lvl_Room2
-  10,R,J
-   9,J,G
+  11,R,J
+   8,J,G
    2,K,G
   32,G
    3,D,G
@@ -130,7 +128,7 @@ console load SpringCollab2020/3-Advanced/RealVet
    1,J,G
   16,R,D
 # spinner cycle
-   1
+   0
 
    4,J
    5,R,D,X
@@ -232,7 +230,7 @@ console load SpringCollab2020/3-Advanced/RealVet
    9,R
 
 #spinner cycle
-   0
+   1
 
    7,R,U,C
    6,L,J
@@ -322,4 +320,4 @@ console load SpringCollab2020/3-Advanced/RealVet
    5,L,D,X
  135
 
-ChapterTime: 0:36.142(2126)
+ChapterTime: 0:35.972(2116)
