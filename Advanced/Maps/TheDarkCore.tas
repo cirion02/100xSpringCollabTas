@@ -58,9 +58,14 @@ console load SpringCollab2020/3-Advanced/RealVet
   11,L,D
    5,R,D,X
    1,L,J
-  25,D
+   1
+   1,J
+  23,D
    2,L,D
-   7,D
+   3,D
+   2
+   2,D
+# if we're 1/8000 of a pixel higher here we can dash earlier after climbing
   12,R,J
   12,K,G
   13,J,G
