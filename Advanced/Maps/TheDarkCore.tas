@@ -231,13 +231,10 @@ console load SpringCollab2020/3-Advanced/RealVet
 
 #lvl_Room5 (0)
    9,R
-
-#spinner cycle
-   0
-
-   7,R,U,C
-   6,L,J
-   7,L
+   6,R,U,Z
+   4,L,J
+   5,L
+   4,L,J
    5,U,X
   10,L,J
    5,L,Z
@@ -323,4 +320,4 @@ console load SpringCollab2020/3-Advanced/RealVet
    5,L,D,X
  135
 
-ChapterTime: 0:35.768(2104)
+ChapterTime: 0:35.751(2103)
