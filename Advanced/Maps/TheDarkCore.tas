@@ -235,12 +235,13 @@ console load SpringCollab2020/3-Advanced/RealVet
    4,L,J
    5,L
    4,L,J
-   5,U,X
-  10,L,J
+   5,U,Z
+   5,L,J
+   5,L
    5,L,Z
    1,L,J,G
    4,R,J
-   7,L,J
+   6,L,J
    1,L,K,G
    6,L,J,G
    6,L,D,X
@@ -320,4 +321,4 @@ console load SpringCollab2020/3-Advanced/RealVet
    5,L,D,X
  135
 
-ChapterTime: 0:35.751(2103)
+ChapterTime: 0:35.734(2102)
