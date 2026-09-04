@@ -202,8 +202,8 @@ console load SpringCollab2020/3-Advanced/RealVet
 #lvl_Room4
    1,R
   12,R,J
-   6,R,U,X
-   8,J,G
+   6,R,U,Z
+   5,J,G
    1,R
    1
    1,R
@@ -323,4 +323,4 @@ console load SpringCollab2020/3-Advanced/RealVet
    5,L,D,X
  135
 
-ChapterTime: 0:34.561(2033)
+ChapterTime: 0:34.510(2030)
