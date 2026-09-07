@@ -207,18 +207,16 @@ EndRepeat
   10,R,X
    4,J
   10,K,G
-   5,R,D,X
+   5,R,U,X
 
   40
 
 #lvl_iamdadbod_outro
-   6,R,J
-   4
-   5,R,X
-   7,L,J
-   3,L
+   1
+   1,L,J
+  19,L,D
    4,X
   13,L,D,X
   50,R,J
   75,R,X
-ChapterTime: 0:26.112(1536)
+ChapterTime: 0:26.095(1535)
