@@ -1,4 +1,5 @@
 #Made by Jules and Cirion02
+#Optimized and stun removed by Random_Name7190
 
 console load SpringCollab2020/3-Advanced/iamdadbod
    1
@@ -202,7 +203,6 @@ EndRepeat
    5,R,U,X
    1,J,G
   29,R,D
-***S
    2,J
   10,R,X
    4,J
