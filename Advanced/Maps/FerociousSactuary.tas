@@ -87,9 +87,8 @@ EndRepeat
    1,J
   24,L,J
   33,R,K
-   5,R,Z
-   1,L,J
-  29,L,D
+   6,R,U,X
+   9,J
    5,R,D,X
    1,R,J
    6,R
@@ -160,7 +159,7 @@ EndRepeat
   15,L,U,X
 
 #Spinner Cycle
-   0
+   2
 
    7,R,Z
    1,R,J
@@ -206,4 +205,4 @@ EndStunPause
   13,L,D,X
   50,R,J
   75,R,X
-ChapterTime: 0:30.107(1771)
+ChapterTime: 0:29.801(1753)
