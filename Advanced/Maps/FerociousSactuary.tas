@@ -145,8 +145,26 @@ EndRepeat
    1,R,J
   19,R,D
    7,R,U,Z
+
+#Spinner Cycle
+   2
+
    2,J
-  21,D
+***S
+  13,D
+   6,R,Z
+   1,R,J
+   7,R
+   5,L,D,X
+   1,J
+  22
+   5,L,X
+   9,J,G
+   1
+
+#Spinner Cycle
+   2
+
    5,R,Z
    8,R,J,G
    5,R,X
@@ -163,30 +181,20 @@ EndRepeat
    8,K
    5,L,Z
    3,R,J
-  15,L,U,X
-
-#Spinner Cycle
-   1
-
-   7,R,Z
-   1,R,J
-   7,R
-   5,L,D,X
+   7,L,U,X
+   1,J,G
+   7
+   8,R,Z
    1,J
-  22,D
-   5,L,X
-   7,J,G
-  10,K
-   5,R,X
-   5,R,Z
+   5,D,X
    1,J
-   8,D
-  28,L,D
+  27,D
    5,R,Z
    1,R,J,G
+   3,R
 #  I kinda hate this stun
 StunPause
-   9,R
+   6,R
 SkipInput, 3, 1
    4,R,X
    7,R,K
@@ -212,4 +220,4 @@ EndStunPause
   13,L,D,X
   50,R,J
   75,R,X
-ChapterTime: 0:29.189(1717)
+ChapterTime: 0:28.696(1688)
