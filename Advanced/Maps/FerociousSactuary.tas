@@ -91,16 +91,17 @@ EndRepeat
    9,J
    5,R,D,X
    1,R,J
-   6,R
+   5,R
+   1,R,J
 
   40
 
 #lvl_iamdadbod_4
    1,R
-  12,L,J
+   9,L,J
    5,R,X
    4,L,J
-   7,R,U,X
+   6,R,U,Z
    1,L,D,J
   18,L,D
   12,D
@@ -205,4 +206,4 @@ EndStunPause
   13,L,D,X
   50,R,J
   75,R,X
-ChapterTime: 0:29.801(1753)
+ChapterTime: 0:29.750(1750)
