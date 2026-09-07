@@ -63,15 +63,16 @@ EndRepeat
 #lvl_iamdadbod_2
   10,R,J
    7,R,U,X
-  13,L,J
+   1,L,J
+  11,L,K
    3,L,D
   25,R,D
    8,R
    6,R,U,X
    1,J
-   3,L,D
-  18,D
-   5,R,Z
+   2,L
+  17,D
+   5,R,D,X
 
   40
 
@@ -205,4 +206,4 @@ EndStunPause
   13,L,D,X
   50,R,J
   75,R,X
-ChapterTime: 0:30.158(1774)
+ChapterTime: 0:30.107(1771)
