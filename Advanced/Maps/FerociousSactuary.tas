@@ -6,7 +6,8 @@ console load SpringCollab2020/3-Advanced/iamdadbod
 #Start
   86
 
-   6,R,X
+***S
+   5,R,X
    7,J
    1,L,J
    1,K
@@ -161,8 +162,9 @@ EndRepeat
   15,L,U,X
 
 #Spinner Cycle
-   2
+   0
 
+***S
    7,R,Z
    1,R,J
    7,R
@@ -207,4 +209,4 @@ EndStunPause
   13,L,D,X
   50,R,J
   75,R,X
-ChapterTime: 0:30.362(1786)
+ChapterTime: 0:30.311(1783)
