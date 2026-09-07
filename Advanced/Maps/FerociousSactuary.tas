@@ -101,17 +101,28 @@ EndRepeat
    9,L,J
    5,R,X
    4,L,J
-   6,R,U,Z
+
+   7,R,U,X
    1,L,D,J
   18,L,D
-  12,D
-  28,L,D
+  11,D
+  27,L,D
    2,D
-   4,R,D
+   6
+
+# this is a frame faster but only works at one specific frame of spinner cycle
+#   6,R,U,Z
+#   1,L,D,J
+#  18,L,D
+#  11,D
+#  27,L,D
+#   4,D
+#   4
+
    1,L
-   6,J,G
-  18,L,J
-   1,K
+   1,J,G
+  15,L,J
+   4,K
    4,L
    6,R,U,X
    1,J,G
@@ -160,7 +171,7 @@ EndRepeat
   15,L,U,X
 
 #Spinner Cycle
-   2
+   1
 
    7,R,Z
    1,R,J
@@ -206,4 +217,4 @@ EndStunPause
   13,L,D,X
   50,R,J
   75,R,X
-ChapterTime: 0:29.750(1750)
+ChapterTime: 0:29.648(1744)
