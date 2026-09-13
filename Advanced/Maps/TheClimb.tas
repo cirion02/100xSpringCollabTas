@@ -158,10 +158,11 @@ console load SpringCollab2020/3-Advanced/Holly
 
 #lvl_Holly_03 (0)
    1,R,J
-  22,D
-   1
-   7,R,Z
-   9,J,G
+  10,R,D
+  14,D
+   5,R,U,Z
+   1,L,J,G
+   7,J
   12,L,K
    1,R,J,G
    3,L,J
@@ -269,4 +270,4 @@ console load SpringCollab2020/3-Advanced/Holly
    5,R,U,X
  135
 
-ChapterTime: 0:30.175(1775)
+ChapterTime: 0:30.141(1773)
