@@ -7,15 +7,14 @@ console load SpringCollab2020/3-Advanced/Holly
 #Start
   36
 
-***S
 #lvl_Holly_00
+   2,R,J
   10,R,X
-   2,R,K
   12,R,J,G
-   5,R,K,G
+   3,R,K,G
    2,L,K,G
    1,R,J,G
-   6,R,J,G
+   5,R,K,G
    5,R,D,X
 
   40
@@ -37,7 +36,7 @@ console load SpringCollab2020/3-Advanced/Holly
    5,L,X
 
   40
-***S
+
 #lvl_Holly_01b
    1,R,K
   29,R,J
@@ -71,7 +70,6 @@ console load SpringCollab2020/3-Advanced/Holly
   13,L,K,G
    3,K
    5,D,X
-***S
    1,J,G
    5
    1,L
@@ -260,4 +258,4 @@ console load SpringCollab2020/3-Advanced/Holly
    5,R,U,X
  135
 
-ChapterTime: 0:30.532(1796)
+ChapterTime: 0:30.481(1793)
