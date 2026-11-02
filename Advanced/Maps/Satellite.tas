@@ -105,23 +105,27 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
 
 #lvl_beefy_06
   11
+***S
    5,R,D,Z
    1,R,J
    7,R
    5,L,J
    7,R,J
    5,U,X
+
+***S
+
   24,R,J
    5,R,D,X
   13,L,J
    5,U,X
    1,J
-  25,D
+
+***S
+  31,L,D
    5,L,U,X
-   2,J
-  12,L,K,G
-   5,L,J,G
-   9,L
+   5
+   5,J
    6,U,X
 
   40
@@ -135,4 +139,4 @@ console load SpringCollab2020/3-Advanced/BeefyUncle
    5,L,X
  135
 
-ChapterTime: 0:19.040(1120)
+ChapterTime: 0:18.785(1105)
