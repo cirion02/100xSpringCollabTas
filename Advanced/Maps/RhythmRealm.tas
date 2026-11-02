@@ -8,16 +8,18 @@ console load SpringCollab2020/3-Advanced/Ezel
  190
 
 #lvl_Ezel_00
-  12,J
-   5,R,Z
-   1,R,K
-  15,R,D
-   6,R,U,X
+   5,R,J,Z
+   7,R
+  17,R,J
+   6,R,U,Z
    1,R,J,G
-   2,L
-  13,R
+  10,R
    2,J
   15,R,D,X
+
+# Idk how to resync after this timesave
+   9
+
 Repeat,6
   15,D,C
   15,D,X
@@ -32,6 +34,32 @@ EndRepeat
    2,J
    5,R,D,X
   27
+
+# ***S
+#    5,R,J,Z
+#    7,R
+#   17,R,J
+#    6,R,U,Z
+#    1,R,J,G
+#   10,R
+#    2,J
+#   15,R,D,X
+# ***S
+#Repeat,6
+#   15,D,C
+#   15,D,X
+#EndRepeat
+#   15,D,C
+#   15,D,X
+#   10,L,D,C
+#    1,K
+#    4,J
+#    6,R,U,X
+#    1,L,J
+#   10,L
+#    2,J
+#    5,R,D,X
+#   27
 
 # 6f slower but with another dash so potentially better for cassettes if lighting cycle isn't bad
 #    6,R,U,X
