@@ -51,23 +51,22 @@ console load SpringCollab2020/3-Advanced/_sleepie
 #lvl_room_3
    9
    1,R,J
-  24,L,D
+   9,L
+  15,D
    6,R,D,X
-   1,R,J
-   7,D
-  12,L,D
-  11,R,D
-   1,R,J
-  10,R
-   5,R,D,X
    1,L,J
    4,R
-   5,R,J
-  15,D,X
-   1
-   7,R,C
-   2,R,J,G
-  13,R
+   4,R,J
+   5,R,D,X
+   1,L,J
+***S
+   1,R,K
+  10,R
+   6,R,J
+   7,R,X
+  12,J,G
+   1,K,G
+   7,R
    7,R,J
   10,R,D,X
    1,J
@@ -92,4 +91,4 @@ console load SpringCollab2020/3-Advanced/_sleepie
    5,U,X
  135
 
-ChapterTime: 0:12.359(727)
+ChapterTime: 0:11.798(694)
