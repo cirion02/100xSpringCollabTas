@@ -233,7 +233,6 @@ console load SpringCollab2020/3-Advanced/taco360
    1
    6,R
   15,U,X
-***S
   18,R
    2
   32,R,D
@@ -247,8 +246,6 @@ console load SpringCollab2020/3-Advanced/taco360
   11,J,G
    3
    7,K,G
-
-
    7,R
    7,J
    5,R,X
@@ -277,6 +274,7 @@ console load SpringCollab2020/3-Advanced/taco360
    8,J
    5,R,Z
    1,R,J,G
+***S
   28,R,U
 
 AnalogMode, Square
@@ -311,14 +309,12 @@ AnalogMode, Ignore
   18,F,266.111
    1,F,265.003
   11,F,205
-  12,F,180.537
-   1,F,180.509
-   1,F,165.056
+  15,D
 
-  15,L,U,Z
-  32,R,D
+   5,L,Z
+   5,J
 
-  77
+  96
 
    5,R,U,X
 
@@ -338,4 +334,4 @@ AnalogMode, Ignore
  135
 
 
-FileTime: 0:52.054(3062)
+FileTime: 0:51.765(3045)
