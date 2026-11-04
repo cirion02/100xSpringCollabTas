@@ -87,10 +87,11 @@ console load SpringCollab2020/3-Advanced/_sleepie
   43
 
 #lvl_room_5
-  11,R
-  15,D,X
-   3,R,J
+   6
+   5,R
+   5,D,X
+  11,R,J,G
    5,U,X
  135
 
-ChapterTime: 0:11.526(678)
+ChapterTime: 0:11.492(676)
