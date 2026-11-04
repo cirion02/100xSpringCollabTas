@@ -274,7 +274,6 @@ console load SpringCollab2020/3-Advanced/taco360
    8,J
    5,R,Z
    1,R,J,G
-***S
   28,R,U
 
 AnalogMode, Square
@@ -316,22 +315,26 @@ AnalogMode, Ignore
 
   96
 
-   5,R,U,X
+   5,R,D,Z
 
   40
 
 #lvl_taco360_06
-  36,L,D
-   5,D,X
-   1,L,J,G
-   4,L
-   5,L,J
-   1
-   1
-   1,L,K,G
-  10,L,J,G
-   5,R,U,X
+***S
+   2
+   1,J
+   1,K
+   1,L,K
+   1,R,J,G
+   2,R,K,G
+   1,R,J,G
+   7,R
+   5,R,J,Z
+   6,R
+   5,R,J
+  20,R
+   5,R,X
  135
 
 
-FileTime: 0:51.765(3045)
+FileTime: 0:51.578(3034)
