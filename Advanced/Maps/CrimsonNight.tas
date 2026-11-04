@@ -52,9 +52,12 @@ console load SpringCollab2020/3-Advanced/Cookie
    1,S,N
    1,D,J
   69,O
+
    1,R,J
   35,R,D
    6,R,X
+#0:05.508(324)
+
    1,L,J
    7,R,J
   26,R,D
@@ -133,42 +136,27 @@ Repeat, 3
 EndRepeat
    5,L,D,X
    1,R,J
-  17,U
-   5,U,C
-   1,J
-   3,L,J
-   1,L
-  21,L,J
+   5,L,X
+   5,L,Z
 StunPause
-   6,L,J
-   1,D,X
-SkipInput, 3
-   4,D,X
-   1,D,C
-SkipInput, 3
-   4,D,C
-   1,D,X
-SkipInput, 3
-   4,D,X
-   1,D,C
-SkipInput, 3
-   4,D,C
-   1,L,D,X
-SkipInput, 3
-   4,L,D,X
+   1,R,J
+   1,R,K
 EndStunPause
-   5,R,J
+  10,R,K
+   1,J
+   1,R,K,G
+  12,R,J,G
    4,K,G
-   2,L,K
+   2
+
   31,L,J
   15,U,X
   23,D
    5,R,Z
-  17,L
-   5,D,X
+  19,L
+   5,D,Z
    5,L,C
-   5,L,X
-   5,L,D,C
+   5,L,D,X
    1,R,J
    9,R
    5,R,D,X
@@ -184,6 +172,10 @@ EndStunPause
    1,R,K,G
    1,R,J,G
   78,R,J
+
+# spinner cycle
+#   1
+
    5,R,K
    5,R,D,X
 
@@ -232,8 +224,11 @@ EndStunPause
   13,L,J
    6,R,U,X
    1,R,J,G
-# this stall is for spinners
+# this stall is for spinners deloading
   16,G
+# this one is a spinner cycle
+   1,G
+
    1
    5,R,J
   10,R,D,Z
@@ -301,4 +296,4 @@ EndStunPause
    1,L,J
   85,L
 
-ChapterTime: 0:36.431(2143)
+ChapterTime: 0:34.527(2031)

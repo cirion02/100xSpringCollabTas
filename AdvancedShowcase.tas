@@ -1,0 +1,19 @@
+unsafe
+
+Read, Menuing/StartFile
+
+Read, Other/prologue, Start
+ 180
+  11
+   1,R
+  11
+   1,R
+  11
+   1,J
+  21
+   1,J
+  47
+
+Read, AdvancedLobby, Start
+Read, Menuing/RtmFromLobby
+Read, Menuing/ViewJournal

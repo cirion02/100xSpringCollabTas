@@ -96,6 +96,7 @@ console load SpringCollab2020/3-Advanced/Tortoise
   43
 
 #lvl_Tortoise_2 (2)
+
    1,S
    1,D,J
   72,O
@@ -112,23 +113,22 @@ console load SpringCollab2020/3-Advanced/Tortoise
    1,D,J
   72,O
 
-   5,L,J
-   5,L,X
+   5,L,J,Z
+   7,L
+   2,L,J
+   8,L
+   5,L,Z
 
   46
 
 #lvl_Tortoise_2 (3)
-   1
-  12,L
-   5,L,J,Z
-   6,L
+   3,L,J
 
   46
 
 #lvl_BTortoise_B1 (1)
-   1,L
-   1,R,J
-   7,L,J
+   3,L,J
+   5,K
    6,L,U,X
    1,R,J
    3,R,K
@@ -183,7 +183,9 @@ console load SpringCollab2020/3-Advanced/Tortoise
    5,R,J,G
    2,G
    5,R,Z
+
   58
+
   12,J
    3,K
    6,L,U,X
@@ -229,6 +231,7 @@ console load SpringCollab2020/3-Advanced/Tortoise
   15,R,X
    8,J
   14,L,D,X
+
    1,S
    1,D,J
   69,O
@@ -239,10 +242,10 @@ console load SpringCollab2020/3-Advanced/Tortoise
 
 #lvl_Tortoise_5 (1)
    7
-   5,U,X
-  10
-   5,L,X
-  60,G
+  15,U,X
+   5,L,C
+   1,J,G
+  51,G
    5
    5,L,X
   21
@@ -277,4 +280,4 @@ console load SpringCollab2020/3-Advanced/Tortoise
 
  135
 
-ChapterTime: 0:46.291(2723)
+ChapterTime: 0:46.121(2713)
