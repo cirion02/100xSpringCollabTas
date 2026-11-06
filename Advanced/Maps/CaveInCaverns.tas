@@ -47,12 +47,12 @@ console load SpringCollab2020/3-Advanced/Spoopy
   10
    5,R,U,X
    1,J,G
-  16,D
-   5,R,Z
+  14,D
+   6,R,Z
   40
 
 #lvl_spoopy_03
-   2,R,J
+   1,R,J
    5,R,X
    1,L,J
    1,L,K
@@ -318,4 +318,4 @@ EndRepeat
 
  135
 
-ChapterTime: 0:42.806(2518)
+ChapterTime: 0:42.772(2516)
