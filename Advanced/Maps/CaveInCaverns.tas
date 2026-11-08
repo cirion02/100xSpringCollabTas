@@ -232,7 +232,9 @@ console load SpringCollab2020/3-Advanced/Spoopy
 
 #lvl_spoopy_06 (0)
    1,J,G
-  39,D
+  26,D
+  10,R,D,X
+   5,L,J
    5,L,D,X
 
 
@@ -275,7 +277,7 @@ console load SpringCollab2020/3-Advanced/Spoopy
   29
 
 # spinner cycle
-   0
+   1
 
    6,R,U,X
   15,L,J
