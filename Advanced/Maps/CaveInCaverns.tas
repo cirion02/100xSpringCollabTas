@@ -264,19 +264,19 @@ console load SpringCollab2020/3-Advanced/Spoopy
   15,U,X
   15,L,U,C
    6,R,U,X
+   1,R,J,G
+   3,L
+  14,R,D
+   3,R
+   5,R,U,X
    1,J,G
-***S
-   1
-  16,R,D
-   5,R,Z
-   1,J
-   6
-   1,G
-  20,D
-  15,L,D
-  18,D
-   5,R,X
-  19
+  14,G
+   5,L
+  19,R
+   2,J
+  15,L,D,X
+  15,R,Z
+   3
   15,R,D,X
   15,U,C
   67
@@ -286,7 +286,7 @@ console load SpringCollab2020/3-Advanced/Spoopy
   29
 
 # spinner cycle
-   0
+   1
 
    6,R,U,X
   15,L,J
@@ -318,4 +318,4 @@ console load SpringCollab2020/3-Advanced/Spoopy
 
  135
 
-ChapterTime: 0:39.338(2314)
+ChapterTime: 0:39.168(2304)
