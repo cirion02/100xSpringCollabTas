@@ -261,16 +261,21 @@ console load SpringCollab2020/3-Advanced/Spoopy
    7,R,U,X
    1,J
    3,L
-   5,U,X
-  10,L
   15,U,X
-   6,R,U,C
+  15,L,U,C
+   6,R,U,X
    1,J,G
-  17,D
+***S
+   1
+  16,R,D
    5,R,J,Z
-  27,R,D
-  20,L,D
-  45,D
+   9,R
+   1,G
+  20,D
+  15,L,D
+  17,D
+   5,R,X
+  19
   15,R,D,X
   15,U,C
   67
@@ -311,4 +316,5 @@ console load SpringCollab2020/3-Advanced/Spoopy
    5,R,U,X
 
  135
-ChapterTime: 0:39.525(2325)
+
+ChapterTime: 0:39.372(2316)
