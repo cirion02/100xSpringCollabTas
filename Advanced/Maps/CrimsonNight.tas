@@ -197,51 +197,44 @@ EndRepeat
   18,R,Z
    6,R,U,X
    1,J
-  20,D
-   1
-  14,R,D
-  75,R,J,G
+  19,D
+   1,R,D
+   1,R
+  12,R,D
+   1,D
+   1,R,D
+  70,R,J,G
    5,U,Z
-  63,R,J
-   5,R,K,G
-  10,R
-  11,R,J,G
-  10,R,D,X
-  13,L,J
-   6,R,U,X
-   1,R,J,G
-# this stall is for spinners deloading
-  16,G
-# this one is a spinner cycle
-   0,G
+  28,R,J
+  20,R
+   5,R,Z
+   4,L,K
+Repeat, 6
+   4,X
+   4,C
+EndRepeat
+  15,L,U,X
 
-   1
-   5,R,J
+# spinner cycle
+   2,G
+
   10,R,D,Z
    1,R,J
    1,K
-   1,J
-  27,R,J
-   5,R,X
+  10,R,K
+   1,R
+  10,R,J
+   3,R
   10,J,G
-   6,R,U,X
-   1,L,J
-  32,L,D
-   7,D
-   2
-   5,R
-   5,R,D,X
+  15,R,U,X
+   6,R,D,C
 
   40
 
 #lvl_CookieC_outro (0)
-   2,R,J
-   8,R
-   4,R,Z
-   3,R,J
-  25,R,D
-  15,D,X
-   2,L,J
+   1,L,J
+  20,L,K
+   5,D,X
 
   40
 
@@ -282,4 +275,4 @@ EndRepeat
    1,L,J
   85,L
 
-ChapterTime: 0:33.252(1956)
+ChapterTime: 0:30.991(1823)
