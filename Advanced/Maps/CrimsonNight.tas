@@ -175,8 +175,10 @@ EndRepeat
    1,R,J,G
    9,R,J
    6,R,U,X
-   1,L,J
-  23,L,K
+   1,J,G
+   1,L
+   1,J
+  17,L,K
    6,L,U,X
    1,J
    6,R
@@ -210,7 +212,7 @@ EndRepeat
 # this stall is for spinners deloading
   16,G
 # this one is a spinner cycle
-   0,G
+   1,G
 
    1
    5,R,J
@@ -279,4 +281,4 @@ EndRepeat
    1,L,J
   85,L
 
-ChapterTime: 0:33.405(1965)
+ChapterTime: 0:33.354(1962)
