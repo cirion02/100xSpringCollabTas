@@ -78,7 +78,7 @@ console load SpringCollab2020/3-Advanced/Cookie
 
 #lvl_CookieC_4 (0)
 # spinner cycle
-   1
+   0
 
    1
    1,J
@@ -89,90 +89,72 @@ console load SpringCollab2020/3-Advanced/Cookie
    7,L,D
    4,L
    2,R
-   4,L,Z
-   1,L,J
-   7,R
-   1,L,J
-   6,R,J
+   3,J
+   5,L,Z
 
   40
 
 #lvl_CookieC_S1
-   5,L,X
-   2,L,J
-   5,L,U,X
-   5,L,D,Z
-   1,L,J
-   5,L,X
-   5,L,C
-   6,L,U,X
-   1,J,G
-   2,R,J
-   1,K
-   5,L,K
-   4,R,K
-   3,L,K
-   5,L,X
-   1,J
-   1,K,G
-   3,R,K
-   4,L,U,X
-StunPause
-   1,L,U
-SkipInput, 3
-  10,L,D,C
    1,R,J
-EndStunPause
-   4,R,J
-   5,U,Z
-   1,R,J,G
-   1,R,K,G
-  23,R,K
-   1,J,G
-   2,L,J
-  10,L,K
 Repeat, 3
-   5,L,U,X
-   5,L,U,C
+   4,X
+   4,C
 EndRepeat
-   5,L,D,X
-   1,R,J
-   5,L,X
-   5,L,Z
-StunPause
-   1,R,J
-   1,R,K
-EndStunPause
-  10,R,K
-   1,J
-   1,R,K,G
-  12,R,J,G
-   4,K,G
-   2
-
-  31,L,J
-  15,U,X
-  23,D
-   5,R,Z
-  19,L
-   5,D,Z
-   5,L,C
-   5,L,D,X
-   1,R,J
-   9,R
-   5,R,D,X
+   4,X
+   5,L,D,C
    1,L,J
+   4,X
+   4,C
+   6,L,U,Z
+   1,J
+  12,R,K
+   5,L,X
+   5,J
+   4,X
+   4,C
+   6,L,D,X
+   1,J
+   1,K
+  13,R,J
+   1
+   5,U,Z
+   1,J
+  24,R,K,G
+  12,L,J
+Repeat, 3
+   4,X
+   4,C
+EndRepeat
+  15
+   5,L,D,X
+   1,R,J
+   4,X
+   4,Z
+   5,L,X
+  12,J
+   5,R,K,G
+   9,L,J
    7,L
-   2,L,J
-   5,R,U,X
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-  78,R,J
+   3,L,J,G
+   5,J
+   3,L,J
+   5,U,Z
+   4,J
+   9,R,K,G
+  15,U,X
+   8
+  11,R
+   3,R,D
+   1,R,G
+   1,R,J
+  31,R,D
+   4,X
+   4,C
+  15,U,X
+   6,R,D,C
+   1,J
+   4,L
+  96
 
 # spinner cycle
 #   1
@@ -228,7 +210,7 @@ EndStunPause
 # this stall is for spinners deloading
   16,G
 # this one is a spinner cycle
-   1,G
+   0,G
 
    1
    5,R,J
@@ -297,4 +279,4 @@ EndStunPause
    1,L,J
   85,L
 
-ChapterTime: 0:34.374(2022)
+ChapterTime: 0:33.405(1965)
