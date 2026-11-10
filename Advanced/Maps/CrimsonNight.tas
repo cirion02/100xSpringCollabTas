@@ -25,9 +25,7 @@ console load SpringCollab2020/3-Advanced/Cookie
    3
    4
    6,R,D,X
-   1,R,J
-   1,L
-   1,R
+   2,R,K
    3,J,G
    3,L,J
    1,R,J
@@ -79,7 +77,10 @@ console load SpringCollab2020/3-Advanced/Cookie
   40
 
 #lvl_CookieC_4 (0)
-   1,R
+# spinner cycle
+   1
+
+   1
    1,J
    3,R,J
    6,L,J
