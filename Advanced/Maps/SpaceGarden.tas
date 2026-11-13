@@ -1,5 +1,5 @@
 #Created by Cirion02
-#Optimised by Jules
+#Optimised by Jules and Random_Name7190
 
 console load SpringCollab2020/3-Advanced/Dozing
    1
@@ -70,7 +70,6 @@ console load SpringCollab2020/3-Advanced/Dozing
   12,R
   26
   24,L,X
-***S
    5,L,Z
    5,R,J
   40
@@ -117,10 +116,12 @@ EndStunPause
   72,O
 
    6,L,U,Z
-  10,R,J
-   9,R
-  16,R,J,Z
+   1,J,G
+   2,R
+   7,R,J
+   8,R
+  16,R,K,Z
    5,R,U,X
  135,L,J
 
-ChapterTime: 0:25.857(1521)
+ChapterTime: 0:25.840(1520)
