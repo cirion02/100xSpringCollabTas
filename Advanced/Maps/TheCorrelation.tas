@@ -121,7 +121,6 @@ console load SpringCollab2020/3-Advanced/orbittwz
    5,L,U,Z
    2,J
   12,R,K,G
-***S
    8,J
    5
    1,J
@@ -138,9 +137,9 @@ console load SpringCollab2020/3-Advanced/orbittwz
    1,R,J
    4,L,J
    1,L,K,G
-   8,L,J,G
-   5,U,Z
-  11,R,J
+   6,L,J,G
+   6,U,X
+   9,R,J
    5,R,D,X
    1,L,J
    7,L
@@ -165,4 +164,4 @@ console load SpringCollab2020/3-Advanced/orbittwz
 
  135
 
-ChapterTime: 0:20.808(1224)
+ChapterTime: 0:20.757(1221)
